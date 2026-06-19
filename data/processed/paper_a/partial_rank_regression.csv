@@ -1,0 +1,5 @@
+source,vintage_year,n_complete_case,beta_index_rank,beta_ci_low,beta_ci_high,residual_spearman_rho,residual_spearman_ci_low,residual_spearman_ci_high,r2_controls_only,r2_full,delta_r2,control_columns,condition_number,sensitivity_n,sensitivity_beta_index,sensitivity_delta_r2,seed,bootstrap_draws
+GCI,2017,50,-0.3728,-0.7248,0.0233,-0.2656,-0.5563,0.0507,0.1306,0.2083,0.0777,log_gdp_pc|log_pop|internet_pct,3382.38,50,-0.288,0.0413,42,2000
+GCI,2020,41,-0.4331,-0.7979,0.0351,-0.2488,-0.5766,0.0858,0.2842,0.3714,0.0872,log_gdp_pc|log_pop|internet_pct,3919.37,41,-0.4143,0.0793,42,2000
+GCI,2024,42,-0.0295,-0.3768,0.3502,0.0797,-0.3089,0.3748,0.2827,0.2832,0.0005,log_gdp_pc|log_pop|internet_pct,3138.1,42,0.0039,0.0,42,2000
+NCSI,2026,37,0.2817,-0.1191,0.5943,0.2596,-0.1289,0.5401,0.1969,0.2516,0.0547,log_gdp_pc|log_pop|internet_pct,2922.5,37,0.2973,0.0604,42,2000

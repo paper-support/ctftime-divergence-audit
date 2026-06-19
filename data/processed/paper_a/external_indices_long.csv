@@ -1,0 +1,690 @@
+iso2,iso3,canonical_name,source,vintage_year,score_raw,scale_note,rank_in_vintage,n_in_vintage,percentile_rank,is_sovereign_like
+SG,SGP,Singapore,GCI,2017,0.925,0-1 cardinal,1,195,100.0,1
+US,USA,United States,GCI,2017,0.919,0-1 cardinal,2,195,99.48,1
+MY,MYS,Malaysia,GCI,2017,0.893,0-1 cardinal,3,195,98.97,1
+OM,OMN,Oman,GCI,2017,0.871,0-1 cardinal,4,195,98.45,1
+EE,EST,Estonia,GCI,2017,0.846,0-1 cardinal,5,195,97.94,1
+MU,MUS,Mauritius,GCI,2017,0.83,0-1 cardinal,6,195,97.42,1
+AU,AUS,Australia,GCI,2017,0.824,0-1 cardinal,7,195,96.91,1
+GE,GEO,Georgia,GCI,2017,0.819,0-1 cardinal,8,195,96.13,1
+FR,FRA,France,GCI,2017,0.819,0-1 cardinal,8,195,96.13,1
+CA,CAN,Canada,GCI,2017,0.818,0-1 cardinal,9,195,95.36,1
+RU,RUS,Russian Federation,GCI,2017,0.788,0-1 cardinal,10,195,94.85,1
+JP,JPN,Japan,GCI,2017,0.786,0-1 cardinal,11,195,94.07,1
+NO,NOR,Norway,GCI,2017,0.786,0-1 cardinal,11,195,94.07,1
+GB,GBR,United Kingdom,GCI,2017,0.783,0-1 cardinal,12,195,93.3,1
+KR,KOR,South Korea,GCI,2017,0.782,0-1 cardinal,13,195,92.78,1
+EG,EGY,Egypt,GCI,2017,0.772,0-1 cardinal,14,195,92.27,1
+NL,NLD,Netherlands,GCI,2017,0.76,0-1 cardinal,15,195,91.75,1
+FI,FIN,Finland,GCI,2017,0.741,0-1 cardinal,16,195,91.24,1
+SE,SWE,Sweden,GCI,2017,0.733,0-1 cardinal,17,195,90.72,1
+CH,CHE,Switzerland,GCI,2017,0.727,0-1 cardinal,18,195,90.21,1
+NZ,NZL,New Zealand,GCI,2017,0.718,0-1 cardinal,19,195,89.69,1
+TH,THA,Thailand,GCI,2017,0.684,0-1 cardinal,20,195,88.14,1
+IL,ISR,Israel,GCI,2017,0.691,0-1 cardinal,20,195,89.18,1
+LV,LVA,Latvia,GCI,2017,0.688,0-1 cardinal,21,195,88.66,1
+IN,IND,India,GCI,2017,0.683,0-1 cardinal,23,195,87.63,1
+DE,DEU,Germany,GCI,2017,0.679,0-1 cardinal,24,195,87.11,1
+QA,QAT,Qatar,GCI,2017,0.676,0-1 cardinal,25,195,86.6,1
+IE,IRL,Ireland,GCI,2017,0.675,0-1 cardinal,26,195,86.08,1
+BE,BEL,Belgium,GCI,2017,0.671,0-1 cardinal,27,195,85.57,1
+MX,MEX,Mexico,GCI,2017,0.66,0-1 cardinal,28,195,85.05,1
+UY,URY,Uruguay,GCI,2017,0.647,0-1 cardinal,29,195,84.54,1
+AT,AUT,Austria,GCI,2017,0.639,0-1 cardinal,30,195,84.02,1
+IT,ITA,Italy,GCI,2017,0.626,0-1 cardinal,31,195,83.51,1
+CN,CHN,China,GCI,2017,0.624,0-1 cardinal,32,195,82.99,1
+PL,POL,Poland,GCI,2017,0.622,0-1 cardinal,33,195,82.47,1
+DK,DNK,Denmark,GCI,2017,0.617,0-1 cardinal,34,195,81.96,1
+CZ,CZE,Czechia,GCI,2017,0.609,0-1 cardinal,35,195,81.44,1
+RW,RWA,Rwanda,GCI,2017,0.602,0-1 cardinal,36,195,80.67,1
+LU,LUX,Luxembourg,GCI,2017,0.602,0-1 cardinal,36,195,80.67,1
+PH,PHL,Philippines,GCI,2017,0.594,0-1 cardinal,37,195,79.9,1
+BR,BRA,Brazil,GCI,2017,0.593,0-1 cardinal,38,195,79.38,1
+BY,BLR,Belarus,GCI,2017,0.592,0-1 cardinal,39,195,78.87,1
+TN,TUN,Tunisia,GCI,2017,0.591,0-1 cardinal,40,195,78.35,1
+HR,HRV,Croatia,GCI,2017,0.59,0-1 cardinal,41,195,77.84,1
+RO,ROU,Romania,GCI,2017,0.585,0-1 cardinal,42,195,77.32,1
+TR,TUR,Türkiye,GCI,2017,0.581,0-1 cardinal,43,195,76.8,1
+BG,BGR,Bulgaria,GCI,2017,0.579,0-1 cardinal,44,195,76.29,1
+KE,KEN,Kenya,GCI,2017,0.574,0-1 cardinal,45,195,75.77,1
+NG,NGA,Nigeria,GCI,2017,0.569,0-1 cardinal,46,195,74.74,1
+CO,COL,Colombia,GCI,2017,0.569,0-1 cardinal,46,195,74.74,1
+SA,SAU,Saudi Arabia,GCI,2017,0.569,0-1 cardinal,46,195,74.74,1
+AE,ARE,United Arab Emirates,GCI,2017,0.566,0-1 cardinal,47,195,73.71,1
+AZ,AZE,Azerbaijan,GCI,2017,0.559,0-1 cardinal,48,195,73.2,1
+MA,MAR,Morocco,GCI,2017,0.541,0-1 cardinal,49,195,72.68,1
+UG,UGA,Uganda,GCI,2017,0.536,0-1 cardinal,50,195,72.16,1
+HU,HUN,Hungary,GCI,2017,0.534,0-1 cardinal,51,195,71.65,1
+KP,PRK,North Korea,GCI,2017,0.532,0-1 cardinal,52,195,71.13,1
+BN,BRN,Brunei Darussalam,GCI,2017,0.524,0-1 cardinal,53,195,70.36,1
+BD,BGD,Bangladesh,GCI,2017,0.524,0-1 cardinal,53,195,70.36,1
+ES,ESP,Spain,GCI,2017,0.519,0-1 cardinal,54,195,69.59,1
+MK,MKD,North Macedonia,GCI,2017,0.517,0-1 cardinal,55,195,69.07,1
+PT,PRT,Portugal,GCI,2017,0.508,0-1 cardinal,56,195,68.56,1
+LT,LTU,Lithuania,GCI,2017,0.504,0-1 cardinal,57,195,68.04,1
+ZA,ZAF,South Africa,GCI,2017,0.502,0-1 cardinal,58,195,67.53,1
+UA,UKR,Ukraine,GCI,2017,0.501,0-1 cardinal,59,195,67.01,1
+IR,IRN,Iran,GCI,2017,0.494,0-1 cardinal,60,195,66.49,1
+CY,CYP,Cyprus,GCI,2017,0.487,0-1 cardinal,61,195,65.98,1
+PA,PAN,Panama,GCI,2017,0.485,0-1 cardinal,62,195,65.46,1
+AR,ARG,Argentina,GCI,2017,0.482,0-1 cardinal,63,195,64.95,1
+GR,GRC,Greece,GCI,2017,0.475,0-1 cardinal,64,195,64.43,1
+BH,BHR,Bahrain,GCI,2017,0.467,0-1 cardinal,65,195,63.92,1
+EC,ECU,Ecuador,GCI,2017,0.466,0-1 cardinal,66,195,63.4,1
+PK,PAK,Pakistan,GCI,2017,0.447,0-1 cardinal,67,195,62.89,1
+DZ,DZA,Algeria,GCI,2017,0.432,0-1 cardinal,68,195,62.37,1
+BW,BWA,Botswana,GCI,2017,0.43,0-1 cardinal,69,195,61.86,1
+ID,IDN,Indonesia,GCI,2017,0.424,0-1 cardinal,70,195,61.34,1
+ME,MNE,Montenegro,GCI,2017,0.422,0-1 cardinal,71,195,60.82,1
+LK,LKA,Sri Lanka,GCI,2017,0.419,0-1 cardinal,72,195,60.31,1
+MD,MDA,Moldova,GCI,2017,0.418,0-1 cardinal,73,195,59.79,1
+CI,CIV,Côte d'Ivoire,GCI,2017,0.416,0-1 cardinal,74,195,59.28,1
+CM,CMR,Cameroon,GCI,2017,0.413,0-1 cardinal,75,195,58.76,1
+MT,MLT,Malta,GCI,2017,0.399,0-1 cardinal,76,195,58.25,1
+LA,LAO,Laos,GCI,2017,0.392,0-1 cardinal,77,195,57.73,1
+IS,ISL,Iceland,GCI,2017,0.384,0-1 cardinal,78,195,57.22,1
+PE,PER,Peru,GCI,2017,0.374,0-1 cardinal,79,195,56.7,1
+VE,VEN,Venezuela,GCI,2017,0.372,0-1 cardinal,80,195,56.19,1
+CL,CHL,Chile,GCI,2017,0.367,0-1 cardinal,81,195,55.67,1
+SK,SVK,Slovakia,GCI,2017,0.362,0-1 cardinal,82,195,55.15,1
+KZ,KAZ,Kazakhstan,GCI,2017,0.352,0-1 cardinal,83,195,54.64,1
+SI,SVN,Slovenia,GCI,2017,0.343,0-1 cardinal,84,195,54.12,1
+JM,JAM,Jamaica,GCI,2017,0.339,0-1 cardinal,85,195,53.61,1
+CR,CRI,Costa Rica,GCI,2017,0.336,0-1 cardinal,86,195,53.09,1
+GH,GHA,Ghana,GCI,2017,0.326,0-1 cardinal,87,195,52.32,1
+PY,PRY,Paraguay,GCI,2017,0.326,0-1 cardinal,87,195,52.32,1
+TZ,TZA,Tanzania,GCI,2017,0.317,0-1 cardinal,88,195,51.55,1
+SN,SEN,Senegal,GCI,2017,0.314,0-1 cardinal,89,195,50.77,1
+AL,ALB,Albania,GCI,2017,0.314,0-1 cardinal,89,195,50.77,1
+RS,SRB,Serbia,GCI,2017,0.311,0-1 cardinal,90,195,50.0,1
+ZM,ZMB,Zambia,GCI,2017,0.292,0-1 cardinal,91,195,48.97,1
+TJ,TJK,Tajikistan,GCI,2017,0.292,0-1 cardinal,91,195,48.97,1
+TO,TON,Tonga,GCI,2017,0.292,0-1 cardinal,91,195,48.97,1
+KH,KHM,Cambodia,GCI,2017,0.283,0-1 cardinal,92,195,47.94,1
+JO,JOR,Jordan,GCI,2017,0.277,0-1 cardinal,93,195,47.16,1
+UZ,UZB,Uzbekistan,GCI,2017,0.277,0-1 cardinal,93,195,47.16,1
+NP,NPL,Nepal,GCI,2017,0.275,0-1 cardinal,94,195,46.39,1
+BB,BRB,Barbados,GCI,2017,0.273,0-1 cardinal,95,195,45.88,1
+SD,SDN,Sudan,GCI,2017,0.271,0-1 cardinal,96,195,45.36,1
+KG,KGZ,Kyrgyzstan,GCI,2017,0.27,0-1 cardinal,97,195,44.85,1
+GY,GUY,Guyana,GCI,2017,0.269,0-1 cardinal,98,195,44.33,1
+ET,ETH,Ethiopia,GCI,2017,0.267,0-1 cardinal,99,195,43.81,1
+MM,MMR,Myanmar,GCI,2017,0.263,0-1 cardinal,100,195,43.3,1
+VN,VNM,Vietnam,GCI,2017,0.245,0-1 cardinal,101,195,42.53,1
+AF,AFG,Afghanistan,GCI,2017,0.245,0-1 cardinal,101,195,42.53,1
+SY,SYR,Syria,GCI,2017,0.237,0-1 cardinal,102,195,41.75,1
+MC,MCO,Monaco,GCI,2017,0.236,0-1 cardinal,103,195,41.24,1
+PS,PSE,"Palestine, State of",GCI,2017,0.228,0-1 cardinal,104,195,40.46,0
+MN,MNG,Mongolia,GCI,2017,0.228,0-1 cardinal,104,195,40.46,1
+LY,LBY,Libya,GCI,2017,0.224,0-1 cardinal,105,195,39.69,1
+FJ,FJI,Fiji,GCI,2017,0.222,0-1 cardinal,106,195,39.18,1
+TG,TGO,Togo,GCI,2017,0.218,0-1 cardinal,107,195,38.66,1
+BF,BFA,Burkina Faso,GCI,2017,0.208,0-1 cardinal,108,195,37.89,1
+SV,SLV,El Salvador,GCI,2017,0.208,0-1 cardinal,108,195,37.89,1
+MZ,MOZ,Mozambique,GCI,2017,0.206,0-1 cardinal,109,195,37.11,1
+BT,BTN,Bhutan,GCI,2017,0.199,0-1 cardinal,110,195,36.6,1
+AM,ARM,Armenia,GCI,2017,0.196,0-1 cardinal,111,195,36.08,1
+LI,LIE,Liechtenstein,GCI,2017,0.194,0-1 cardinal,112,195,35.57,1
+ZW,ZWE,Zimbabwe,GCI,2017,0.192,0-1 cardinal,113,195,35.05,1
+VC,VCT,Saint Vincent and the Grenadines,GCI,2017,0.189,0-1 cardinal,114,195,34.54,1
+SC,SYC,Seychelles,GCI,2017,0.184,0-1 cardinal,115,195,34.02,1
+BZ,BLZ,Belize,GCI,2017,0.182,0-1 cardinal,116,195,33.51,1
+AG,ATG,Antigua and Barbuda,GCI,2017,0.179,0-1 cardinal,117,195,32.99,1
+SM,SMR,San Marino,GCI,2017,0.174,0-1 cardinal,118,195,32.47,1
+LB,LBN,Lebanon,GCI,2017,0.172,0-1 cardinal,119,195,31.96,1
+NE,NER,Niger,GCI,2017,0.17,0-1 cardinal,120,195,31.44,1
+MG,MDG,Madagascar,GCI,2017,0.168,0-1 cardinal,121,195,30.93,1
+DO,DOM,Dominican Republic,GCI,2017,0.162,0-1 cardinal,122,195,30.41,1
+LR,LBR,Liberia,GCI,2017,0.149,0-1 cardinal,124,195,29.38,1
+NI,NIC,Nicaragua,GCI,2017,0.146,0-1 cardinal,125,195,28.61,1
+MR,MRT,Mauritania,GCI,2017,0.146,0-1 cardinal,125,195,28.61,1
+SL,SLE,Sierra Leone,GCI,2017,0.145,0-1 cardinal,126,195,27.84,1
+NR,NRU,Nauru,GCI,2017,0.14,0-1 cardinal,127,195,27.32,1
+GA,GAB,Gabon,GCI,2017,0.139,0-1 cardinal,128,195,26.8,1
+BS,BHS,Bahamas,GCI,2017,0.137,0-1 cardinal,129,195,26.29,1
+GM,GMB,Gambia,GCI,2017,0.136,0-1 cardinal,130,195,25.77,1
+VU,VUT,Vanuatu,GCI,2017,0.134,0-1 cardinal,131,195,25.26,1
+SR,SUR,Suriname,GCI,2017,0.155,0-1 cardinal,132,195,29.9,1
+TM,TKM,Turkmenistan,GCI,2017,0.133,0-1 cardinal,132,195,24.74,1
+KI,KIR,Kiribati,GCI,2017,0.123,0-1 cardinal,133,195,24.23,1
+BO,BOL,Bolivia,GCI,2017,0.122,0-1 cardinal,134,195,23.71,1
+BI,BDI,Burundi,GCI,2017,0.12,0-1 cardinal,135,195,23.2,1
+BA,BIH,Bosnia and Herzegovina,GCI,2017,0.116,0-1 cardinal,136,195,22.68,1
+GD,GRD,Grenada,GCI,2017,0.115,0-1 cardinal,137,195,22.16,1
+GT,GTM,Guatemala,GCI,2017,0.114,0-1 cardinal,138,195,21.65,1
+KW,KWT,Kuwait,GCI,2017,0.104,0-1 cardinal,139,195,21.13,1
+DJ,DJI,Djibouti,GCI,2017,0.099,0-1 cardinal,140,195,20.62,1
+TT,TTO,Trinidad and Tobago,GCI,2017,0.098,0-1 cardinal,141,195,20.1,1
+SB,SLB,Solomon Islands,GCI,2017,0.095,0-1 cardinal,142,195,19.59,1
+LS,LSO,Lesotho,GCI,2017,0.094,0-1 cardinal,143,195,19.07,1
+GN,GIN,Guinea,GCI,2017,0.09,0-1 cardinal,144,195,18.56,1
+MW,MWI,Malawi,GCI,2017,0.084,0-1 cardinal,145,195,18.04,1
+AO,AGO,Angola,GCI,2017,0.078,0-1 cardinal,146,195,17.53,1
+ER,ERI,Eritrea,GCI,2017,0.076,0-1 cardinal,147,195,17.01,1
+TD,TCD,Chad,GCI,2017,0.072,0-1 cardinal,148,195,16.49,1
+BJ,BEN,Benin,GCI,2017,0.069,0-1 cardinal,149,195,15.98,1
+SS,SSD,South Sudan,GCI,2017,0.067,0-1 cardinal,150,195,15.21,1
+PG,PNG,Papua New Guinea,GCI,2017,0.067,0-1 cardinal,150,195,15.21,1
+NA,NAM,Namibia,GCI,2017,0.066,0-1 cardinal,151,195,14.18,1
+KN,KNA,Saint Kitts and Nevis,GCI,2017,0.066,0-1 cardinal,151,195,14.18,1
+ML,MLI,Mali,GCI,2017,0.06,0-1 cardinal,152,195,13.4,1
+CV,CPV,Cabo Verde,GCI,2017,0.058,0-1 cardinal,153,195,12.63,1
+CU,CUB,Cuba,GCI,2017,0.058,0-1 cardinal,153,195,12.63,1
+AD,AND,Andorra,GCI,2017,0.057,0-1 cardinal,154,195,11.86,1
+MV,MDV,Maldives,GCI,2017,0.056,0-1 cardinal,155,195,11.34,1
+LC,LCA,Saint Lucia,GCI,2017,0.053,0-1 cardinal,156,195,10.57,1
+PW,PLW,Palau,GCI,2017,0.053,0-1 cardinal,156,195,10.57,1
+HN,HND,Honduras,GCI,2017,0.048,0-1 cardinal,157,195,9.28,1
+WS,WSM,Samoa,GCI,2017,0.048,0-1 cardinal,157,195,9.28,1
+MH,MHL,Marshall Islands,GCI,2017,0.048,0-1 cardinal,157,195,9.28,1
+FM,FSM,"Micronesia, Federated States of",GCI,2017,0.044,0-1 cardinal,158,195,8.25,1
+IQ,IRQ,Iraq,GCI,2017,0.043,0-1 cardinal,159,195,7.73,1
+SZ,SWZ,Eswatini,GCI,2017,0.041,0-1 cardinal,160,195,7.22,1
+CG,COG,Congo,GCI,2017,0.04,0-1 cardinal,161,195,5.41,1
+CD,COD,"Congo, The Democratic Republic of the",GCI,2017,0.04,0-1 cardinal,161,195,5.41,1
+ST,STP,Sao Tome and Principe,GCI,2017,0.04,0-1 cardinal,161,195,5.41,1
+HT,HTI,Haiti,GCI,2017,0.04,0-1 cardinal,161,195,5.41,1
+KM,COM,Comoros,GCI,2017,0.04,0-1 cardinal,161,195,5.41,1
+VA,VAT,Holy See (Vatican City State),GCI,2017,0.04,0-1 cardinal,161,195,5.41,1
+GW,GNB,Guinea-Bissau,GCI,2017,0.034,0-1 cardinal,162,195,2.84,1
+SO,SOM,Somalia,GCI,2017,0.034,0-1 cardinal,162,195,2.84,1
+TL,TLS,Timor-Leste,GCI,2017,0.034,0-1 cardinal,162,195,2.84,1
+TV,TUV,Tuvalu,GCI,2017,0.034,0-1 cardinal,162,195,2.84,1
+DM,DMA,Dominica,GCI,2017,0.01,0-1 cardinal,163,195,1.55,1
+CF,CAF,Central African Republic,GCI,2017,0.007,0-1 cardinal,164,195,0.77,1
+YE,YEM,Yemen,GCI,2017,0.007,0-1 cardinal,164,195,0.77,1
+GQ,GNQ,Equatorial Guinea,GCI,2017,0.0,0-1 cardinal,165,195,0.0,1
+US,USA,United States,GCI,2020,100.0,0-100 cardinal,1,153,100.0,1
+GB,GBR,United Kingdom,GCI,2020,99.54,0-100 cardinal,2,153,99.01,1
+SA,SAU,Saudi Arabia,GCI,2020,99.54,0-100 cardinal,2,153,99.01,1
+EE,EST,Estonia,GCI,2020,99.48,0-100 cardinal,3,153,98.03,1
+KR,KOR,South Korea,GCI,2020,98.52,0-100 cardinal,4,153,96.71,1
+SG,SGP,Singapore,GCI,2020,98.52,0-100 cardinal,4,153,96.71,1
+ES,ESP,Spain,GCI,2020,98.52,0-100 cardinal,4,153,96.71,1
+RU,RUS,Russian Federation,GCI,2020,98.06,0-100 cardinal,5,153,94.74,1
+AE,ARE,United Arab Emirates,GCI,2020,98.06,0-100 cardinal,5,153,94.74,1
+MY,MYS,Malaysia,GCI,2020,98.06,0-100 cardinal,5,153,94.74,1
+LT,LTU,Lithuania,GCI,2020,97.93,0-100 cardinal,6,153,93.42,1
+ID,IDN,Indonesia,GCI,2020,94.88,0-100 cardinal,6,153,81.58,1
+JP,JPN,Japan,GCI,2020,97.82,0-100 cardinal,7,153,92.76,1
+KG,KGZ,Kyrgyzstan,GCI,2020,49.64,0-100 cardinal,7,153,38.82,1
+CA,CAN,Canada,GCI,2020,97.67,0-100 cardinal,8,153,92.11,1
+FR,FRA,France,GCI,2020,97.6,0-100 cardinal,9,153,91.45,1
+IN,IND,India,GCI,2020,97.5,0-100 cardinal,10,153,90.79,1
+TR,TUR,Türkiye,GCI,2020,97.49,0-100 cardinal,11,153,90.13,1
+AU,AUS,Australia,GCI,2020,97.47,0-100 cardinal,12,153,89.47,1
+IR,IRN,Iran,GCI,2020,81.06,0-100 cardinal,12,153,62.17,1
+LU,LUX,Luxembourg,GCI,2020,97.41,0-100 cardinal,13,153,88.49,1
+DE,DEU,Germany,GCI,2020,97.41,0-100 cardinal,13,153,88.49,1
+PT,PRT,Portugal,GCI,2020,97.32,0-100 cardinal,14,153,87.5,1
+LV,LVA,Latvia,GCI,2020,97.28,0-100 cardinal,15,153,86.84,1
+MU,MUS,Mauritius,GCI,2020,96.89,0-100 cardinal,17,153,86.18,1
+BR,BRA,Brazil,GCI,2020,96.6,0-100 cardinal,18,153,85.53,1
+BE,BEL,Belgium,GCI,2020,96.25,0-100 cardinal,19,153,84.87,1
+IT,ITA,Italy,GCI,2020,96.13,0-100 cardinal,20,153,84.21,1
+OM,OMN,Oman,GCI,2020,96.04,0-100 cardinal,21,153,83.55,1
+FI,FIN,Finland,GCI,2020,95.78,0-100 cardinal,22,153,82.89,1
+EG,EGY,Egypt,GCI,2020,95.48,0-100 cardinal,23,153,82.24,1
+MG,MDG,Madagascar,GCI,2020,23.33,0-100 cardinal,24,153,22.37,1
+MK,MKD,North Macedonia,GCI,2020,89.92,0-100 cardinal,24,153,72.04,1
+VN,VNM,Vietnam,GCI,2020,94.59,0-100 cardinal,25,153,80.92,1
+LA,LAO,Laos,GCI,2020,20.34,0-100 cardinal,25,153,21.05,1
+SE,SWE,Sweden,GCI,2020,94.55,0-100 cardinal,26,153,80.26,1
+QA,QAT,Qatar,GCI,2020,94.5,0-100 cardinal,27,153,79.61,1
+KN,KNA,Saint Kitts and Nevis,GCI,2020,12.44,0-100 cardinal,27,153,10.53,1
+GR,GRC,Greece,GCI,2020,93.98,0-100 cardinal,28,153,78.95,1
+AT,AUT,Austria,GCI,2020,93.89,0-100 cardinal,29,153,78.29,1
+PL,POL,Poland,GCI,2020,93.86,0-100 cardinal,30,153,77.63,1
+BZ,BLZ,Belize,GCI,2020,10.29,0-100 cardinal,30,153,7.89,1
+KZ,KAZ,Kazakhstan,GCI,2020,93.15,0-100 cardinal,31,153,76.97,1
+DK,DNK,Denmark,GCI,2020,92.6,0-100 cardinal,32,153,76.32,1
+NI,NIC,Nicaragua,GCI,2020,9.0,0-100 cardinal,32,153,4.61,1
+CN,CHN,China,GCI,2020,92.53,0-100 cardinal,33,153,75.33,1
+HR,HRV,Croatia,GCI,2020,92.53,0-100 cardinal,33,153,75.33,1
+SK,SVK,Slovakia,GCI,2020,92.36,0-100 cardinal,34,153,74.34,1
+HU,HUN,Hungary,GCI,2020,91.28,0-100 cardinal,35,153,73.68,1
+TZ,TZA,Tanzania,GCI,2020,90.58,0-100 cardinal,37,153,73.03,1
+MK,MKD,North Macedonia,GCI,2020,89.92,0-100 cardinal,38,153,72.04,1
+RS,SRB,Serbia,GCI,2020,89.8,0-100 cardinal,39,153,71.05,1
+AZ,AZE,Azerbaijan,GCI,2020,89.31,0-100 cardinal,40,153,70.39,1
+CY,CYP,Cyprus,GCI,2020,88.82,0-100 cardinal,41,153,69.74,1
+GH,GHA,Ghana,GCI,2020,86.69,0-100 cardinal,43,153,69.08,1
+TH,THA,Thailand,GCI,2020,86.5,0-100 cardinal,44,153,68.42,1
+TN,TUN,Tunisia,GCI,2020,86.23,0-100 cardinal,45,153,67.76,1
+IE,IRL,Ireland,GCI,2020,85.86,0-100 cardinal,46,153,67.11,1
+NG,NGA,Nigeria,GCI,2020,84.76,0-100 cardinal,47,153,66.45,1
+MT,MLT,Malta,GCI,2020,83.65,0-100 cardinal,49,153,65.79,1
+MA,MAR,Morocco,GCI,2020,82.41,0-100 cardinal,50,153,65.13,1
+KE,KEN,Kenya,GCI,2020,81.7,0-100 cardinal,51,153,64.47,1
+MX,MEX,Mexico,GCI,2020,81.68,0-100 cardinal,52,153,63.82,1
+BD,BGD,Bangladesh,GCI,2020,81.27,0-100 cardinal,53,153,63.16,1
+GE,GEO,Georgia,GCI,2020,81.06,0-100 cardinal,55,153,62.17,1
+BJ,BEN,Benin,GCI,2020,80.06,0-100 cardinal,56,153,61.18,1
+RW,RWA,Rwanda,GCI,2020,79.95,0-100 cardinal,57,153,60.53,1
+IS,ISL,Iceland,GCI,2020,79.81,0-100 cardinal,58,153,59.87,1
+BH,BHR,Bahrain,GCI,2020,77.86,0-100 cardinal,60,153,59.21,1
+PH,PHL,Philippines,GCI,2020,77.0,0-100 cardinal,61,153,58.55,1
+RO,ROU,Romania,GCI,2020,76.29,0-100 cardinal,62,153,57.89,1
+MD,MDA,Moldova,GCI,2020,75.78,0-100 cardinal,63,153,57.24,1
+UY,URY,Uruguay,GCI,2020,75.15,0-100 cardinal,64,153,56.58,1
+KW,KWT,Kuwait,GCI,2020,75.07,0-100 cardinal,65,153,55.92,1
+DO,DOM,Dominican Republic,GCI,2020,75.05,0-100 cardinal,66,153,55.26,1
+SI,SVN,Slovenia,GCI,2020,74.93,0-100 cardinal,67,153,54.61,1
+CZ,CZE,Czechia,GCI,2020,74.37,0-100 cardinal,68,153,53.95,1
+MC,MCO,Monaco,GCI,2020,72.57,0-100 cardinal,69,153,53.29,1
+UZ,UZB,Uzbekistan,GCI,2020,71.11,0-100 cardinal,70,153,52.63,1
+JO,JOR,Jordan,GCI,2020,70.96,0-100 cardinal,71,153,51.97,1
+UG,UGA,Uganda,GCI,2020,69.98,0-100 cardinal,72,153,51.32,1
+ZM,ZMB,Zambia,GCI,2020,68.88,0-100 cardinal,73,153,50.66,1
+CL,CHL,Chile,GCI,2020,68.83,0-100 cardinal,74,153,50.0,1
+CI,CIV,Côte d'Ivoire,GCI,2020,67.82,0-100 cardinal,75,153,49.34,1
+CR,CRI,Costa Rica,GCI,2020,67.45,0-100 cardinal,76,153,48.68,1
+BG,BGR,Bulgaria,GCI,2020,67.38,0-100 cardinal,77,153,48.03,1
+UA,UKR,Ukraine,GCI,2020,65.93,0-100 cardinal,78,153,47.37,1
+PK,PAK,Pakistan,GCI,2020,64.88,0-100 cardinal,79,153,46.71,1
+AL,ALB,Albania,GCI,2020,64.32,0-100 cardinal,80,153,46.05,1
+CO,COL,Colombia,GCI,2020,63.72,0-100 cardinal,81,153,45.39,1
+CU,CUB,Cuba,GCI,2020,58.76,0-100 cardinal,82,153,44.74,1
+LK,LKA,Sri Lanka,GCI,2020,58.65,0-100 cardinal,83,153,44.08,1
+PY,PRY,Paraguay,GCI,2020,57.09,0-100 cardinal,84,153,43.42,1
+BN,BRN,Brunei Darussalam,GCI,2020,56.07,0-100 cardinal,85,153,42.76,1
+PE,PER,Peru,GCI,2020,55.67,0-100 cardinal,86,153,42.11,1
+ME,MNE,Montenegro,GCI,2020,53.23,0-100 cardinal,87,153,41.45,1
+BW,BWA,Botswana,GCI,2020,53.06,0-100 cardinal,88,153,40.79,1
+BY,BLR,Belarus,GCI,2020,50.57,0-100 cardinal,89,153,40.13,1
+AR,ARG,Argentina,GCI,2020,50.12,0-100 cardinal,91,153,39.47,1
+CM,CMR,Cameroon,GCI,2020,45.63,0-100 cardinal,93,153,38.16,1
+NP,NPL,Nepal,GCI,2020,44.99,0-100 cardinal,94,153,37.5,1
+TD,TCD,Chad,GCI,2020,40.44,0-100 cardinal,95,153,36.84,1
+MW,MWI,Malawi,GCI,2020,36.83,0-100 cardinal,97,153,36.18,1
+ZW,ZWE,Zimbabwe,GCI,2020,36.49,0-100 cardinal,98,153,35.53,1
+MM,MMR,Myanmar,GCI,2020,36.41,0-100 cardinal,99,153,34.87,1
+SN,SEN,Senegal,GCI,2020,35.85,0-100 cardinal,100,153,34.21,1
+SD,SDN,Sudan,GCI,2020,35.03,0-100 cardinal,102,153,33.55,1
+PA,PAN,Panama,GCI,2020,34.11,0-100 cardinal,103,153,32.89,1
+DZ,DZA,Algeria,GCI,2020,33.95,0-100 cardinal,104,153,32.24,1
+TG,TGO,Togo,GCI,2020,33.19,0-100 cardinal,105,153,31.58,1
+GM,GMB,Gambia,GCI,2020,32.12,0-100 cardinal,107,153,30.92,1
+SR,SUR,Suriname,GCI,2020,31.2,0-100 cardinal,108,153,30.26,1
+BA,BIH,Bosnia and Herzegovina,GCI,2020,29.44,0-100 cardinal,110,153,29.61,1
+WS,WSM,Samoa,GCI,2020,29.33,0-100 cardinal,111,153,28.95,1
+FJ,FJI,Fiji,GCI,2020,29.08,0-100 cardinal,112,153,28.29,1
+LY,LBY,Libya,GCI,2020,28.78,0-100 cardinal,113,153,27.63,1
+GY,GUY,Guyana,GCI,2020,28.11,0-100 cardinal,114,153,26.97,1
+ET,ETH,Ethiopia,GCI,2020,27.74,0-100 cardinal,115,153,26.32,1
+VE,VEN,Venezuela,GCI,2020,27.06,0-100 cardinal,116,153,25.66,1
+EC,ECU,Ecuador,GCI,2020,26.3,0-100 cardinal,119,153,25.0,1
+MN,MNG,Mongolia,GCI,2020,26.2,0-100 cardinal,120,153,24.34,1
+SL,SLE,Sierra Leone,GCI,2020,25.31,0-100 cardinal,121,153,23.68,1
+MZ,MOZ,Mozambique,GCI,2020,24.18,0-100 cardinal,123,153,23.03,1
+TT,TTO,Trinidad and Tobago,GCI,2020,22.18,0-100 cardinal,125,153,21.71,1
+MR,MRT,Mauritania,GCI,2020,18.94,0-100 cardinal,133,153,20.39,1
+BT,BTN,Bhutan,GCI,2020,18.34,0-100 cardinal,134,153,19.74,1
+SZ,SWZ,Eswatini,GCI,2020,18.23,0-100 cardinal,135,153,19.08,1
+CV,CPV,Cabo Verde,GCI,2020,17.74,0-100 cardinal,136,153,18.42,1
+SO,SOM,Somalia,GCI,2020,17.25,0-100 cardinal,137,153,17.76,1
+BB,BRB,Barbados,GCI,2020,16.89,0-100 cardinal,139,153,17.11,1
+BO,BOL,Bolivia,GCI,2020,16.14,0-100 cardinal,140,153,16.45,1
+ST,STP,Sao Tome and Principe,GCI,2020,15.64,0-100 cardinal,141,153,15.79,1
+AG,ATG,Antigua and Barbuda,GCI,2020,15.62,0-100 cardinal,142,153,15.13,1
+KI,KIR,Kiribati,GCI,2020,13.84,0-100 cardinal,145,153,14.47,1
+SM,SMR,San Marino,GCI,2020,13.83,0-100 cardinal,146,153,13.82,1
+BS,BHS,Bahamas,GCI,2020,13.37,0-100 cardinal,147,153,13.16,1
+GT,GTM,Guatemala,GCI,2020,13.13,0-100 cardinal,150,153,12.5,1
+AO,AGO,Angola,GCI,2020,12.99,0-100 cardinal,151,153,11.84,1
+VU,VUT,Vanuatu,GCI,2020,12.88,0-100 cardinal,152,153,11.18,1
+NA,NAM,Namibia,GCI,2020,11.47,0-100 cardinal,155,153,9.87,1
+NE,NER,Niger,GCI,2020,11.38,0-100 cardinal,156,153,9.21,1
+GA,GAB,Gabon,GCI,2020,11.36,0-100 cardinal,157,153,8.55,1
+GW,GNB,Guinea-Bissau,GCI,2020,9.85,0-100 cardinal,161,153,7.24,1
+LR,LBR,Liberia,GCI,2020,9.72,0-100 cardinal,162,153,6.58,1
+GD,GRD,Grenada,GCI,2020,9.41,0-100 cardinal,163,153,5.92,1
+LS,LSO,Lesotho,GCI,2020,9.08,0-100 cardinal,164,153,5.26,1
+SB,SLB,Solomon Islands,GCI,2020,7.08,0-100 cardinal,166,153,3.95,1
+HT,HTI,Haiti,GCI,2020,6.4,0-100 cardinal,167,153,3.29,1
+CD,COD,"Congo, The Democratic Republic of the",GCI,2020,5.3,0-100 cardinal,170,153,2.63,1
+AF,AFG,Afghanistan,GCI,2020,5.2,0-100 cardinal,171,153,1.97,1
+DM,DMA,Dominica,GCI,2020,4.2,0-100 cardinal,174,153,1.32,1
+DJ,DJI,Djibouti,GCI,2020,1.73,0-100 cardinal,179,153,0.33,1
+BI,BDI,Burundi,GCI,2020,1.73,0-100 cardinal,179,153,0.33,1
+AU,AUS,Australia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+BH,BHR,Bahrain,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+BD,BGD,Bangladesh,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+BE,BEL,Belgium,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+BR,BRA,Brazil,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+CY,CYP,Cyprus,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+DK,DNK,Denmark,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+EG,EGY,Egypt,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+EE,EST,Estonia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+FI,FIN,Finland,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+FR,FRA,France,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+DE,DEU,Germany,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+GH,GHA,Ghana,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+GR,GRC,Greece,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+IS,ISL,Iceland,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+IN,IND,India,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+ID,IDN,Indonesia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+IT,ITA,Italy,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+JP,JPN,Japan,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+JO,JOR,Jordan,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+KE,KEN,Kenya,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+KR,KOR,South Korea,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+LU,LUX,Luxembourg,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+MY,MYS,Malaysia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+MU,MUS,Mauritius,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+MA,MAR,Morocco,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+NL,NLD,Netherlands,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+NO,NOR,Norway,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+OM,OMN,Oman,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+PK,PAK,Pakistan,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+PT,PRT,Portugal,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+QA,QAT,Qatar,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+RW,RWA,Rwanda,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+SA,SAU,Saudi Arabia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+RS,SRB,Serbia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+SG,SGP,Singapore,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+SI,SVN,Slovenia,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+ES,ESP,Spain,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+SE,SWE,Sweden,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+TZ,TZA,Tanzania,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+TH,THA,Thailand,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+TR,TUR,Türkiye,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+AE,ARE,United Arab Emirates,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+GB,GBR,United Kingdom,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+US,USA,United States,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+VN,VNM,Vietnam,GCI,2024,1,tier 1-5 categorical,1,196,88.46,1
+AL,ALB,Albania,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+AT,AUT,Austria,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+AZ,AZE,Azerbaijan,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+BJ,BEN,Benin,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+CA,CAN,Canada,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+CN,CHN,China,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+HR,HRV,Croatia,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+CZ,CZE,Czechia,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+EC,ECU,Ecuador,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+GE,GEO,Georgia,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+HU,HUN,Hungary,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+IE,IRL,Ireland,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+IL,ISR,Israel,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+KZ,KAZ,Kazakhstan,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+LT,LTU,Lithuania,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+MT,MLT,Malta,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+MX,MEX,Mexico,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+PH,PHL,Philippines,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+PL,POL,Poland,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+RO,ROU,Romania,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+RU,RUS,Russian Federation,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+SK,SVK,Slovakia,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+ZA,ZAF,South Africa,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+LK,LKA,Sri Lanka,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+CH,CHE,Switzerland,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+TG,TGO,Togo,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+UY,URY,Uruguay,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+UZ,UZB,Uzbekistan,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+ZM,ZMB,Zambia,GCI,2024,2,tier 1-5 categorical,2,196,69.23,1
+DZ,DZA,Algeria,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+AD,AND,Andorra,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+BY,BLR,Belarus,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+BT,BTN,Bhutan,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+BW,BWA,Botswana,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+BN,BRN,Brunei Darussalam,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+BG,BGR,Bulgaria,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+BF,BFA,Burkina Faso,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CM,CMR,Cameroon,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CL,CHL,Chile,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CO,COL,Colombia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CR,CRI,Costa Rica,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CU,CUB,Cuba,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CI,CIV,Côte d'Ivoire,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+CD,COD,"Congo, The Democratic Republic of the",GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+DO,DOM,Dominican Republic,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+SZ,SWZ,Eswatini,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+ET,ETH,Ethiopia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+GM,GMB,Gambia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+GN,GIN,Guinea,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+IR,IRN,Iran,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+JM,JAM,Jamaica,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+KI,KIR,Kiribati,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+KW,KWT,Kuwait,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+KG,KGZ,Kyrgyzstan,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+LV,LVA,Latvia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+LY,LBY,Libya,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MW,MWI,Malawi,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MD,MDA,Moldova,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MC,MCO,Monaco,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MN,MNG,Mongolia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+ME,MNE,Montenegro,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MZ,MOZ,Mozambique,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MM,MMR,Myanmar,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+NP,NPL,Nepal,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+NZ,NZL,New Zealand,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+NG,NGA,Nigeria,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+MK,MKD,North Macedonia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+PA,PAN,Panama,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+PG,PNG,Papua New Guinea,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+PY,PRY,Paraguay,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+PE,PER,Peru,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+SN,SEN,Senegal,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+SL,SLE,Sierra Leone,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+TT,TTO,Trinidad and Tobago,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+TN,TUN,Tunisia,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+UG,UGA,Uganda,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+UA,UKR,Ukraine,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+VU,VUT,Vanuatu,GCI,2024,3,tier 1-5 categorical,3,196,49.23,1
+AO,AGO,Angola,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+AR,ARG,Argentina,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+AM,ARM,Armenia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+BS,BHS,Bahamas,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+BB,BRB,Barbados,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+BZ,BLZ,Belize,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+BA,BIH,Bosnia and Herzegovina,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+CV,CPV,Cabo Verde,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+KH,KHM,Cambodia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+TD,TCD,Chad,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+KM,COM,Comoros,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+CG,COG,Congo,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+DJ,DJI,Djibouti,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+DM,DMA,Dominica,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SV,SLV,El Salvador,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+GQ,GNQ,Equatorial Guinea,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+FJ,FJI,Fiji,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+GA,GAB,Gabon,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+GD,GRD,Grenada,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+GT,GTM,Guatemala,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+GY,GUY,Guyana,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+HT,HTI,Haiti,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+HN,HND,Honduras,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+IQ,IRQ,Iraq,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+LA,LAO,Laos,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+LB,LBN,Lebanon,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+LS,LSO,Lesotho,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+LR,LBR,Liberia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+LI,LIE,Liechtenstein,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+MG,MDG,Madagascar,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+ML,MLI,Mali,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+MR,MRT,Mauritania,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+NA,NAM,Namibia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+NR,NRU,Nauru,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+NI,NIC,Nicaragua,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+NE,NER,Niger,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+KN,KNA,Saint Kitts and Nevis,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+LC,LCA,Saint Lucia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+VC,VCT,Saint Vincent and the Grenadines,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+WS,WSM,Samoa,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SM,SMR,San Marino,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+ST,STP,Sao Tome and Principe,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SC,SYC,Seychelles,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SO,SOM,Somalia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SS,SSD,South Sudan,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+PS,PSE,"Palestine, State of",GCI,2024,4,tier 1-5 categorical,4,196,22.05,0
+SD,SDN,Sudan,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SR,SUR,Suriname,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+SY,SYR,Syria,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+TJ,TJK,Tajikistan,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+TO,TON,Tonga,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+TM,TKM,Turkmenistan,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+TV,TUV,Tuvalu,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+VE,VEN,Venezuela,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+ZW,ZWE,Zimbabwe,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+VC,VCT,Saint Vincent and the Grenadines,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+AF,AFG,Afghanistan,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+AG,ATG,Antigua and Barbuda,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+BI,BDI,Burundi,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+CF,CAF,Central African Republic,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+KP,PRK,North Korea,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+ER,ERI,Eritrea,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+GW,GNB,Guinea-Bissau,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+KP,PRK,North Korea,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+MV,MDV,Maldives,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+MH,MHL,Marshall Islands,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+FM,FSM,"Micronesia, Federated States of",GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+SB,SLB,Solomon Islands,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+TL,TLS,Timor-Leste,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+VA,VAT,Holy See (Vatican City State),GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+YE,YEM,Yemen,GCI,2024,5,tier 1-5 categorical,5,196,3.59,1
+BO,BOL,Bolivia,GCI,2024,4,tier 1-5 categorical,4,196,22.05,1
+AL,ALB,Albania,NCSI,2026,94.17,0-100 cardinal,6,145,95.83,1
+DZ,DZA,Algeria,NCSI,2026,36.67,0-100 cardinal,100,145,31.25,1
+AO,AGO,Angola,NCSI,2026,31.67,0-100 cardinal,106,145,26.74,1
+AG,ATG,Antigua and Barbuda,NCSI,2026,18.33,0-100 cardinal,130,145,10.07,1
+AR,ARG,Argentina,NCSI,2026,58.33,0-100 cardinal,72,145,50.69,1
+AM,ARM,Armenia,NCSI,2026,38.33,0-100 cardinal,95,145,34.72,1
+AU,AUS,Australia,NCSI,2026,85.00,0-100 cardinal,27,145,82.64,1
+AT,AUT,Austria,NCSI,2026,85.00,0-100 cardinal,26,145,82.64,1
+AZ,AZE,Azerbaijan,NCSI,2026,83.33,0-100 cardinal,31,145,78.47,1
+BH,BHR,Bahrain,NCSI,2026,60.83,0-100 cardinal,66,145,54.86,1
+BD,BGD,Bangladesh,NCSI,2026,66.67,0-100 cardinal,59,145,59.72,1
+BE,BEL,Belgium,NCSI,2026,94.17,0-100 cardinal,8,145,95.83,1
+BJ,BEN,Benin,NCSI,2026,59.17,0-100 cardinal,69,145,52.78,1
+BT,BTN,Bhutan,NCSI,2026,51.67,0-100 cardinal,80,145,44.79,1
+BO,BOL,Bolivia,NCSI,2026,30.83,0-100 cardinal,109,145,25.35,1
+BA,BIH,Bosnia and Herzegovina,NCSI,2026,39.17,0-100 cardinal,94,145,35.42,1
+BW,BWA,Botswana,NCSI,2026,49.17,0-100 cardinal,85,145,41.67,1
+BR,BRA,Brazil,NCSI,2026,71.67,0-100 cardinal,55,145,62.15,1
+BG,BGR,Bulgaria,NCSI,2026,80.83,0-100 cardinal,37,145,74.31,1
+BF,BFA,Burkina Faso,NCSI,2026,27.50,0-100 cardinal,113,145,22.22,1
+BI,BDI,Burundi,NCSI,2026,5.00,0-100 cardinal,142,145,2.08,1
+KH,KHM,Cambodia,NCSI,2026,24.17,0-100 cardinal,120,145,18.06,1
+CA,CAN,Canada,NCSI,2026,96.67,0-100 cardinal,2,145,98.96,1
+TD,TCD,Chad,NCSI,2026,25.00,0-100 cardinal,117,145,19.44,1
+CL,CHL,Chile,NCSI,2026,85.00,0-100 cardinal,25,145,82.64,1
+CN,CHN,China,NCSI,2026,69.17,0-100 cardinal,57,145,61.11,1
+KM,COM,Comoros,NCSI,2026,37.50,0-100 cardinal,96,145,32.99,1
+CG,COG,Congo,NCSI,2026,25.83,0-100 cardinal,114,145,20.83,1
+CD,COD,"Congo, The Democratic Republic of the",NCSI,2026,21.67,0-100 cardinal,122,145,15.28,1
+CR,CRI,Costa Rica,NCSI,2026,48.33,0-100 cardinal,88,145,40.28,1
+HR,HRV,Croatia,NCSI,2026,82.50,0-100 cardinal,34,145,76.74,1
+CY,CYP,Cyprus,NCSI,2026,85.83,0-100 cardinal,21,145,85.42,1
+CZ,CZE,Czechia,NCSI,2026,98.33,0-100 cardinal,1,145,100.0,1
+DK,DNK,Denmark,NCSI,2026,89.17,0-100 cardinal,18,145,89.24,1
+DO,DOM,Dominican Republic,NCSI,2026,77.50,0-100 cardinal,48,145,66.67,1
+EC,ECU,Ecuador,NCSI,2026,40.83,0-100 cardinal,92,145,36.46,1
+EG,EGY,Egypt,NCSI,2026,65.00,0-100 cardinal,61,145,58.33,1
+EE,EST,Estonia,NCSI,2026,96.67,0-100 cardinal,3,145,98.96,1
+SZ,SWZ,Eswatini,NCSI,2026,25.83,0-100 cardinal,116,145,20.83,1
+ET,ETH,Ethiopia,NCSI,2026,60.00,0-100 cardinal,67,145,53.82,1
+FJ,FJI,Fiji,NCSI,2026,35.00,0-100 cardinal,103,145,28.82,1
+FI,FIN,Finland,NCSI,2026,95.83,0-100 cardinal,4,145,97.92,1
+FR,FRA,France,NCSI,2026,89.17,0-100 cardinal,16,145,89.24,1
+GE,GEO,Georgia,NCSI,2026,64.17,0-100 cardinal,63,145,56.94,1
+DE,DEU,Germany,NCSI,2026,90.83,0-100 cardinal,14,145,90.97,1
+GH,GHA,Ghana,NCSI,2026,63.33,0-100 cardinal,64,145,56.25,1
+GR,GRC,Greece,NCSI,2026,85.00,0-100 cardinal,24,145,82.64,1
+GT,GTM,Guatemala,NCSI,2026,19.17,0-100 cardinal,129,145,11.46,1
+GN,GIN,Guinea,NCSI,2026,25.83,0-100 cardinal,115,145,20.83,1
+HT,HTI,Haiti,NCSI,2026,4.17,0-100 cardinal,143,145,1.04,1
+HN,HND,Honduras,NCSI,2026,23.33,0-100 cardinal,121,145,16.67,1
+HU,HUN,Hungary,NCSI,2026,93.33,0-100 cardinal,10,145,94.1,1
+IS,ISL,Iceland,NCSI,2026,78.33,0-100 cardinal,47,145,68.75,1
+IN,IND,India,NCSI,2026,75.83,0-100 cardinal,52,145,64.24,1
+ID,IDN,Indonesia,NCSI,2026,47.50,0-100 cardinal,89,145,38.89,1
+IQ,IRQ,Iraq,NCSI,2026,24.17,0-100 cardinal,118,145,18.06,1
+IE,IRL,Ireland,NCSI,2026,77.50,0-100 cardinal,50,145,66.67,1
+IT,ITA,Italy,NCSI,2026,88.33,0-100 cardinal,20,145,87.15,1
+JM,JAM,Jamaica,NCSI,2026,45.83,0-100 cardinal,90,145,38.19,1
+JP,JPN,Japan,NCSI,2026,82.50,0-100 cardinal,35,145,76.74,1
+JO,JOR,Jordan,NCSI,2026,93.33,0-100 cardinal,9,145,94.1,1
+KZ,KAZ,Kazakhstan,NCSI,2026,76.67,0-100 cardinal,51,145,65.28,1
+KE,KEN,Kenya,NCSI,2026,50.83,0-100 cardinal,82,145,43.75,1
+KI,KIR,Kiribati,NCSI,2026,33.33,0-100 cardinal,105,145,27.78,1
+KR,KOR,South Korea,NCSI,2026,83.33,0-100 cardinal,33,145,78.47,1
+XK,XKX,Kosovo,NCSI,2026,50.00,0-100 cardinal,84,145,42.71,0
+KW,KWT,Kuwait,NCSI,2026,37.50,0-100 cardinal,99,145,32.99,1
+KG,KGZ,Kyrgyzstan,NCSI,2026,60.00,0-100 cardinal,68,145,53.82,1
+LA,LAO,Laos,NCSI,2026,29.17,0-100 cardinal,112,145,22.92,1
+LV,LVA,Latvia,NCSI,2026,85.83,0-100 cardinal,23,145,85.42,1
+LB,LBN,Lebanon,NCSI,2026,20.83,0-100 cardinal,127,145,13.19,1
+LR,LBR,Liberia,NCSI,2026,13.33,0-100 cardinal,135,145,6.6,1
+LY,LBY,Libya,NCSI,2026,21.67,0-100 cardinal,123,145,15.28,1
+LT,LTU,Lithuania,NCSI,2026,95.00,0-100 cardinal,5,145,97.22,1
+LU,LUX,Luxembourg,NCSI,2026,77.50,0-100 cardinal,49,145,66.67,1
+MG,MDG,Madagascar,NCSI,2026,10.83,0-100 cardinal,139,145,4.17,1
+MY,MYS,Malaysia,NCSI,2026,72.50,0-100 cardinal,54,145,63.19,1
+MV,MDV,Maldives,NCSI,2026,30.00,0-100 cardinal,111,145,23.96,1
+ML,MLI,Mali,NCSI,2026,11.67,0-100 cardinal,138,145,4.86,1
+MT,MLT,Malta,NCSI,2026,58.33,0-100 cardinal,74,145,50.69,1
+MR,MRT,Mauritania,NCSI,2026,19.17,0-100 cardinal,128,145,11.46,1
+MU,MUS,Mauritius,NCSI,2026,55.83,0-100 cardinal,77,145,47.57,1
+MX,MEX,Mexico,NCSI,2026,61.67,0-100 cardinal,65,145,55.56,1
+FM,FSM,"Micronesia, Federated States of",NCSI,2026,5.83,0-100 cardinal,141,145,2.78,1
+MD,MDA,Moldova,NCSI,2026,94.17,0-100 cardinal,7,145,95.83,1
+MN,MNG,Mongolia,NCSI,2026,50.00,0-100 cardinal,83,145,42.71,1
+ME,MNE,Montenegro,NCSI,2026,78.33,0-100 cardinal,45,145,68.75,1
+MA,MAR,Morocco,NCSI,2026,79.17,0-100 cardinal,42,145,71.18,1
+MZ,MOZ,Mozambique,NCSI,2026,35.83,0-100 cardinal,101,145,30.21,1
+MM,MMR,Myanmar,NCSI,2026,41.67,0-100 cardinal,91,145,37.5,1
+NR,NRU,Nauru,NCSI,2026,13.33,0-100 cardinal,136,145,6.6,1
+NL,NLD,Netherlands,NCSI,2026,81.67,0-100 cardinal,36,145,75.69,1
+NZ,NZL,New Zealand,NCSI,2026,65.00,0-100 cardinal,62,145,58.33,1
+NI,NIC,Nicaragua,NCSI,2026,20.83,0-100 cardinal,126,145,13.19,1
+NG,NGA,Nigeria,NCSI,2026,58.33,0-100 cardinal,70,145,50.69,1
+MK,MKD,North Macedonia,NCSI,2026,84.17,0-100 cardinal,29,145,80.21,1
+NO,NOR,Norway,NCSI,2026,79.17,0-100 cardinal,43,145,71.18,1
+OM,OMN,Oman,NCSI,2026,58.33,0-100 cardinal,73,145,50.69,1
+PK,PAK,Pakistan,NCSI,2026,48.33,0-100 cardinal,87,145,40.28,1
+PW,PLW,Palau,NCSI,2026,3.33,0-100 cardinal,145,145,0.0,1
+PA,PAN,Panama,NCSI,2026,58.33,0-100 cardinal,71,145,50.69,1
+PE,PER,Peru,NCSI,2026,68.33,0-100 cardinal,58,145,60.42,1
+PH,PHL,Philippines,NCSI,2026,55.83,0-100 cardinal,76,145,47.57,1
+PL,POL,Poland,NCSI,2026,92.50,0-100 cardinal,13,145,92.36,1
+PT,PRT,Portugal,NCSI,2026,85.83,0-100 cardinal,22,145,85.42,1
+QA,QAT,Qatar,NCSI,2026,40.83,0-100 cardinal,93,145,36.46,1
+RO,ROU,Romania,NCSI,2026,92.50,0-100 cardinal,11,145,92.36,1
+RW,RWA,Rwanda,NCSI,2026,65.00,0-100 cardinal,60,145,58.33,1
+KN,KNA,Saint Kitts and Nevis,NCSI,2026,12.50,0-100 cardinal,137,145,5.56,1
+LC,LCA,Saint Lucia,NCSI,2026,8.33,0-100 cardinal,140,145,3.47,1
+WS,WSM,Samoa,NCSI,2026,20.83,0-100 cardinal,125,145,13.19,1
+SA,SAU,Saudi Arabia,NCSI,2026,78.33,0-100 cardinal,46,145,68.75,1
+SN,SEN,Senegal,NCSI,2026,37.50,0-100 cardinal,98,145,32.99,1
+RS,SRB,Serbia,NCSI,2026,80.83,0-100 cardinal,38,145,74.31,1
+SC,SYC,Seychelles,NCSI,2026,31.67,0-100 cardinal,107,145,26.74,1
+SL,SLE,Sierra Leone,NCSI,2026,30.00,0-100 cardinal,110,145,23.96,1
+SG,SGP,Singapore,NCSI,2026,85.00,0-100 cardinal,28,145,82.64,1
+SK,SVK,Slovakia,NCSI,2026,92.50,0-100 cardinal,12,145,92.36,1
+SI,SVN,Slovenia,NCSI,2026,89.17,0-100 cardinal,15,145,89.24,1
+SB,SLB,Solomon Islands,NCSI,2026,4.17,0-100 cardinal,144,145,1.04,1
+ZA,ZAF,South Africa,NCSI,2026,51.67,0-100 cardinal,81,145,44.79,1
+ES,ESP,Spain,NCSI,2026,89.17,0-100 cardinal,17,145,89.24,1
+SR,SUR,Suriname,NCSI,2026,21.67,0-100 cardinal,124,145,15.28,1
+SE,SWE,Sweden,NCSI,2026,75.83,0-100 cardinal,53,145,64.24,1
+CH,CHE,Switzerland,NCSI,2026,79.17,0-100 cardinal,44,145,71.18,1
+TJ,TJK,Tajikistan,NCSI,2026,15.83,0-100 cardinal,132,145,9.03,1
+TZ,TZA,Tanzania,NCSI,2026,57.50,0-100 cardinal,75,145,48.61,1
+BS,BHS,Bahamas,NCSI,2026,35.00,0-100 cardinal,104,145,28.82,1
+TG,TGO,Togo,NCSI,2026,54.17,0-100 cardinal,79,145,45.83,1
+TO,TON,Tonga,NCSI,2026,48.33,0-100 cardinal,86,145,40.28,1
+TT,TTO,Trinidad and Tobago,NCSI,2026,35.83,0-100 cardinal,102,145,30.21,1
+TN,TUN,Tunisia,NCSI,2026,79.17,0-100 cardinal,41,145,71.18,1
+TR,TUR,Türkiye,NCSI,2026,71.67,0-100 cardinal,56,145,62.15,1
+TM,TKM,Turkmenistan,NCSI,2026,14.17,0-100 cardinal,134,145,7.99,1
+UG,UGA,Uganda,NCSI,2026,30.83,0-100 cardinal,108,145,25.35,1
+UA,UKR,Ukraine,NCSI,2026,88.33,0-100 cardinal,19,145,87.15,1
+AE,ARE,United Arab Emirates,NCSI,2026,83.33,0-100 cardinal,32,145,78.47,1
+GB,GBR,United Kingdom,NCSI,2026,80.00,0-100 cardinal,40,145,72.92,1
+US,USA,United States,NCSI,2026,84.17,0-100 cardinal,30,145,80.21,1
+UY,URY,Uruguay,NCSI,2026,80.83,0-100 cardinal,39,145,74.31,1
+UZ,UZB,Uzbekistan,NCSI,2026,55.00,0-100 cardinal,78,145,46.53,1
+VU,VUT,Vanuatu,NCSI,2026,37.50,0-100 cardinal,97,145,32.99,1
+VA,VAT,Holy See (Vatican City State),NCSI,2026,14.17,0-100 cardinal,133,145,7.99,1
+VE,VEN,Venezuela,NCSI,2026,24.17,0-100 cardinal,119,145,18.06,1
+ZW,ZWE,Zimbabwe,NCSI,2026,18.33,0-100 cardinal,131,145,10.07,1

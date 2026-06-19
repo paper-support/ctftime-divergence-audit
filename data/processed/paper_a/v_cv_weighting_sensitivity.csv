@@ -1,0 +1,5 @@
+source,vintage_year,n,rho_arith_geom_v_pct,eff_weight_median,eff_weight_top10,eff_weight_top25,eff_weight_top50
+GCI,2017,50,0.9988,0.2542,0.2419,0.2545,0.2494
+GCI,2020,41,0.9993,0.2531,0.2428,0.253,0.2511
+GCI,2024,42,0.999,0.2541,0.2438,0.2547,0.2474
+NCSI,2026,37,0.9995,0.254,0.2455,0.2541,0.2464

@@ -1,0 +1,31 @@
+iso2,country,D_2017,D_2020,D_2024,n_qualifying,pattern,same_sign_persistent,flag
+SA,Saudi Arabia,-50.5,-90.95,-75.53,3,negative,1,headline
+MY,Malaysia,-89.88,-44.74,-79.84,3,negative,1,headline
+TH,Thailand,-68.44,-66.81,-75.53,3,negative,1,headline
+UA,Ukraine,32.99,41.34,40.43,3,positive,1,headline
+AR,Argentina,22.93,28.27,29.67,3,positive,1,headline
+CZ,Czechia,-45.08,31.53,29.05,3,mixed,0,supplementary
+CH,Switzerland,-37.18,,23.87,2,mixed,0,
+EG,Egypt,-74.85,-40.3,-38.46,3,negative,1,
+MA,Morocco,-31.77,-51.42,-69.49,3,negative,1,
+GB,United Kingdom,-26.63,-58.69,-60.87,3,negative,1,
+KR,South Korea,-36.72,-58.0,-31.56,3,negative,1,
+TR,Türkiye,-43.47,-53.03,-45.36,3,negative,1,
+CA,Canada,-48.39,-43.72,-29.57,3,negative,1,
+SG,Singapore,-37.88,-38.65,-21.22,3,negative,1,
+FR,France,-23.4,-38.22,-33.29,3,negative,1,
+MX,Mexico,-63.08,-17.85,-24.4,2,negative,1,
+IN,India,-57.33,-56.92,-17.77,2,negative,1,
+BY,Belarus,-56.9,-20.78,,2,negative,1,
+ID,Indonesia,-47.7,-54.16,-12.6,2,negative,1,
+VN,Vietnam,-0.11,-37.37,-52.25,2,negative,1,
+AU,Australia,-22.67,-15.28,-50.53,2,negative,1,
+ES,Spain,-5.95,-24.94,-40.18,2,negative,1,
+RU,Russian Federation,-34.24,-39.9,-10.61,2,negative,1,
+IL,Israel,-38.42,,-22.68,2,negative,1,
+US,United States,-34.33,-37.1,-16.05,2,negative,1,
+TN,Tunisia,-8.65,-35.5,-31.99,2,negative,1,
+MN,Mongolia,-32.88,-17.89,-28.54,2,negative,1,
+DZ,Algeria,-22.98,3.24,-25.09,2,negative,1,
+HU,Hungary,26.83,20.67,,2,positive,1,
+AT,Austria,12.95,20.1,25.6,2,positive,1,

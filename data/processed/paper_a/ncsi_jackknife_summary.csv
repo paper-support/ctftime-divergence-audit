@@ -1,0 +1,8 @@
+metric,value
+rho_full,0.3627
+n,37
+jackknife_min_rho,0.3133
+jackknife_max_rho,0.4151
+max_abs_delta,0.0524
+most_influential_country,Canada
+most_influential_iso2,CA

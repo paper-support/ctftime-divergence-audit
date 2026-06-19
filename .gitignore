@@ -1,0 +1,32 @@
+# OS / Python
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+*.tmp
+
+# Raw data: third-party indices (ITU GCI, NCSI, World Bank) and raw CTFtime
+# API/HTML/writeup dumps. NOT redistributed (provider terms / author copyright);
+# regenerate with the data_collection/ scripts.
+data/raw/
+
+# Writeup-derived data and Paper B materials (contain author handles; separate,
+# unsubmitted study — not part of this replication package).
+data/processed/paper_b/
+analysis/paper_b/
+
+# Manuscript, cover letter, response, planning and internal review notes
+paper/
+PLAN.md
+DATA_STATEMENT.md
+
+# Crawl/runtime state and logs
+logs/
+crawl_state/
+.ratelimit/
+
+# Tooling
+.spec-workflow/
+.claude/

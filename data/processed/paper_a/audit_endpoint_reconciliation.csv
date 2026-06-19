@@ -1,0 +1,13 @@
+metric,value
+events table — unique IDs,2689
+results table — unique event IDs,2195
+events ∩ results,2090
+events only,599
+results only,105
+score rows total,825638
+registry teams,339501
+distinct placed teams (any event),305380
+placed teams ∩ registry,305228
+placed teams MISSING from registry,152
+registry coverage of placed,99.9502%
+registry teams placed in ≥1 event,"305,228 (89.90%)"

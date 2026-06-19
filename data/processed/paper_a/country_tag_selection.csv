@@ -1,0 +1,3 @@
+bucket,n_teams,n_placed,placed_frac,mean_events_per_team,mean_active_years,n_in_any_top100_year,top100_frac,n_academic,academic_frac
+country_tagged,52647,28227,53.62%,6.03,1.12,535,1.0162%,12297,23.36%
+untagged,286854,277001,96.57%,1.77,1.20,91,0.0317%,439,0.15%

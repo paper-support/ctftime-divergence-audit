@@ -1,0 +1,2690 @@
+event_id,parsed_rows,api_participants,abs_diff_rows,parser_status,table_count,page_chars,weight_displayed,used_table_class
+1,278,267,11,ok,1,11120,100.0,table table-striped past_event_rating
+10,235,0,,ok,1,6658,40.0,table table-striped past_event_rating
+100,59,12,47,ok,1,2150,20.0,table table-striped past_event_rating
+1000,70,84,14,row_count_undercount,1,3173,65.0,table table-striped past_event_rating
+1002,79,19,60,ok,1,3415,0.0,table table-striped past_event_rating
+1003,144,135,9,ok,1,4854,23.39,table table-striped past_event_rating
+1004,627,117,510,ok,1,17469,23.75,table table-striped past_event_rating
+1005,7,0,,ok,1,1172,0.0,table table-striped past_event_rating
+1006,431,68,363,ok,1,12517,24.56,table table-striped past_event_rating
+1007,285,85,200,ok,1,10551,24.15,table table-striped past_event_rating
+1008,16,0,,ok,1,1149,0.0,table table-striped past_event_rating
+1009,659,172,487,ok,1,25463,0.0,table table-striped past_event_rating
+101,20,5,15,ok,1,1319,80.0,table table-striped past_event_rating
+1010,0,98,98,empty_scoreboard,0,1105,21.73,
+1011,0,39,39,empty_scoreboard,0,926,0.0,
+1012,784,151,633,ok,1,21831,24.09,table table-striped past_event_rating
+1013,0,127,127,empty_scoreboard,0,1604,0.0,
+1014,428,85,343,ok,1,13122,24.83,table table-striped past_event_rating
+1015,33,7,26,ok,1,2343,0.0,table table-striped past_event_rating
+1016,429,107,322,ok,1,13511,31.4,table table-striped past_event_rating
+1017,277,91,186,ok,1,8172,25.0,table table-striped past_event_rating
+1018,23,35,12,row_count_undercount,1,1677,41.5,table table-striped past_event_rating
+1019,449,112,337,ok,1,13889,21.44,table table-striped past_event_rating
+102,15,11,4,ok,1,1176,30.0,table table-striped past_event_rating
+1020,1184,203,981,ok,1,35965,22.51,table table-striped past_event_rating
+1022,318,107,211,ok,1,9123,35.93,table table-striped past_event_rating
+1023,344,145,199,ok,1,10679,0.0,table table-striped past_event_rating
+1024,86,34,52,ok,1,3870,23.5,table table-striped past_event_rating
+1025,458,105,353,ok,1,13101,24.55,table table-striped past_event_rating
+1026,851,184,667,ok,1,22673,99.55,table table-striped past_event_rating
+1029,101,85,16,ok,1,3599,35.38,table table-striped past_event_rating
+103,192,79,113,ok,1,7178,20.0,table table-striped past_event_rating
+1030,1236,198,1038,ok,1,34906,23.29,table table-striped past_event_rating
+1032,1530,0,,ok,1,40932,22.79,table table-striped past_event_rating
+1033,753,144,609,ok,1,20306,24.28,table table-striped past_event_rating
+1034,828,210,618,ok,1,23454,24.29,table table-striped past_event_rating
+1036,418,157,261,ok,1,12362,0.0,table table-striped past_event_rating
+104,0,5,5,empty_scoreboard,0,911,10.0,
+1040,320,63,257,ok,1,9617,24.02,table table-striped past_event_rating
+1041,622,616,6,ok,1,18793,74.07,table table-striped past_event_rating
+1042,1046,173,873,ok,1,29496,19.74,table table-striped past_event_rating
+1043,93,48,45,ok,1,3932,24.75,table table-striped past_event_rating
+1044,256,70,186,ok,1,7451,25.0,table table-striped past_event_rating
+1046,23,0,,ok,1,1427,0.0,table table-striped past_event_rating
+1047,403,133,270,ok,1,12850,0.0,table table-striped past_event_rating
+1048,614,123,491,ok,1,18739,0.0,table table-striped past_event_rating
+1049,333,128,205,ok,1,10564,24.78,table table-striped past_event_rating
+105,65,40,25,ok,1,2428,50.0,table table-striped past_event_rating
+1050,797,337,460,ok,1,22402,24.85,table table-striped past_event_rating
+1051,1046,133,913,ok,1,31772,23.49,table table-striped past_event_rating
+1052,0,0,,empty_scoreboard,0,977,0.0,
+1053,55,74,19,row_count_undercount,1,2488,25.0,table table-striped past_event_rating
+1054,136,45,91,ok,1,5108,24.55,table table-striped past_event_rating
+1058,358,170,188,ok,1,19335,19.71,table table-striped past_event_rating
+1059,314,50,264,ok,1,9479,22.88,table table-striped past_event_rating
+106,0,2,2,empty_scoreboard,0,577,30.0,
+1060,426,86,340,ok,1,12061,23.88,table table-striped past_event_rating
+1061,0,41,41,empty_scoreboard,0,1754,0.0,
+1062,806,172,634,ok,1,23484,21.85,table table-striped past_event_rating
+1063,500,122,378,ok,1,16747,21.77,table table-striped past_event_rating
+1064,341,137,204,ok,1,11546,23.17,table table-striped past_event_rating
+1065,263,54,209,ok,1,8415,21.56,table table-striped past_event_rating
+1066,360,204,156,ok,1,11543,24.42,table table-striped past_event_rating
+1067,2852,205,2647,ok,1,77326,23.72,table table-striped past_event_rating
+1068,50,40,10,ok,1,2839,0.0,table table-striped past_event_rating
+1069,46,20,26,ok,1,2615,0.0,table table-striped past_event_rating
+107,0,7,7,empty_scoreboard,0,582,0.0,
+1070,121,40,81,ok,1,4322,23.62,table table-striped past_event_rating
+1071,229,78,151,ok,1,7519,20.95,table table-striped past_event_rating
+1072,141,90,51,ok,1,4554,24.44,table table-striped past_event_rating
+1073,0,65,65,empty_scoreboard,0,17573,0.0,
+1074,78,42,36,ok,1,3466,25.0,table table-striped past_event_rating
+1075,387,74,313,ok,1,12008,23.76,table table-striped past_event_rating
+1076,699,96,603,ok,1,20305,24.43,table table-striped past_event_rating
+1077,490,116,374,ok,1,14577,24.14,table table-striped past_event_rating
+1078,123,82,41,ok,1,5363,21.38,table table-striped past_event_rating
+1079,1208,348,860,ok,1,34596,59.0,table table-striped past_event_rating
+1081,999,104,895,ok,1,29772,23.67,table table-striped past_event_rating
+1082,538,178,360,ok,1,15320,98.0,table table-striped past_event_rating
+1083,148,28,120,ok,1,5977,25.0,table table-striped past_event_rating
+1084,1079,193,886,ok,1,31076,24.44,table table-striped past_event_rating
+1085,190,25,165,ok,1,7822,0.0,table table-striped past_event_rating
+1086,648,155,493,ok,1,18058,99.64,table table-striped past_event_rating
+1087,592,64,528,ok,1,17017,24.0,table table-striped past_event_rating
+1088,16,76,60,row_count_undercount,1,1341,96.0,table table-striped past_event_rating
+1089,515,93,422,ok,1,15579,22.99,table table-striped past_event_rating
+109,0,77,77,empty_scoreboard,0,2787,0.0,
+1090,160,53,107,ok,1,5180,25.0,table table-striped past_event_rating
+1091,462,376,86,ok,1,15473,25.0,table table-striped past_event_rating
+1092,146,90,56,ok,1,5366,0.0,table table-striped past_event_rating
+1093,15,0,,ok,1,1223,100.0,table table-striped past_event_rating
+1094,437,49,388,ok,1,12472,25.0,table table-striped past_event_rating
+1095,0,15,15,empty_scoreboard,0,1265,1.0,
+1097,268,0,,ok,1,7957,0.0,table table-striped past_event_rating
+1098,94,63,31,ok,1,3807,0.0,table table-striped past_event_rating
+1099,847,98,749,ok,1,22229,36.0,table table-striped past_event_rating
+11,12,3,9,ok,1,2347,60.0,table table-striped past_event_rating
+110,10,0,,ok,1,980,0.0,table table-striped past_event_rating
+1100,193,34,159,ok,1,6223,24.64,table table-striped past_event_rating
+1101,1973,138,1835,ok,1,54370,21.86,table table-striped past_event_rating
+1102,94,34,60,ok,1,3951,20.0,table table-striped past_event_rating
+1103,285,127,158,ok,1,8971,14.21,table table-striped past_event_rating
+1104,8,0,,ok,1,1261,0.0,table table-striped past_event_rating
+1105,14,65,51,row_count_undercount,1,1810,25.0,table table-striped past_event_rating
+1106,994,75,919,ok,1,29920,24.09,table table-striped past_event_rating
+1107,672,127,545,ok,1,18194,24.5,table table-striped past_event_rating
+1108,1062,186,876,ok,1,32022,20.33,table table-striped past_event_rating
+1109,0,0,,empty_scoreboard,0,1207,0.0,
+111,0,0,,empty_scoreboard,0,1577,0.0,
+1110,13,0,,ok,1,2287,0.0,table table-striped past_event_rating
+1111,349,63,286,ok,1,17396,85.81,table table-striped past_event_rating
+1112,229,116,113,ok,1,7532,25.0,table table-striped past_event_rating
+1114,155,4,151,ok,1,4711,0.0,table table-striped past_event_rating
+1115,518,40,478,ok,1,13917,0.0,table table-striped past_event_rating
+1116,376,80,296,ok,1,14164,4.57,table table-striped past_event_rating
+1117,67,68,1,ok,1,3739,22.6,table table-striped past_event_rating
+1118,808,170,638,ok,1,23971,23.71,table table-striped past_event_rating
+1119,579,54,525,ok,1,15437,65.77,table table-striped past_event_rating
+112,123,58,65,ok,1,4305,60.0,table table-striped past_event_rating
+1121,457,104,353,ok,1,12543,24.9,table table-striped past_event_rating
+1122,490,75,415,ok,1,14005,25.0,table table-striped past_event_rating
+1123,249,30,219,ok,1,7280,0.0,table table-striped past_event_rating
+1124,471,153,318,ok,1,12780,25.0,table table-striped past_event_rating
+1125,1006,55,951,ok,1,27500,24.98,table table-striped past_event_rating
+1126,42,24,18,ok,1,2945,25.0,table table-striped past_event_rating
+1127,148,45,103,ok,1,6050,22.08,table table-striped past_event_rating
+1129,0,0,,empty_scoreboard,0,1286,0.0,
+113,0,33,33,empty_scoreboard,0,811,0.0,
+1130,0,31,31,empty_scoreboard,0,765,0.0,
+1131,406,132,274,ok,1,14103,25.0,table table-striped past_event_rating
+1132,206,44,162,ok,1,7195,22.35,table table-striped past_event_rating
+1133,622,191,431,ok,1,17496,24.61,table table-striped past_event_rating
+1134,532,161,371,ok,1,14929,94.0,table table-striped past_event_rating
+1135,276,45,231,ok,1,8111,24.38,table table-striped past_event_rating
+1136,710,154,556,ok,1,19270,98.11,table table-striped past_event_rating
+1137,387,81,306,ok,1,11535,25.0,table table-striped past_event_rating
+1138,88,49,39,ok,1,3264,19.58,table table-striped past_event_rating
+1139,349,96,253,ok,1,10265,50.32,table table-striped past_event_rating
+114,48,48,0,ok,1,1837,70.0,table table-striped past_event_rating
+1140,10,16,6,row_count_undercount,1,1177,25.0,table table-striped past_event_rating
+1141,277,72,205,ok,1,9074,25.0,table table-striped past_event_rating
+1142,301,106,195,ok,1,9346,87.94,table table-striped past_event_rating
+1145,69,42,27,ok,1,3744,25.0,table table-striped past_event_rating
+1146,0,111,111,empty_scoreboard,0,1777,0.0,
+1147,116,30,86,ok,1,5981,22.33,table table-striped past_event_rating
+1148,1027,130,897,ok,1,28415,24.29,table table-striped past_event_rating
+1149,440,94,346,ok,1,14648,21.56,table table-striped past_event_rating
+115,254,10,244,ok,1,8736,5.0,table table-striped past_event_rating
+1150,0,8,8,empty_scoreboard,0,1093,0.0,
+1152,57,26,31,ok,1,2699,25.0,table table-striped past_event_rating
+1154,0,46,46,empty_scoreboard,0,1377,0.0,
+1158,130,20,110,ok,1,4891,22.95,table table-striped past_event_rating
+1159,209,64,145,ok,1,6721,19.81,table table-striped past_event_rating
+116,278,86,192,ok,1,8578,60.0,table table-striped past_event_rating
+1161,0,72,72,empty_scoreboard,0,1232,0.0,
+1163,65,20,45,ok,1,2877,0.0,table table-striped past_event_rating
+1165,9,0,,ok,1,1075,0.0,table table-striped past_event_rating
+1167,313,45,268,ok,1,9589,21.91,table table-striped past_event_rating
+1168,0,44,44,empty_scoreboard,0,2327,0.0,
+117,0,10,10,empty_scoreboard,0,731,10.0,
+1170,114,30,84,ok,1,4332,25.0,table table-striped past_event_rating
+1174,609,165,444,ok,1,16965,35.14,table table-striped past_event_rating
+1175,0,36,36,empty_scoreboard,0,1136,0.0,
+1176,87,125,38,row_count_undercount,1,4286,22.62,table table-striped past_event_rating
+1177,697,130,567,ok,1,20291,34.11,table table-striped past_event_rating
+1178,126,75,51,ok,1,4878,82.02,table table-striped past_event_rating
+1179,0,24,24,empty_scoreboard,0,931,25.0,
+118,300,105,195,ok,1,8947,80.0,table table-striped past_event_rating
+1180,52,19,33,ok,1,2022,23.4,table table-striped past_event_rating
+1181,10,10,0,ok,1,1846,20.0,table table-striped past_event_rating
+1182,216,69,147,ok,1,8096,31.43,table table-striped past_event_rating
+1183,99,41,58,ok,1,4144,25.0,table table-striped past_event_rating
+1186,719,185,534,ok,1,20702,83.41,table table-striped past_event_rating
+1187,21,3,18,ok,1,1714,0.0,table table-striped past_event_rating
+1188,88,29,59,ok,1,3644,24.33,table table-striped past_event_rating
+1189,7,0,,ok,1,2109,25.0,table table-striped past_event_rating
+119,867,171,696,ok,1,23213,75.0,table table-striped past_event_rating
+1190,51,0,,ok,1,2082,24.4,table table-striped past_event_rating
+1191,80,17,63,ok,1,3272,0.0,table table-striped past_event_rating
+1192,8,0,,ok,1,1114,0.0,table table-striped past_event_rating
+1193,0,4,4,empty_scoreboard,0,848,0.0,
+1198,270,158,112,ok,1,8824,37.0,table table-striped past_event_rating
+1199,530,206,324,ok,1,14587,99.64,table table-striped past_event_rating
+12,152,145,7,ok,1,4397,90.0,table table-striped past_event_rating
+1200,413,67,346,ok,1,13508,23.94,table table-striped past_event_rating
+1201,186,0,,ok,1,6502,24.33,table table-striped past_event_rating
+1202,123,39,84,ok,1,4424,24.93,table table-striped past_event_rating
+1203,3,0,,ok,1,1356,0.0,table table-striped past_event_rating
+1204,51,0,,ok,1,2515,15.2,table table-striped past_event_rating
+1205,254,38,216,ok,1,8446,0.0,table table-striped past_event_rating
+1206,0,21,21,empty_scoreboard,0,1278,0.0,
+1207,138,10,128,ok,1,5139,20.71,table table-striped past_event_rating
+1208,244,60,184,ok,1,7461,36.4,table table-striped past_event_rating
+1209,1064,134,930,ok,1,30199,0.0,table table-striped past_event_rating
+121,118,72,46,ok,1,4099,70.0,table table-striped past_event_rating
+1210,11,9,2,ok,1,1597,0.0,table table-striped past_event_rating
+1211,191,27,164,ok,1,6353,0.0,table table-striped past_event_rating
+1212,12,19,7,row_count_undercount,1,1899,45.0,table table-striped past_event_rating
+1213,518,89,429,ok,1,14806,25.0,table table-striped past_event_rating
+1214,0,23,23,empty_scoreboard,0,1471,0.0,
+122,249,80,169,ok,1,7444,60.0,table table-striped past_event_rating
+1220,169,28,141,ok,1,5418,25.0,table table-striped past_event_rating
+1223,0,0,,empty_scoreboard,0,796,0.0,
+1224,84,213,129,row_count_undercount,1,3060,35.17,table table-striped past_event_rating
+1229,231,142,89,ok,1,7534,32.73,table table-striped past_event_rating
+123,15,0,,ok,1,1211,30.0,table table-striped past_event_rating
+1230,0,27,27,empty_scoreboard,0,726,24.78,
+1231,574,132,442,ok,1,16044,25.0,table table-striped past_event_rating
+1232,223,52,171,ok,1,8336,18.71,table table-striped past_event_rating
+1234,513,164,349,ok,1,13943,24.15,table table-striped past_event_rating
+1236,1059,260,799,ok,1,28863,24.82,table table-striped past_event_rating
+1237,0,0,,empty_scoreboard,0,881,22.35,
+1239,31,43,12,row_count_undercount,1,2009,22.25,table table-striped past_event_rating
+1242,519,76,443,ok,1,14087,25.0,table table-striped past_event_rating
+1245,0,103,103,empty_scoreboard,0,3846,0.0,
+1246,466,124,342,ok,1,13292,24.34,table table-striped past_event_rating
+1247,104,26,78,ok,1,4397,0.0,table table-striped past_event_rating
+1248,371,0,,ok,1,12023,21.38,table table-striped past_event_rating
+1249,286,169,117,ok,1,8897,0.0,table table-striped past_event_rating
+125,19,1,18,ok,1,1090,20.0,table table-striped past_event_rating
+1250,660,125,535,ok,1,19159,24.06,table table-striped past_event_rating
+1251,0,84,84,empty_scoreboard,0,1427,25.0,
+1252,77,63,14,ok,1,3114,24.42,table table-striped past_event_rating
+1253,61,56,5,ok,1,2917,24.5,table table-striped past_event_rating
+1254,433,295,138,ok,1,12910,80.92,table table-striped past_event_rating
+1255,291,91,200,ok,1,9041,24.39,table table-striped past_event_rating
+1256,949,202,747,ok,1,26159,24.56,table table-striped past_event_rating
+1257,355,93,262,ok,1,11739,21.87,table table-striped past_event_rating
+1258,439,129,310,ok,1,12858,36.0,table table-striped past_event_rating
+1259,297,71,226,ok,1,9098,22.99,table table-striped past_event_rating
+126,5,0,,ok,1,870,0.0,table table-striped past_event_rating
+1260,0,61,61,empty_scoreboard,0,1032,36.35,
+1262,0,72,72,empty_scoreboard,0,2328,0.0,
+1263,50,107,57,row_count_undercount,1,5985,20.15,table table-striped past_event_rating
+1264,1162,143,1019,ok,1,33421,24.5,table table-striped past_event_rating
+1265,1243,230,1013,ok,1,34779,46.09,table table-striped past_event_rating
+1266,1762,152,1610,ok,1,51277,22.37,table table-striped past_event_rating
+1268,14,41,27,row_count_undercount,1,1368,52.92,table table-striped past_event_rating
+1269,680,124,556,ok,1,23908,23.68,table table-striped past_event_rating
+127,16,21,5,row_count_undercount,1,1299,30.0,table table-striped past_event_rating
+1270,0,18,18,empty_scoreboard,0,550,0.0,
+1272,0,0,,empty_scoreboard,0,698,0.0,
+1277,69,0,,ok,1,4006,0.0,table table-striped past_event_rating
+1279,139,92,47,ok,1,5366,24.55,table table-striped past_event_rating
+128,0,29,29,empty_scoreboard,0,834,0.0,
+1281,3409,228,3181,ok,1,93426,24.98,table table-striped past_event_rating
+1282,660,134,526,ok,1,18890,23.56,table table-striped past_event_rating
+1284,645,119,526,ok,1,18633,24.23,table table-striped past_event_rating
+1285,509,137,372,ok,1,15146,21.85,table table-striped past_event_rating
+1286,400,56,344,ok,1,12512,20.79,table table-striped past_event_rating
+1287,0,36,36,empty_scoreboard,0,1136,0.0,
+1288,484,56,428,ok,1,14218,24.02,table table-striped past_event_rating
+129,401,128,273,ok,1,11237,90.0,table table-striped past_event_rating
+1292,77,77,0,ok,1,3347,100.0,table table-striped past_event_rating
+1293,112,57,55,ok,1,4891,23.5,table table-striped past_event_rating
+1295,289,0,,ok,1,8112,22.5,table table-striped past_event_rating
+1296,417,72,345,ok,1,12192,24.5,table table-striped past_event_rating
+1297,28,43,15,row_count_undercount,1,1545,25.0,table table-striped past_event_rating
+1298,324,64,260,ok,1,9915,22.62,table table-striped past_event_rating
+1299,239,0,,ok,1,7180,23.94,table table-striped past_event_rating
+13,106,101,5,ok,1,3211,80.0,table table-striped past_event_rating
+130,404,125,279,ok,1,11186,60.0,table table-striped past_event_rating
+1300,18,0,,ok,1,2026,24.33,table table-striped past_event_rating
+1301,105,152,47,row_count_undercount,1,4018,24.83,table table-striped past_event_rating
+1302,0,49,49,empty_scoreboard,0,545,24.31,
+1303,160,34,126,ok,1,4868,23.36,table table-striped past_event_rating
+1304,2705,301,2404,ok,1,80596,24.33,table table-striped past_event_rating
+1305,296,97,199,ok,1,10115,33.97,table table-striped past_event_rating
+1306,480,72,408,ok,1,13539,33.32,table table-striped past_event_rating
+1307,477,106,371,ok,1,13631,24.31,table table-striped past_event_rating
+1308,268,64,204,ok,1,8064,41.71,table table-striped past_event_rating
+1309,720,125,595,ok,1,20780,26.81,table table-striped past_event_rating
+131,126,14,112,ok,1,4423,10.0,table table-striped past_event_rating
+1310,0,66,66,empty_scoreboard,0,1122,0.0,
+1311,49,13,36,ok,1,2614,0.0,table table-striped past_event_rating
+1312,1592,334,1258,ok,1,46262,24.44,table table-striped past_event_rating
+1313,523,345,178,ok,1,15598,36.35,table table-striped past_event_rating
+1314,343,27,316,ok,1,11923,0.0,table table-striped past_event_rating
+1315,1214,230,984,ok,1,34216,20.54,table table-striped past_event_rating
+1316,53,39,14,ok,1,2592,24.4,table table-striped past_event_rating
+1317,232,54,178,ok,1,8004,24.14,table table-striped past_event_rating
+1318,379,396,17,ok,1,13093,99.22,table table-striped past_event_rating
+1319,595,279,316,ok,1,17095,23.29,table table-striped past_event_rating
+132,283,93,190,ok,1,8821,70.0,table table-striped past_event_rating
+1320,344,46,298,ok,1,10101,24.92,table table-striped past_event_rating
+1321,49,61,12,row_count_undercount,1,2380,20.75,table table-striped past_event_rating
+1323,75,15,60,ok,1,3170,25.0,table table-striped past_event_rating
+1324,54,29,25,ok,1,3922,17.9,table table-striped past_event_rating
+1325,281,89,192,ok,1,8451,24.55,table table-striped past_event_rating
+1326,162,129,33,ok,1,5113,35.64,table table-striped past_event_rating
+1327,1418,199,1219,ok,1,40282,32.61,table table-striped past_event_rating
+1328,131,83,48,ok,1,4708,77.38,table table-striped past_event_rating
+1329,309,41,268,ok,1,9169,24.52,table table-striped past_event_rating
+133,14,0,,ok,1,1458,60.0,table table-striped past_event_rating
+1330,101,33,68,ok,1,3554,12.69,table table-striped past_event_rating
+1334,0,0,,empty_scoreboard,0,733,0.0,
+1335,23,20,3,ok,1,1660,37.5,table table-striped past_event_rating
+1336,8,26,18,row_count_undercount,1,3314,0.0,table table-striped past_event_rating
+1337,41,59,18,row_count_undercount,1,2235,0.0,table table-striped past_event_rating
+1339,88,89,1,ok,1,4669,24.55,table table-striped past_event_rating
+134,20,0,,ok,1,1397,80.0,table table-striped past_event_rating
+1340,54,53,1,ok,1,2366,44.33,table table-striped past_event_rating
+1341,56,5,51,ok,1,3247,24.6,table table-striped past_event_rating
+1342,845,122,723,ok,1,23902,24.53,table table-striped past_event_rating
+1343,17,20,3,row_count_undercount,1,1105,23.4,table table-striped past_event_rating
+1345,0,45,45,empty_scoreboard,0,2620,0.0,
+1346,0,0,,empty_scoreboard,0,575,0.0,
+135,481,44,437,ok,1,13597,10.0,table table-striped past_event_rating
+1350,291,54,237,ok,1,9378,25.0,table table-striped past_event_rating
+1352,0,0,,empty_scoreboard,0,588,0.0,
+1353,611,101,510,ok,1,18730,23.23,table table-striped past_event_rating
+1354,602,144,458,ok,1,18056,23.49,table table-striped past_event_rating
+1355,0,0,,empty_scoreboard,0,763,48.96,
+1356,464,99,365,ok,1,12732,86.71,table table-striped past_event_rating
+1357,12,25,13,row_count_undercount,1,1116,95.0,table table-striped past_event_rating
+1358,232,43,189,ok,1,6960,21.85,table table-striped past_event_rating
+136,304,93,211,ok,1,8932,15.0,table table-striped past_event_rating
+1361,1083,171,912,ok,1,30472,24.19,table table-striped past_event_rating
+1362,531,59,472,ok,1,15240,23.76,table table-striped past_event_rating
+1363,164,36,128,ok,1,5783,34.65,table table-striped past_event_rating
+1364,904,142,762,ok,1,25996,24.92,table table-striped past_event_rating
+1365,697,118,579,ok,1,20297,25.0,table table-striped past_event_rating
+1367,600,128,472,ok,1,15722,53.54,table table-striped past_event_rating
+1368,79,22,57,ok,1,3331,24.0,table table-striped past_event_rating
+1369,837,73,764,ok,1,23222,24.33,table table-striped past_event_rating
+137,131,88,43,ok,1,5595,20.0,table table-striped past_event_rating
+1370,603,175,428,ok,1,17035,70.41,table table-striped past_event_rating
+1371,210,169,41,ok,1,6903,24.9,table table-striped past_event_rating
+1373,351,65,286,ok,1,10726,19.21,table table-striped past_event_rating
+1374,7,0,,ok,1,1093,0.0,table table-striped past_event_rating
+1375,234,23,211,ok,1,7316,0.0,table table-striped past_event_rating
+1376,284,65,219,ok,1,8370,37.0,table table-striped past_event_rating
+1378,245,87,158,ok,1,8063,24.33,table table-striped past_event_rating
+1379,10,0,,ok,1,2291,25.0,table table-striped past_event_rating
+138,10,0,,ok,1,1130,0.0,table table-striped past_event_rating
+1380,197,95,102,ok,1,7324,24.06,table table-striped past_event_rating
+1381,374,52,322,ok,1,12689,24.0,table table-striped past_event_rating
+1382,132,63,69,ok,1,4875,23.39,table table-striped past_event_rating
+1383,1041,103,938,ok,1,62117,0.0,table table-striped past_event_rating
+1384,1018,127,891,ok,1,28354,24.65,table table-striped past_event_rating
+1385,0,0,,empty_scoreboard,0,1061,0.0,
+1386,297,83,214,ok,1,9670,24.33,table table-striped past_event_rating
+1387,81,53,28,ok,1,5044,10.33,table table-striped past_event_rating
+1389,0,22,22,empty_scoreboard,0,1806,0.0,
+139,18,7,11,ok,1,1696,40.0,table table-striped past_event_rating
+1390,88,70,18,ok,1,3692,21.5,table table-striped past_event_rating
+1391,156,40,116,ok,1,5564,22.44,table table-striped past_event_rating
+1392,85,61,24,ok,1,4785,22.58,table table-striped past_event_rating
+1393,0,11,11,empty_scoreboard,0,1547,0.0,
+1394,7,9,2,row_count_undercount,1,2181,0.0,table table-striped past_event_rating
+1395,0,8,8,empty_scoreboard,0,673,0.0,
+1396,733,105,628,ok,1,20388,24.5,table table-striped past_event_rating
+1397,411,59,352,ok,1,11712,24.46,table table-striped past_event_rating
+1398,475,36,439,ok,1,15138,23.87,table table-striped past_event_rating
+14,8,1,7,ok,1,2446,40.0,table table-striped past_event_rating
+140,0,56,56,empty_scoreboard,0,1280,0.0,
+1401,827,214,613,ok,1,23466,24.43,table table-striped past_event_rating
+1403,68,0,,ok,1,2755,21.38,table table-striped past_event_rating
+1404,0,0,,empty_scoreboard,0,1013,0.0,
+1405,428,97,331,ok,1,13579,24.42,table table-striped past_event_rating
+1406,60,68,8,row_count_undercount,1,2990,25.0,table table-striped past_event_rating
+141,221,52,169,ok,1,6779,30.0,table table-striped past_event_rating
+1413,483,57,426,ok,1,13102,69.2,table table-striped past_event_rating
+1415,731,186,545,ok,1,19610,89.22,table table-striped past_event_rating
+1416,198,66,132,ok,1,5719,65.47,table table-striped past_event_rating
+1417,227,97,130,ok,1,8320,21.73,table table-striped past_event_rating
+1418,16,0,,ok,1,1244,95.0,table table-striped past_event_rating
+1419,77,40,37,ok,1,3476,23.15,table table-striped past_event_rating
+142,240,59,181,ok,1,8088,40.0,table table-striped past_event_rating
+1420,371,49,322,ok,1,11224,23.58,table table-striped past_event_rating
+1421,192,33,159,ok,1,5544,25.0,table table-striped past_event_rating
+1425,0,0,,empty_scoreboard,0,665,0.0,
+1426,1192,203,989,ok,1,34218,20.33,table table-striped past_event_rating
+1427,496,113,383,ok,1,14947,21.94,table table-striped past_event_rating
+1429,238,91,147,ok,1,8452,41.6,table table-striped past_event_rating
+1430,560,77,483,ok,1,16909,23.18,table table-striped past_event_rating
+1431,762,126,636,ok,1,21796,34.8,table table-striped past_event_rating
+1432,237,62,175,ok,1,13155,25.0,table table-striped past_event_rating
+1433,0,15,15,empty_scoreboard,0,9476,1.0,
+1434,505,83,422,ok,1,14940,24.81,table table-striped past_event_rating
+1436,423,94,329,ok,1,14281,27.83,table table-striped past_event_rating
+1437,0,24,24,empty_scoreboard,0,1278,0.0,
+1438,501,125,376,ok,1,14619,24.37,table table-striped past_event_rating
+1439,71,48,23,ok,1,2726,0.0,table table-striped past_event_rating
+144,10,0,,ok,1,952,60.0,table table-striped past_event_rating
+1440,333,81,252,ok,1,15205,14.13,table table-striped past_event_rating
+1441,302,55,247,ok,1,8657,23.34,table table-striped past_event_rating
+1442,182,0,,ok,1,5441,0.0,table table-striped past_event_rating
+1444,1718,125,1593,ok,1,49474,24.98,table table-striped past_event_rating
+1445,0,37,37,empty_scoreboard,0,1398,0.0,
+1447,149,137,12,ok,1,4886,99.41,table table-striped past_event_rating
+1448,157,39,118,ok,1,6633,24.38,table table-striped past_event_rating
+1449,331,88,243,ok,1,10140,22.3,table table-striped past_event_rating
+145,0,7,7,empty_scoreboard,0,689,30.0,
+1450,22,5,17,ok,1,3260,0.0,table table-striped past_event_rating
+1451,0,39,39,empty_scoreboard,0,1105,0.0,
+1452,174,109,65,ok,1,5665,94.48,table table-striped past_event_rating
+1453,300,195,105,ok,1,11478,19.69,table table-striped past_event_rating
+1454,89,41,48,ok,1,3224,19.97,table table-striped past_event_rating
+1456,12,17,5,row_count_undercount,1,1173,24.38,table table-striped past_event_rating
+1457,247,82,165,ok,1,7535,99.33,table table-striped past_event_rating
+1458,506,75,431,ok,1,14211,92.67,table table-striped past_event_rating
+1459,511,50,461,ok,1,15165,24.45,table table-striped past_event_rating
+146,10,7,3,ok,1,1306,60.0,table table-striped past_event_rating
+1460,288,42,246,ok,1,8288,88.98,table table-striped past_event_rating
+1463,112,52,60,ok,1,4673,24.94,table table-striped past_event_rating
+1464,197,41,156,ok,1,6853,23.08,table table-striped past_event_rating
+1465,18,0,,ok,1,1311,25.0,table table-striped past_event_rating
+1466,314,50,264,ok,1,9874,25.0,table table-striped past_event_rating
+1468,231,66,165,ok,1,7364,23.67,table table-striped past_event_rating
+1469,187,28,159,ok,1,6627,25.0,table table-striped past_event_rating
+147,230,92,138,ok,1,8357,30.0,table table-striped past_event_rating
+1470,0,36,36,empty_scoreboard,0,1077,0.0,
+1472,665,137,528,ok,1,17682,23.68,table table-striped past_event_rating
+1473,412,68,344,ok,1,12016,19.81,table table-striped past_event_rating
+1474,346,89,257,ok,1,9959,27.82,table table-striped past_event_rating
+1475,13,0,,ok,1,1426,76.83,table table-striped past_event_rating
+1476,1343,147,1196,ok,1,41000,24.09,table table-striped past_event_rating
+1477,171,81,90,ok,1,6219,22.7,table table-striped past_event_rating
+1478,0,79,79,empty_scoreboard,0,1589,0.0,
+1479,110,17,93,ok,1,3790,0.0,table table-striped past_event_rating
+148,499,98,401,ok,1,15274,30.0,table table-striped past_event_rating
+1480,0,0,,empty_scoreboard,0,1379,24.33,
+1481,318,50,268,ok,1,13684,17.54,table table-striped past_event_rating
+1484,0,0,,empty_scoreboard,0,893,0.0,
+1485,37,0,,ok,1,2507,0.0,table table-striped past_event_rating
+1487,229,41,188,ok,1,7491,0.0,table table-striped past_event_rating
+1489,149,62,87,ok,1,5428,0.0,table table-striped past_event_rating
+149,9,1,8,ok,1,943,20.0,table table-striped past_event_rating
+1490,144,61,83,ok,1,5253,0.0,table table-striped past_event_rating
+1491,112,18,94,ok,1,4107,0.0,table table-striped past_event_rating
+1492,0,11,11,empty_scoreboard,0,1775,22.33,
+1493,0,0,,empty_scoreboard,0,981,0.0,
+1494,411,38,373,ok,1,12033,21.62,table table-striped past_event_rating
+1495,614,149,465,ok,1,18082,24.39,table table-striped past_event_rating
+1496,119,57,62,ok,1,3886,30.75,table table-striped past_event_rating
+1497,0,14,14,empty_scoreboard,0,572,0.0,
+1498,25,17,8,ok,1,2499,25.0,table table-striped past_event_rating
+1499,82,16,66,ok,1,4103,25.0,table table-striped past_event_rating
+15,68,0,,ok,1,2284,70.0,table table-striped past_event_rating
+150,912,71,841,ok,1,23035,15.0,table table-striped past_event_rating
+1501,451,116,335,ok,1,13885,24.27,table table-striped past_event_rating
+1503,103,68,35,ok,1,4309,0.0,table table-striped past_event_rating
+1504,11,0,,ok,1,1056,0.0,table table-striped past_event_rating
+1505,280,187,93,ok,1,9684,21.38,table table-striped past_event_rating
+1506,65,37,28,ok,1,2765,23.14,table table-striped past_event_rating
+1507,947,170,777,ok,1,24948,54.88,table table-striped past_event_rating
+1508,19,82,63,row_count_undercount,1,1435,97.62,table table-striped past_event_rating
+1509,27,3,24,ok,1,1460,0.0,table table-striped past_event_rating
+151,31,1,30,ok,1,2199,25.0,table table-striped past_event_rating
+1510,275,0,,ok,1,7853,25.0,table table-striped past_event_rating
+1511,252,59,193,ok,1,8079,24.33,table table-striped past_event_rating
+1512,235,40,195,ok,1,8278,24.56,table table-striped past_event_rating
+1513,0,13,13,empty_scoreboard,0,1642,0.0,
+1514,0,6,6,empty_scoreboard,0,1342,0.0,
+1515,265,45,220,ok,1,10001,23.94,table table-striped past_event_rating
+1517,0,26,26,empty_scoreboard,0,1365,0.0,
+1518,404,152,252,ok,1,10839,16.93,table table-striped past_event_rating
+152,1173,173,1000,ok,1,34004,40.0,table table-striped past_event_rating
+1520,0,95,95,empty_scoreboard,0,1887,23.56,
+1521,30,4,26,ok,1,1883,0.0,table table-striped past_event_rating
+1522,0,4,4,empty_scoreboard,0,1185,0.0,
+1523,3301,119,3182,ok,1,93451,24.33,table table-striped past_event_rating
+1524,23,0,,ok,1,1912,0.0,table table-striped past_event_rating
+1525,982,49,933,ok,1,26451,23.56,table table-striped past_event_rating
+1528,0,27,27,empty_scoreboard,0,3438,0.0,
+1529,0,52,52,empty_scoreboard,0,985,0.0,
+153,12,7,5,ok,1,1778,20.0,table table-striped past_event_rating
+1530,11,8,3,ok,1,1862,25.0,table table-striped past_event_rating
+1533,133,0,,ok,1,5128,23.92,table table-striped past_event_rating
+1536,123,57,66,ok,1,4067,24.7,table table-striped past_event_rating
+1537,14,12,2,ok,1,1427,25.0,table table-striped past_event_rating
+1538,139,65,74,ok,1,6322,25.0,table table-striped past_event_rating
+1539,206,36,170,ok,1,6372,24.7,table table-striped past_event_rating
+154,395,100,295,ok,1,12377,70.0,table table-striped past_event_rating
+1540,602,82,520,ok,1,17067,36.72,table table-striped past_event_rating
+1541,1126,318,808,ok,1,30812,24.82,table table-striped past_event_rating
+1542,423,183,240,ok,1,11812,93.67,table table-striped past_event_rating
+1543,740,135,605,ok,1,22499,24.88,table table-striped past_event_rating
+1544,0,10,10,empty_scoreboard,0,738,0.0,
+1545,751,177,574,ok,1,23793,17.38,table table-striped past_event_rating
+1546,176,69,107,ok,1,5339,36.12,table table-striped past_event_rating
+1547,428,100,328,ok,1,12410,24.74,table table-striped past_event_rating
+1548,748,137,611,ok,1,23594,20.79,table table-striped past_event_rating
+1549,0,44,44,empty_scoreboard,0,2091,11.25,
+155,468,109,359,ok,1,15490,5.0,table table-striped past_event_rating
+1550,149,38,111,ok,1,4953,25.0,table table-striped past_event_rating
+1551,176,99,77,ok,1,5907,14.2,table table-striped past_event_rating
+1553,85,66,19,ok,1,3299,25.0,table table-striped past_event_rating
+1554,297,85,212,ok,1,8283,22.5,table table-striped past_event_rating
+1555,632,149,483,ok,1,17561,35.97,table table-striped past_event_rating
+1556,285,90,195,ok,1,9397,23.23,table table-striped past_event_rating
+1557,476,75,401,ok,1,13892,24.92,table table-striped past_event_rating
+1558,542,148,394,ok,1,15895,31.82,table table-striped past_event_rating
+1559,724,162,562,ok,1,20753,24.5,table table-striped past_event_rating
+1560,306,144,162,ok,1,11220,43.08,table table-striped past_event_rating
+1561,314,108,206,ok,1,9864,23.56,table table-striped past_event_rating
+1562,470,98,372,ok,1,14643,32.43,table table-striped past_event_rating
+1563,0,36,36,empty_scoreboard,0,825,0.0,
+1564,737,106,631,ok,1,20960,0.0,table table-striped past_event_rating
+1566,307,67,240,ok,1,10529,24.67,table table-striped past_event_rating
+1567,778,143,635,ok,1,23102,23.94,table table-striped past_event_rating
+1568,758,99,659,ok,1,22532,20.33,table table-striped past_event_rating
+1569,425,194,231,ok,1,13717,24.19,table table-striped past_event_rating
+157,0,0,,empty_scoreboard,0,1073,5.0,
+1570,0,12,12,empty_scoreboard,0,1908,0.0,
+1573,411,130,281,ok,1,12203,48.2,table table-striped past_event_rating
+1574,525,147,378,ok,1,14207,87.0,table table-striped past_event_rating
+1575,0,56,56,empty_scoreboard,0,1447,0.0,
+1576,0,12,12,empty_scoreboard,0,1234,0.0,
+1578,0,338,338,empty_scoreboard,0,1206,0.0,
+1579,371,88,283,ok,1,10662,21.61,table table-striped past_event_rating
+158,224,119,105,ok,1,9530,20.0,table table-striped past_event_rating
+1581,46,19,27,ok,1,2879,10.33,table table-striped past_event_rating
+1582,560,83,477,ok,1,16014,34.63,table table-striped past_event_rating
+1583,652,166,486,ok,1,18453,33.05,table table-striped past_event_rating
+1587,0,16,16,empty_scoreboard,0,635,0.0,
+1589,246,0,,ok,1,7561,19.21,table table-striped past_event_rating
+159,874,92,782,ok,1,23624,25.0,table table-striped past_event_rating
+1590,501,75,426,ok,1,16377,25.0,table table-striped past_event_rating
+1591,225,33,192,ok,1,7012,12.69,table table-striped past_event_rating
+1592,0,18,18,empty_scoreboard,0,732,33.78,
+1593,552,56,496,ok,1,16347,35.9,table table-striped past_event_rating
+1594,368,73,295,ok,1,10360,24.42,table table-striped past_event_rating
+1595,302,38,264,ok,1,9385,22.65,table table-striped past_event_rating
+1596,0,10,10,empty_scoreboard,0,836,0.0,
+1597,629,114,515,ok,1,18170,22.49,table table-striped past_event_rating
+1598,91,71,20,ok,1,3949,99.83,table table-striped past_event_rating
+1599,768,120,648,ok,1,21892,24.76,table table-striped past_event_rating
+16,11,0,,ok,1,948,30.0,table table-striped past_event_rating
+160,20,8,12,ok,1,2300,5.0,table table-striped past_event_rating
+1601,28,22,6,ok,1,2080,0.0,table table-striped past_event_rating
+1602,553,64,489,ok,1,15977,24.33,table table-striped past_event_rating
+1603,93,35,58,ok,1,3963,22.7,table table-striped past_event_rating
+1604,1092,208,884,ok,1,31027,23.76,table table-striped past_event_rating
+1605,585,60,525,ok,1,19337,19.36,table table-striped past_event_rating
+1606,0,34,34,empty_scoreboard,0,1295,0.0,
+1607,22,15,7,ok,1,1672,0.0,table table-striped past_event_rating
+1608,47,38,9,ok,1,2462,24.67,table table-striped past_event_rating
+1609,372,33,339,ok,1,10210,25.0,table table-striped past_event_rating
+161,12,4,8,ok,1,1231,10.0,table table-striped past_event_rating
+1610,198,58,140,ok,1,6867,25.0,table table-striped past_event_rating
+1611,88,73,15,ok,1,3427,45.57,table table-striped past_event_rating
+1612,516,52,464,ok,1,16086,24.33,table table-striped past_event_rating
+1613,881,187,694,ok,1,24921,23.7,table table-striped past_event_rating
+1614,13,0,,ok,1,1721,0.0,table table-striped past_event_rating
+1615,574,171,403,ok,1,15978,36.0,table table-striped past_event_rating
+1616,436,80,356,ok,1,13270,24.52,table table-striped past_event_rating
+1617,255,43,212,ok,1,7813,50.11,table table-striped past_event_rating
+1618,11,11,0,ok,1,1099,0.0,table table-striped past_event_rating
+162,0,12,12,empty_scoreboard,0,652,5.0,
+1620,228,90,138,ok,1,7321,35.11,table table-striped past_event_rating
+1622,130,80,50,ok,1,4449,23.61,table table-striped past_event_rating
+1624,0,14,14,empty_scoreboard,0,834,0.0,
+1625,1405,300,1105,ok,1,40490,32.24,table table-striped past_event_rating
+1626,11,35,24,row_count_undercount,1,1142,25.0,table table-striped past_event_rating
+1627,804,86,718,ok,1,23325,31.86,table table-striped past_event_rating
+1628,166,45,121,ok,1,7029,24.0,table table-striped past_event_rating
+1629,445,78,367,ok,1,12643,24.1,table table-striped past_event_rating
+1630,3247,253,2994,ok,1,91669,24.61,table table-striped past_event_rating
+1631,331,70,261,ok,1,9910,35.66,table table-striped past_event_rating
+1632,300,95,205,ok,1,9110,20.75,table table-striped past_event_rating
+1635,270,86,184,ok,1,7826,22.22,table table-striped past_event_rating
+1636,15,4,11,ok,1,1556,25.0,table table-striped past_event_rating
+1637,0,20,20,empty_scoreboard,0,1583,0.0,
+1638,0,36,36,empty_scoreboard,0,3030,0.0,
+1639,3663,205,3458,ok,1,104363,24.9,table table-striped past_event_rating
+164,23,112,89,row_count_undercount,1,1468,5.0,table table-striped past_event_rating
+1640,0,5,5,empty_scoreboard,0,1188,0.0,
+1641,381,385,4,ok,1,11535,97.84,table table-striped past_event_rating
+1642,15,11,4,ok,1,1279,22.62,table table-striped past_event_rating
+1643,455,31,424,ok,1,14472,24.5,table table-striped past_event_rating
+1644,0,0,,empty_scoreboard,0,993,0.0,
+1647,939,161,778,ok,1,27634,24.27,table table-striped past_event_rating
+1649,0,0,,empty_scoreboard,0,726,0.0,
+165,321,110,211,ok,1,13589,80.0,table table-striped past_event_rating
+1650,0,8,8,empty_scoreboard,0,605,0.0,
+1652,391,56,335,ok,1,11663,23.75,table table-striped past_event_rating
+1653,0,72,72,empty_scoreboard,0,1138,0.0,
+1654,0,119,119,empty_scoreboard,0,1028,0.0,
+1655,730,252,478,ok,1,21090,0.0,table table-striped past_event_rating
+1656,978,150,828,ok,1,27473,24.92,table table-striped past_event_rating
+1657,305,89,216,ok,1,10423,15.12,table table-striped past_event_rating
+1658,634,112,522,ok,1,18435,23.32,table table-striped past_event_rating
+1659,44,67,23,row_count_undercount,1,1939,51.22,table table-striped past_event_rating
+166,26,10,16,ok,1,1868,5.0,table table-striped past_event_rating
+1660,435,132,303,ok,1,12660,20.91,table table-striped past_event_rating
+1661,469,107,362,ok,1,13389,77.83,table table-striped past_event_rating
+1662,16,84,68,row_count_undercount,1,1513,96.33,table table-striped past_event_rating
+1663,631,136,495,ok,1,18104,24.23,table table-striped past_event_rating
+1664,0,21,21,empty_scoreboard,0,1620,0.0,
+1665,260,151,109,ok,1,9227,62.0,table table-striped past_event_rating
+1666,140,25,115,ok,1,4627,23.94,table table-striped past_event_rating
+1667,0,0,,empty_scoreboard,0,1160,22.37,
+1668,1355,88,1267,ok,1,39093,22.37,table table-striped past_event_rating
+1669,285,30,255,ok,1,8362,25.0,table table-striped past_event_rating
+167,9,33,24,row_count_undercount,1,5062,5.0,table table-striped past_event_rating
+1670,814,111,703,ok,1,23232,24.65,table table-striped past_event_rating
+1671,80,0,,ok,1,3356,36.0,table table-striped past_event_rating
+1672,153,146,7,ok,1,5332,21.5,table table-striped past_event_rating
+1673,20,10,10,ok,1,1280,0.0,table table-striped past_event_rating
+1674,475,0,,ok,1,12924,23.47,table table-striped past_event_rating
+1675,0,16,16,empty_scoreboard,0,882,0.0,
+1676,617,153,464,ok,1,17031,24.05,table table-striped past_event_rating
+1677,118,26,92,ok,1,4449,23.36,table table-striped past_event_rating
+1678,557,97,460,ok,1,16306,9.64,table table-striped past_event_rating
+1679,21,22,1,ok,1,1497,56.44,table table-striped past_event_rating
+168,4,13,9,row_count_undercount,1,1251,5.0,table table-striped past_event_rating
+1680,189,54,135,ok,1,6127,21.88,table table-striped past_event_rating
+1681,0,0,,empty_scoreboard,0,1018,0.0,
+1682,310,33,277,ok,1,8416,23.8,table table-striped past_event_rating
+1683,713,121,592,ok,1,19379,0.0,table table-striped past_event_rating
+1685,326,75,251,ok,1,10483,24.9,table table-striped past_event_rating
+1687,919,87,832,ok,1,44355,0.0,table table-striped past_event_rating
+1688,145,123,22,ok,1,5042,77.38,table table-striped past_event_rating
+1689,0,20,20,empty_scoreboard,0,1312,0.0,
+169,0,8,8,empty_scoreboard,0,3348,20.0,
+1690,221,103,118,ok,1,7313,25.0,table table-striped past_event_rating
+1691,0,0,,empty_scoreboard,0,750,0.0,
+1692,1170,185,985,ok,1,32514,25.43,table table-striped past_event_rating
+1693,0,97,97,empty_scoreboard,0,1288,19.21,
+1694,542,70,472,ok,1,17582,23.87,table table-striped past_event_rating
+1695,48,32,16,ok,1,2172,88.0,table table-striped past_event_rating
+1696,463,18,445,ok,1,14222,0.0,table table-striped past_event_rating
+1697,584,142,442,ok,1,16294,53.42,table table-striped past_event_rating
+1698,34,0,,ok,1,1902,0.0,table table-striped past_event_rating
+1699,541,120,421,ok,1,18316,12.23,table table-striped past_event_rating
+17,59,0,,ok,1,2050,50.0,table table-striped past_event_rating
+170,530,148,382,ok,1,14971,30.0,table table-striped past_event_rating
+1702,0,43,43,empty_scoreboard,0,793,0.0,
+1703,21,40,19,row_count_undercount,1,1786,23.15,table table-striped past_event_rating
+1706,410,27,383,ok,1,12186,47.77,table table-striped past_event_rating
+171,133,73,60,ok,1,4469,70.0,table table-striped past_event_rating
+1710,0,39,39,empty_scoreboard,0,1671,0.0,
+1712,457,84,373,ok,1,12384,25.0,table table-striped past_event_rating
+1713,18,26,8,row_count_undercount,1,1285,0.0,table table-striped past_event_rating
+1714,293,128,165,ok,1,9020,54.81,table table-striped past_event_rating
+1715,735,135,600,ok,1,20517,34.0,table table-striped past_event_rating
+1716,477,140,337,ok,1,12879,35.0,table table-striped past_event_rating
+1717,603,187,416,ok,1,18987,100.0,table table-striped past_event_rating
+1718,393,55,338,ok,1,11144,25.0,table table-striped past_event_rating
+1719,413,95,318,ok,1,11477,25.0,table table-striped past_event_rating
+172,3,4,1,row_count_undercount,1,864,5.0,table table-striped past_event_rating
+1720,0,0,,empty_scoreboard,0,1074,0.0,
+1721,0,117,117,empty_scoreboard,0,4496,0.0,
+1722,308,89,219,ok,1,15125,37.0,table table-striped past_event_rating
+1723,0,0,,empty_scoreboard,0,1169,0.0,
+1724,222,82,140,ok,1,7253,22.7,table table-striped past_event_rating
+1725,355,125,230,ok,1,9851,98.0,table table-striped past_event_rating
+1726,637,104,533,ok,1,17759,17.54,table table-striped past_event_rating
+1727,189,125,64,ok,1,5957,93.7,table table-striped past_event_rating
+1728,191,41,150,ok,1,6200,23.96,table table-striped past_event_rating
+1729,81,24,57,ok,1,4850,0.0,table table-striped past_event_rating
+173,373,53,320,ok,1,10650,20.0,table table-striped past_event_rating
+1730,81,84,3,ok,1,3361,24.88,table table-striped past_event_rating
+1731,297,65,232,ok,1,10892,23.12,table table-striped past_event_rating
+1732,979,208,771,ok,1,30475,24.93,table table-striped past_event_rating
+1734,0,25,25,empty_scoreboard,0,1812,0.0,
+1735,349,69,280,ok,1,10880,24.52,table table-striped past_event_rating
+1736,166,15,151,ok,1,6121,0.0,table table-striped past_event_rating
+1737,0,60,60,empty_scoreboard,0,976,0.0,
+1738,376,46,330,ok,1,11458,24.61,table table-striped past_event_rating
+1739,0,15,15,empty_scoreboard,0,865,0.0,
+174,56,27,29,ok,1,2114,30.0,table table-striped past_event_rating
+1740,688,131,557,ok,1,19700,24.81,table table-striped past_event_rating
+1741,87,16,71,ok,1,3270,0.0,table table-striped past_event_rating
+1742,386,91,295,ok,1,11007,24.9,table table-striped past_event_rating
+1743,242,52,190,ok,1,7272,26.54,table table-striped past_event_rating
+1745,720,86,634,ok,1,20849,23.54,table table-striped past_event_rating
+1746,252,44,208,ok,1,9012,23.58,table table-striped past_event_rating
+1747,153,52,101,ok,1,6436,23.58,table table-striped past_event_rating
+1748,240,76,164,ok,1,8751,23.58,table table-striped past_event_rating
+1749,252,51,201,ok,1,9206,23.58,table table-striped past_event_rating
+175,88,54,34,ok,1,12293,42.0,table table-striped past_event_rating
+1750,197,51,146,ok,1,7861,23.58,table table-striped past_event_rating
+1751,146,59,87,ok,1,6763,23.58,table table-striped past_event_rating
+1752,0,12,12,empty_scoreboard,0,825,25.0,
+1753,378,24,354,ok,1,10576,0.0,table table-striped past_event_rating
+1756,593,107,486,ok,1,16487,36.6,table table-striped past_event_rating
+1757,163,92,71,ok,1,5935,34.0,table table-striped past_event_rating
+1758,491,112,379,ok,1,14001,22.3,table table-striped past_event_rating
+1759,113,67,46,ok,1,3814,77.68,table table-striped past_event_rating
+176,43,9,34,ok,1,2055,5.0,table table-striped past_event_rating
+1760,440,72,368,ok,1,13752,24.45,table table-striped past_event_rating
+1761,48,1,47,ok,1,2340,25.0,table table-striped past_event_rating
+1762,140,26,114,ok,1,5548,20.0,table table-striped past_event_rating
+1763,150,154,4,ok,1,5099,36.94,table table-striped past_event_rating
+1764,726,154,572,ok,1,20178,97.9,table table-striped past_event_rating
+1765,0,21,21,empty_scoreboard,0,959,0.0,
+1766,203,65,138,ok,1,6300,24.17,table table-striped past_event_rating
+1768,14,33,19,row_count_undercount,1,1197,25.0,table table-striped past_event_rating
+1769,174,46,128,ok,1,5647,24.29,table table-striped past_event_rating
+177,37,0,,ok,1,4261,0.0,table table-striped past_event_rating
+1770,600,216,384,ok,1,16338,100.0,table table-striped past_event_rating
+1772,430,159,271,ok,1,12190,100.0,table table-striped past_event_rating
+1773,169,109,60,ok,1,5130,19.97,table table-striped past_event_rating
+1774,730,69,661,ok,1,20712,24.59,table table-striped past_event_rating
+1776,365,74,291,ok,1,10628,25.0,table table-striped past_event_rating
+1777,0,49,49,empty_scoreboard,0,1048,0.0,
+1778,0,22,22,empty_scoreboard,0,1500,0.0,
+1780,260,74,186,ok,1,9145,0.0,table table-striped past_event_rating
+1782,21,18,3,ok,1,2071,22.67,table table-striped past_event_rating
+1783,54,45,9,ok,1,2337,25.0,table table-striped past_event_rating
+1784,144,50,94,ok,1,4826,23.92,table table-striped past_event_rating
+1787,816,121,695,ok,1,22082,24.42,table table-striped past_event_rating
+1788,3186,98,3088,ok,1,90746,24.9,table table-striped past_event_rating
+179,190,39,151,ok,1,11248,5.0,table table-striped past_event_rating
+1790,426,129,297,ok,1,12159,20.82,table table-striped past_event_rating
+1791,629,61,568,ok,1,18367,23.95,table table-striped past_event_rating
+1792,848,189,659,ok,1,30154,17.38,table table-striped past_event_rating
+1793,154,32,122,ok,1,4607,51.0,table table-striped past_event_rating
+1794,0,0,,empty_scoreboard,0,913,0.0,
+1795,37,8,29,ok,1,1948,18.0,table table-striped past_event_rating
+1796,91,52,39,ok,1,3220,24.7,table table-striped past_event_rating
+1797,632,143,489,ok,1,17030,82.0,table table-striped past_event_rating
+1798,0,3,3,empty_scoreboard,0,952,0.0,
+18,8,0,,ok,1,913,70.0,table table-striped past_event_rating
+180,286,99,187,ok,1,8486,70.0,table table-striped past_event_rating
+1800,251,33,218,ok,1,7799,24.62,table table-striped past_event_rating
+1801,0,33,33,empty_scoreboard,0,1171,0.0,
+1802,0,96,96,empty_scoreboard,0,1109,0.0,
+1803,293,95,198,ok,1,8915,24.32,table table-striped past_event_rating
+1804,10,4,6,ok,1,1258,24.0,table table-striped past_event_rating
+1805,45,0,,ok,1,3834,0.0,table table-striped past_event_rating
+1806,363,42,321,ok,1,10301,88.18,table table-striped past_event_rating
+1807,0,0,,empty_scoreboard,0,1051,0.0,
+1808,0,2,2,empty_scoreboard,0,681,0.0,
+1809,249,0,,ok,1,8026,0.0,table table-striped past_event_rating
+181,3,1,2,ok,1,1486,5.0,table table-striped past_event_rating
+1810,228,63,165,ok,1,7516,24.58,table table-striped past_event_rating
+1811,204,21,183,ok,1,6508,21.85,table table-striped past_event_rating
+1812,387,77,310,ok,1,11457,24.1,table table-striped past_event_rating
+1813,0,59,59,empty_scoreboard,0,878,25.0,
+1814,11,8,3,ok,1,1218,0.0,table table-striped past_event_rating
+1815,297,33,264,ok,1,8696,24.71,table table-striped past_event_rating
+1818,0,26,26,empty_scoreboard,0,592,0.0,
+1819,23,0,,ok,1,2601,0.0,table table-striped past_event_rating
+182,10,5,5,ok,1,1838,15.0,table table-striped past_event_rating
+1820,0,35,35,empty_scoreboard,0,1155,0.0,
+1821,0,0,,empty_scoreboard,0,871,0.0,
+1822,137,77,60,ok,1,5794,20.17,table table-striped past_event_rating
+1823,219,53,166,ok,1,6504,0.0,table table-striped past_event_rating
+1824,0,0,,empty_scoreboard,0,1365,0.0,
+1825,328,59,269,ok,1,15891,24.9,table table-striped past_event_rating
+1826,3,7,4,row_count_undercount,1,2593,0.0,table table-striped past_event_rating
+1827,53,0,,ok,1,2375,0.0,table table-striped past_event_rating
+1828,431,89,342,ok,1,13573,24.88,table table-striped past_event_rating
+1829,11,9,2,ok,1,1737,25.0,table table-striped past_event_rating
+183,804,79,725,ok,1,21985,25.0,table table-striped past_event_rating
+1830,475,81,394,ok,1,13697,22.07,table table-striped past_event_rating
+1831,134,85,49,ok,1,5035,21.38,table table-striped past_event_rating
+1832,0,0,,empty_scoreboard,0,675,0.0,
+1836,0,14,14,empty_scoreboard,0,1295,0.0,
+1837,379,61,318,ok,1,11247,40.0,table table-striped past_event_rating
+1838,1041,265,776,ok,1,28498,36.7,table table-striped past_event_rating
+1839,774,149,625,ok,1,22931,24.56,table table-striped past_event_rating
+184,15,0,,ok,1,1097,30.0,table table-striped past_event_rating
+1840,0,0,,empty_scoreboard,0,1086,0.0,
+1841,0,0,,empty_scoreboard,0,1086,0.0,
+1842,600,58,542,ok,1,17597,53.89,table table-striped past_event_rating
+1843,1021,16,1005,ok,1,29041,24.61,table table-striped past_event_rating
+1844,0,0,,empty_scoreboard,0,621,23.23,
+1845,181,160,21,ok,1,5512,100.0,table table-striped past_event_rating
+1847,140,114,26,ok,1,4851,24.33,table table-striped past_event_rating
+1848,365,111,254,ok,1,11069,24.96,table table-striped past_event_rating
+185,894,182,712,ok,1,23480,75.0,table table-striped past_event_rating
+1850,84,50,34,ok,1,3398,23.14,table table-striped past_event_rating
+1852,326,47,279,ok,1,10753,25.0,table table-striped past_event_rating
+1853,147,87,60,ok,1,5913,26.82,table table-striped past_event_rating
+1854,0,0,,empty_scoreboard,0,1005,0.0,
+1855,76,26,50,ok,1,2835,25.0,table table-striped past_event_rating
+1856,507,106,401,ok,1,14954,23.94,table table-striped past_event_rating
+1857,651,205,446,ok,1,18552,59.6,table table-striped past_event_rating
+1858,285,68,217,ok,1,9954,29.26,table table-striped past_event_rating
+1859,1299,125,1174,ok,1,36344,86.3,table table-striped past_event_rating
+186,377,41,336,ok,1,11944,10.0,table table-striped past_event_rating
+1861,0,127,127,empty_scoreboard,0,1164,0.0,
+1862,104,31,73,ok,1,4326,0.0,table table-striped past_event_rating
+1863,12,15,3,row_count_undercount,1,1123,0.0,table table-striped past_event_rating
+1864,10,4,6,ok,1,1119,25.0,table table-striped past_event_rating
+1865,1047,118,929,ok,1,28753,24.76,table table-striped past_event_rating
+1866,599,109,490,ok,1,17797,24.33,table table-striped past_event_rating
+1868,0,0,,empty_scoreboard,0,1077,0.0,
+1869,111,37,74,ok,1,4805,0.0,table table-striped past_event_rating
+1870,22,14,8,ok,1,1957,0.0,table table-striped past_event_rating
+1871,534,245,289,ok,1,15054,76.38,table table-striped past_event_rating
+1872,449,174,275,ok,1,13463,32.76,table table-striped past_event_rating
+1873,595,27,568,ok,1,17129,0.0,table table-striped past_event_rating
+1874,114,113,1,ok,1,4161,65.42,table table-striped past_event_rating
+1875,425,59,366,ok,1,12127,36.84,table table-striped past_event_rating
+1876,306,70,236,ok,1,9298,0.0,table table-striped past_event_rating
+1877,248,36,212,ok,1,7592,24.64,table table-striped past_event_rating
+1878,904,168,736,ok,1,26418,24.21,table table-striped past_event_rating
+1879,359,88,271,ok,1,10613,35.91,table table-striped past_event_rating
+188,412,106,306,ok,1,11976,30.0,table table-striped past_event_rating
+1880,522,114,408,ok,1,15955,21.55,table table-striped past_event_rating
+1881,439,150,289,ok,1,12891,16.93,table table-striped past_event_rating
+1883,340,55,285,ok,1,9843,24.64,table table-striped past_event_rating
+1884,197,77,120,ok,1,6701,23.64,table table-striped past_event_rating
+1885,418,57,361,ok,1,10877,28.0,table table-striped past_event_rating
+1886,112,13,99,ok,1,4795,0.0,table table-striped past_event_rating
+1887,561,75,486,ok,1,16498,23.29,table table-striped past_event_rating
+1888,0,27,27,empty_scoreboard,0,854,0.0,
+1889,4488,138,4350,ok,1,135300,23.21,table table-striped past_event_rating
+189,18,7,11,ok,1,1236,0.0,table table-striped past_event_rating
+1891,0,20,20,empty_scoreboard,0,615,0.0,
+1892,500,97,403,ok,1,15010,24.8,table table-striped past_event_rating
+1893,381,126,255,ok,1,11046,43.5,table table-striped past_event_rating
+1894,0,25,25,empty_scoreboard,0,1398,0.0,
+1895,854,181,673,ok,1,25553,15.12,table table-striped past_event_rating
+1896,0,14,14,empty_scoreboard,0,746,0.0,
+1898,421,143,278,ok,1,12227,53.62,table table-striped past_event_rating
+1899,815,189,626,ok,1,22882,50.75,table table-striped past_event_rating
+19,72,0,,ok,1,2249,40.0,table table-striped past_event_rating
+190,64,18,46,ok,1,3227,5.0,table table-striped past_event_rating
+1900,433,89,344,ok,1,12066,25.0,table table-striped past_event_rating
+1901,127,32,95,ok,1,4668,22.91,table table-striped past_event_rating
+1902,35,0,,ok,1,1925,23.34,table table-striped past_event_rating
+1903,140,73,67,ok,1,5604,24.82,table table-striped past_event_rating
+1905,0,0,,empty_scoreboard,0,628,0.0,
+1906,29,11,18,ok,1,2066,0.0,table table-striped past_event_rating
+1907,364,92,272,ok,1,11592,24.52,table table-striped past_event_rating
+1908,481,68,413,ok,1,18211,25.0,table table-striped past_event_rating
+191,582,124,458,ok,1,15253,40.0,table table-striped past_event_rating
+1910,249,128,121,ok,1,8931,33.88,table table-striped past_event_rating
+1911,244,18,226,ok,1,9163,0.0,table table-striped past_event_rating
+1912,570,126,444,ok,1,16239,34.17,table table-striped past_event_rating
+1913,239,46,193,ok,1,7302,0.0,table table-striped past_event_rating
+1914,609,113,496,ok,1,17813,37.0,table table-striped past_event_rating
+1915,0,23,23,empty_scoreboard,0,1239,0.0,
+1916,0,5,5,empty_scoreboard,0,1880,0.0,
+1917,16,9,7,ok,1,1215,0.0,table table-striped past_event_rating
+1918,0,11,11,empty_scoreboard,0,795,0.0,
+1919,336,55,281,ok,1,9796,43.54,table table-striped past_event_rating
+192,228,78,150,ok,1,7451,5.0,table table-striped past_event_rating
+1920,187,30,157,ok,1,5821,0.0,table table-striped past_event_rating
+1921,227,126,101,ok,1,6974,94.73,table table-striped past_event_rating
+1922,15,2,13,ok,1,1520,90.0,table table-striped past_event_rating
+1923,981,283,698,ok,1,29135,24.86,table table-striped past_event_rating
+1924,497,58,439,ok,1,14229,23.55,table table-striped past_event_rating
+1925,0,9,9,empty_scoreboard,0,1915,0.0,
+1926,0,0,,empty_scoreboard,0,1308,0.0,
+1927,246,30,216,ok,1,7938,25.0,table table-striped past_event_rating
+1928,592,148,444,ok,1,17107,36.97,table table-striped past_event_rating
+1929,675,507,168,ok,1,20356,99.74,table table-striped past_event_rating
+193,78,11,67,ok,1,3054,0.0,table table-striped past_event_rating
+1930,314,160,154,ok,1,9331,53.0,table table-striped past_event_rating
+1931,399,78,321,ok,1,11598,24.0,table table-striped past_event_rating
+1932,294,47,247,ok,1,8644,35.0,table table-striped past_event_rating
+1934,108,14,94,ok,1,4193,29.87,table table-striped past_event_rating
+1935,542,124,418,ok,1,16006,20.91,table table-striped past_event_rating
+1936,0,0,,empty_scoreboard,0,1026,0.0,
+1937,0,0,,empty_scoreboard,0,1593,0.0,
+1938,454,64,390,ok,1,13857,22.46,table table-striped past_event_rating
+1940,156,72,84,ok,1,5342,32.0,table table-striped past_event_rating
+1941,411,52,359,ok,1,11840,33.38,table table-striped past_event_rating
+1942,149,89,60,ok,1,5354,24.8,table table-striped past_event_rating
+1944,92,27,65,ok,1,4089,9.42,table table-striped past_event_rating
+1945,12,11,1,ok,1,1907,24.5,table table-striped past_event_rating
+1946,719,149,570,ok,1,20951,12.23,table table-striped past_event_rating
+1947,351,60,291,ok,1,11277,25.0,table table-striped past_event_rating
+1949,744,111,633,ok,1,22040,43.77,table table-striped past_event_rating
+195,24,8,16,ok,1,1485,30.0,table table-striped past_event_rating
+1950,96,21,75,ok,1,3485,25.0,table table-striped past_event_rating
+1951,1082,122,960,ok,1,32974,34.92,table table-striped past_event_rating
+1952,643,220,423,ok,1,17397,89.8,table table-striped past_event_rating
+1953,267,170,97,ok,1,7700,83.0,table table-striped past_event_rating
+1954,1423,299,1124,ok,1,41177,46.63,table table-striped past_event_rating
+1955,751,204,547,ok,1,21526,90.9,table table-striped past_event_rating
+1956,22,12,10,ok,1,1315,25.0,table table-striped past_event_rating
+1957,0,21,21,empty_scoreboard,0,951,0.0,
+1958,235,21,214,ok,1,7359,23.84,table table-striped past_event_rating
+1959,234,21,213,ok,1,7978,23.89,table table-striped past_event_rating
+196,219,68,151,ok,1,7474,40.0,table table-striped past_event_rating
+1960,203,69,134,ok,1,6192,24.75,table table-striped past_event_rating
+1961,25,9,16,ok,1,2086,0.0,table table-striped past_event_rating
+1962,446,122,324,ok,1,13051,23.96,table table-striped past_event_rating
+1963,382,56,326,ok,1,11688,25.0,table table-striped past_event_rating
+1964,0,12,12,empty_scoreboard,0,6594,0.0,
+1965,442,80,362,ok,1,13575,24.58,table table-striped past_event_rating
+1966,52,34,18,ok,1,2758,24.0,table table-striped past_event_rating
+1967,3,23,20,row_count_undercount,1,1570,0.0,table table-striped past_event_rating
+1968,170,14,156,ok,1,5487,0.0,table table-striped past_event_rating
+197,250,86,164,ok,1,8095,20.0,table table-striped past_event_rating
+1970,0,0,,empty_scoreboard,0,546,0.0,
+1971,8,4,4,ok,1,1226,24.67,table table-striped past_event_rating
+1972,476,133,343,ok,1,13848,52.62,table table-striped past_event_rating
+1973,724,227,497,ok,1,19917,0.0,table table-striped past_event_rating
+1974,408,69,339,ok,1,11729,39.0,table table-striped past_event_rating
+1975,346,71,275,ok,1,10599,22.83,table table-striped past_event_rating
+1976,146,28,118,ok,1,4833,70.78,table table-striped past_event_rating
+1977,0,14,14,empty_scoreboard,0,1116,0.0,
+1978,75,0,,ok,1,3151,0.0,table table-striped past_event_rating
+1979,377,68,309,ok,1,11406,25.0,table table-striped past_event_rating
+198,654,82,572,ok,1,17457,30.0,table table-striped past_event_rating
+1980,0,32,32,empty_scoreboard,0,1012,0.0,
+1982,0,2,2,empty_scoreboard,0,1324,0.0,
+1983,913,155,758,ok,1,26092,24.54,table table-striped past_event_rating
+1984,940,42,898,ok,1,27203,41.05,table table-striped past_event_rating
+1985,0,0,,empty_scoreboard,0,936,0.0,
+1986,40,0,,ok,1,2092,19.0,table table-striped past_event_rating
+1987,517,142,375,ok,1,14803,24.29,table table-striped past_event_rating
+1988,840,47,793,ok,1,23348,24.99,table table-striped past_event_rating
+1989,698,188,510,ok,1,23294,23.21,table table-striped past_event_rating
+199,47,17,30,ok,1,3383,5.0,table table-striped past_event_rating
+1990,0,55,55,empty_scoreboard,0,726,0.0,
+1991,12,27,15,row_count_undercount,1,960,0.0,table table-striped past_event_rating
+1992,830,236,594,ok,1,26324,24.32,table table-striped past_event_rating
+1993,0,7,7,empty_scoreboard,0,940,0.0,
+1994,30,7,23,ok,1,1812,0.0,table table-striped past_event_rating
+1995,10,15,5,row_count_undercount,1,1769,0.0,table table-striped past_event_rating
+1996,0,8,8,empty_scoreboard,0,1904,0.0,
+1997,240,40,200,ok,1,7681,9.0,table table-striped past_event_rating
+1998,0,16,16,empty_scoreboard,0,1444,0.0,
+1999,112,26,86,ok,1,3943,22.5,table table-striped past_event_rating
+2,303,2,301,ok,1,12656,100.0,table table-striped past_event_rating
+20,8,0,,ok,1,872,70.0,table table-striped past_event_rating
+200,416,64,352,ok,1,11809,5.0,table table-striped past_event_rating
+2000,660,80,580,ok,1,18731,24.44,table table-striped past_event_rating
+2001,499,201,298,ok,1,15564,24.85,table table-striped past_event_rating
+2002,160,12,148,ok,1,5393,22.17,table table-striped past_event_rating
+2003,653,166,487,ok,1,18169,100.0,table table-striped past_event_rating
+2005,275,70,205,ok,1,8123,25.0,table table-striped past_event_rating
+2006,47,61,14,row_count_undercount,1,6063,25.0,table table-striped past_event_rating
+2007,10,0,,ok,1,4220,0.0,table table-striped past_event_rating
+2008,162,85,77,ok,1,5701,21.88,table table-striped past_event_rating
+201,133,158,25,row_count_undercount,1,4839,70.0,table table-striped past_event_rating
+2010,20,18,2,ok,1,1293,0.0,table table-striped past_event_rating
+2011,108,103,5,ok,1,4261,97.89,table table-striped past_event_rating
+2012,0,0,,empty_scoreboard,0,1119,0.0,
+2013,560,107,453,ok,1,15913,25.0,table table-striped past_event_rating
+2015,879,134,745,ok,1,24672,34.52,table table-striped past_event_rating
+2016,30,19,11,ok,1,2496,22.67,table table-striped past_event_rating
+2017,602,109,493,ok,1,17855,18.8,table table-striped past_event_rating
+2019,683,203,480,ok,1,18409,99.75,table table-striped past_event_rating
+2020,14,25,11,row_count_undercount,1,1734,25.0,table table-striped past_event_rating
+2021,177,6,171,ok,1,5640,24.7,table table-striped past_event_rating
+2022,117,45,72,ok,1,3963,0.0,table table-striped past_event_rating
+2023,1682,0,,ok,1,47981,34.82,table table-striped past_event_rating
+2024,361,44,317,ok,1,10310,22.45,table table-striped past_event_rating
+2025,399,43,356,ok,1,12344,24.69,table table-striped past_event_rating
+2027,28,0,,ok,1,1878,0.0,table table-striped past_event_rating
+2028,0,5,5,empty_scoreboard,0,1170,25.0,
+2029,150,77,73,ok,1,5452,24.81,table table-striped past_event_rating
+203,20,27,7,row_count_undercount,1,1466,20.0,table table-striped past_event_rating
+2030,985,166,819,ok,1,28266,24.52,table table-striped past_event_rating
+2031,1102,171,931,ok,1,30895,33.74,table table-striped past_event_rating
+2032,382,49,333,ok,1,12162,20.33,table table-striped past_event_rating
+2034,963,224,739,ok,1,27869,33.71,table table-striped past_event_rating
+2035,11,21,10,row_count_undercount,1,1130,25.0,table table-striped past_event_rating
+2037,127,71,56,ok,1,4745,43.0,table table-striped past_event_rating
+2039,8,23,15,row_count_undercount,1,960,25.0,table table-striped past_event_rating
+204,70,23,47,ok,1,2453,5.0,table table-striped past_event_rating
+2040,100,83,17,ok,1,3743,100.0,table table-striped past_event_rating
+2041,286,82,204,ok,1,8752,24.23,table table-striped past_event_rating
+2042,322,160,162,ok,1,13316,11.23,table table-striped past_event_rating
+2043,0,42,42,empty_scoreboard,0,814,0.0,
+2045,235,0,,ok,1,8942,24.0,table table-striped past_event_rating
+2046,159,67,92,ok,1,5539,20.0,table table-striped past_event_rating
+2047,446,98,348,ok,1,12440,51.0,table table-striped past_event_rating
+2048,142,208,66,row_count_undercount,1,4851,25.0,table table-striped past_event_rating
+2049,139,71,68,ok,1,4904,90.62,table table-striped past_event_rating
+205,160,70,90,ok,1,5671,5.0,table table-striped past_event_rating
+2052,641,56,585,ok,1,20313,33.53,table table-striped past_event_rating
+2053,600,91,509,ok,1,17636,23.32,table table-striped past_event_rating
+2054,379,76,303,ok,1,11109,23.94,table table-striped past_event_rating
+2055,1183,101,1082,ok,1,34641,23.94,table table-striped past_event_rating
+2056,333,128,205,ok,1,9555,79.09,table table-striped past_event_rating
+2057,57,0,,ok,1,2395,25.0,table table-striped past_event_rating
+2058,517,99,418,ok,1,15274,23.08,table table-striped past_event_rating
+2059,129,8,121,ok,1,4909,0.0,table table-striped past_event_rating
+206,11,9,2,ok,1,1239,30.0,table table-striped past_event_rating
+2060,107,37,70,ok,1,3991,29.0,table table-striped past_event_rating
+2061,30,37,7,row_count_undercount,1,1811,36.71,table table-striped past_event_rating
+2062,706,83,623,ok,1,18142,97.33,table table-striped past_event_rating
+2064,0,17,17,empty_scoreboard,0,927,0.0,
+2065,394,43,351,ok,1,11484,25.0,table table-striped past_event_rating
+2066,24,18,6,ok,1,3631,0.0,table table-striped past_event_rating
+2067,466,51,415,ok,1,13295,24.27,table table-striped past_event_rating
+2068,21,17,4,ok,1,1487,100.0,table table-striped past_event_rating
+2069,213,79,134,ok,1,6587,23.96,table table-striped past_event_rating
+207,325,169,156,ok,1,10080,30.0,table table-striped past_event_rating
+2070,35,33,2,ok,1,2673,0.0,table table-striped past_event_rating
+2071,242,0,,ok,1,6862,0.0,table table-striped past_event_rating
+2072,451,61,390,ok,1,14029,24.67,table table-striped past_event_rating
+2073,81,206,125,row_count_undercount,1,3159,100.0,table table-striped past_event_rating
+2075,34,8,26,ok,1,3014,0.0,table table-striped past_event_rating
+2076,110,12,98,ok,1,4106,24.79,table table-striped past_event_rating
+2077,11,4,7,ok,1,1483,25.0,table table-striped past_event_rating
+2078,12,0,,ok,1,1031,34.49,table table-striped past_event_rating
+2079,819,120,699,ok,1,22610,34.09,table table-striped past_event_rating
+208,449,115,334,ok,1,12985,30.0,table table-striped past_event_rating
+2080,257,45,212,ok,1,8456,37.0,table table-striped past_event_rating
+2081,0,23,23,empty_scoreboard,0,1758,0.0,
+2082,34,14,20,ok,1,1816,24.75,table table-striped past_event_rating
+2083,5,0,,ok,1,835,0.0,table table-striped past_event_rating
+2084,73,33,40,ok,1,2768,25.0,table table-striped past_event_rating
+2085,1207,167,1040,ok,1,34771,24.59,table table-striped past_event_rating
+2086,368,86,282,ok,1,12938,23.12,table table-striped past_event_rating
+2087,1096,186,910,ok,1,31063,21.8,table table-striped past_event_rating
+2089,10,9,1,ok,1,1750,25.0,table table-striped past_event_rating
+2090,14,6,8,ok,1,1828,37.0,table table-striped past_event_rating
+2091,51,0,,ok,1,2361,0.0,table table-striped past_event_rating
+2092,85,42,43,ok,1,3160,18.42,table table-striped past_event_rating
+2093,0,0,,empty_scoreboard,0,1566,0.0,
+2094,203,56,147,ok,1,6936,5.0,table table-striped past_event_rating
+2096,123,49,74,ok,1,4107,23.92,table table-striped past_event_rating
+2097,0,0,,empty_scoreboard,0,2030,0.0,
+2099,158,50,108,ok,1,6203,6.67,table table-striped past_event_rating
+21,41,0,,ok,1,1686,30.0,table table-striped past_event_rating
+210,0,19,19,empty_scoreboard,0,1074,0.0,
+2100,468,128,340,ok,1,14702,20.95,table table-striped past_event_rating
+2101,0,44,44,empty_scoreboard,0,2180,0.0,
+2102,1074,209,865,ok,1,33251,24.93,table table-striped past_event_rating
+2103,150,47,103,ok,1,5535,24.68,table table-striped past_event_rating
+2104,20,15,5,ok,1,1411,23.8,table table-striped past_event_rating
+2105,0,16,16,empty_scoreboard,0,1666,0.0,
+2106,306,111,195,ok,1,11661,24.83,table table-striped past_event_rating
+2107,0,38,38,empty_scoreboard,0,1461,6.67,
+2108,260,11,249,ok,1,8476,6.67,table table-striped past_event_rating
+2109,45,23,22,ok,1,2377,25.0,table table-striped past_event_rating
+211,96,25,71,ok,1,4563,5.0,table table-striped past_event_rating
+2110,9,31,22,row_count_undercount,1,1190,69.82,table table-striped past_event_rating
+2111,539,150,389,ok,1,15124,40.71,table table-striped past_event_rating
+2112,0,58,58,empty_scoreboard,0,1998,25.0,
+2113,193,0,,ok,1,7100,0.0,table table-striped past_event_rating
+2114,38,17,21,ok,1,1872,0.0,table table-striped past_event_rating
+2116,0,0,,empty_scoreboard,0,835,0.0,
+2117,293,247,46,ok,1,9015,79.83,table table-striped past_event_rating
+2118,0,3,3,empty_scoreboard,0,736,0.0,
+2119,865,273,592,ok,1,23227,49.1,table table-striped past_event_rating
+212,284,131,153,ok,1,8067,90.0,table table-striped past_event_rating
+2120,24,81,57,row_count_undercount,1,1686,71.71,table table-striped past_event_rating
+2122,311,72,239,ok,1,11642,55.0,table table-striped past_event_rating
+2123,3,14,11,row_count_undercount,1,1647,0.0,table table-striped past_event_rating
+2124,0,0,,empty_scoreboard,0,608,0.0,
+2125,102,0,,ok,1,3212,0.0,table table-striped past_event_rating
+2126,435,60,375,ok,1,13195,24.61,table table-striped past_event_rating
+2127,0,10,10,empty_scoreboard,0,1245,0.0,
+2128,18,4,14,ok,1,1438,25.0,table table-striped past_event_rating
+2129,151,35,116,ok,1,4913,24.17,table table-striped past_event_rating
+213,15,20,5,row_count_undercount,1,1896,80.0,table table-striped past_event_rating
+2130,0,53,53,empty_scoreboard,0,894,0.0,
+2131,10,11,1,row_count_undercount,1,1561,0.0,table table-striped past_event_rating
+2132,11,7,4,ok,1,1013,25.0,table table-striped past_event_rating
+2134,690,150,540,ok,1,20679,24.23,table table-striped past_event_rating
+2135,0,67,67,empty_scoreboard,0,2561,0.0,
+2136,249,39,210,ok,1,7976,24.21,table table-striped past_event_rating
+2137,372,95,277,ok,1,11324,22.4,table table-striped past_event_rating
+2138,362,108,254,ok,1,10944,40.4,table table-striped past_event_rating
+2139,477,241,236,ok,1,13860,32.0,table table-striped past_event_rating
+214,10,7,3,ok,1,971,60.0,table table-striped past_event_rating
+2140,0,0,,empty_scoreboard,0,1282,0.0,
+2141,444,75,369,ok,1,13562,22.45,table table-striped past_event_rating
+2142,0,0,,empty_scoreboard,0,715,0.0,
+2143,550,128,422,ok,1,15641,20.82,table table-striped past_event_rating
+2145,0,34,34,empty_scoreboard,0,741,25.0,
+2146,28,21,7,ok,1,1715,19.8,table table-striped past_event_rating
+2147,13,13,0,ok,1,1431,0.0,table table-striped past_event_rating
+2148,0,3,3,empty_scoreboard,0,1237,0.0,
+2149,416,59,357,ok,1,18148,23.21,table table-striped past_event_rating
+215,12,4,8,ok,1,907,20.0,table table-striped past_event_rating
+2150,0,0,,empty_scoreboard,0,685,50.0,
+2151,213,4,209,ok,1,6230,25.0,table table-striped past_event_rating
+2152,0,0,,empty_scoreboard,0,1487,0.0,
+2153,787,110,677,ok,1,23070,34.0,table table-striped past_event_rating
+2155,0,0,,empty_scoreboard,0,686,0.0,
+2156,0,0,,empty_scoreboard,0,2835,0.0,
+2157,0,0,,empty_scoreboard,0,1300,0.0,
+2158,180,43,137,ok,1,5331,24.79,table table-striped past_event_rating
+2159,12,23,11,row_count_undercount,1,1227,25.0,table table-striped past_event_rating
+216,0,80,80,empty_scoreboard,0,3287,0.0,
+2160,12,6,6,ok,1,1114,0.0,table table-striped past_event_rating
+2161,191,24,167,ok,1,6193,25.0,table table-striped past_event_rating
+2162,0,3,3,empty_scoreboard,0,778,0.0,
+2163,443,80,363,ok,1,12533,24.71,table table-striped past_event_rating
+2164,168,46,122,ok,1,7021,6.67,table table-striped past_event_rating
+2165,984,227,757,ok,1,30168,23.84,table table-striped past_event_rating
+2166,0,0,,empty_scoreboard,0,1120,0.0,
+2167,0,17,17,empty_scoreboard,0,1027,0.0,
+2168,41,4,37,ok,1,2134,18.0,table table-striped past_event_rating
+2169,343,20,323,ok,1,9804,0.0,table table-striped past_event_rating
+217,0,16,16,empty_scoreboard,0,1088,0.0,
+2170,0,82,82,empty_scoreboard,0,877,50.0,
+2171,62,4,58,ok,1,3746,0.0,table table-striped past_event_rating
+2172,1089,274,815,ok,1,29300,97.04,table table-striped past_event_rating
+2173,763,205,558,ok,1,21642,22.07,table table-striped past_event_rating
+2174,0,3,3,empty_scoreboard,0,943,0.0,
+2175,0,12,12,empty_scoreboard,0,1025,0.0,
+2176,16,0,,ok,1,1615,0.0,table table-striped past_event_rating
+2177,0,27,27,empty_scoreboard,0,1754,0.0,
+2179,260,60,200,ok,1,10625,23.59,table table-striped past_event_rating
+218,0,6,6,empty_scoreboard,0,593,0.0,
+2181,508,226,282,ok,1,15152,24.72,table table-striped past_event_rating
+2182,16,1,15,ok,1,2060,0.0,table table-striped past_event_rating
+2183,14,0,,ok,1,1937,0.0,table table-striped past_event_rating
+2184,18,0,,ok,1,2064,0.0,table table-striped past_event_rating
+2185,14,0,,ok,1,1872,0.0,table table-striped past_event_rating
+2186,16,0,,ok,1,1990,0.0,table table-striped past_event_rating
+2187,9,0,,ok,1,1888,0.0,table table-striped past_event_rating
+2188,20,0,,ok,1,1976,0.0,table table-striped past_event_rating
+2189,11,0,,ok,1,1888,0.0,table table-striped past_event_rating
+219,0,3,3,empty_scoreboard,0,1317,0.0,
+2190,6,0,,ok,1,1822,0.0,table table-striped past_event_rating
+2192,7,0,,ok,1,1969,0.0,table table-striped past_event_rating
+2193,7,0,,ok,1,1365,0.0,table table-striped past_event_rating
+2194,10,0,,ok,1,1312,0.0,table table-striped past_event_rating
+2195,15,0,,ok,1,1436,0.0,table table-striped past_event_rating
+2196,92,26,66,ok,1,4764,25.0,table table-striped past_event_rating
+2197,12,2,10,ok,1,985,0.0,table table-striped past_event_rating
+2198,13,6,7,ok,1,919,0.0,table table-striped past_event_rating
+2199,21,198,177,row_count_undercount,1,2205,25.0,table table-striped past_event_rating
+22,64,0,,ok,1,2360,80.0,table table-striped past_event_rating
+220,0,18,18,empty_scoreboard,1,1239,0.0,
+2200,257,240,17,ok,1,7929,35.91,table table-striped past_event_rating
+2201,0,24,24,empty_scoreboard,0,1723,0.0,
+2202,0,0,,empty_scoreboard,0,2300,6.67,
+2203,41,24,17,ok,1,2570,0.0,table table-striped past_event_rating
+2204,0,2,2,empty_scoreboard,0,1457,0.0,
+2205,653,187,466,ok,1,18235,24.59,table table-striped past_event_rating
+2206,430,59,371,ok,1,13985,24.21,table table-striped past_event_rating
+2207,352,34,318,ok,1,10198,24.0,table table-striped past_event_rating
+2208,185,46,139,ok,1,6482,0.0,table table-striped past_event_rating
+2209,733,163,570,ok,1,21124,6.65,table table-striped past_event_rating
+221,9,0,,ok,1,927,10.0,table table-striped past_event_rating
+2210,369,83,286,ok,1,11659,65.62,table table-striped past_event_rating
+2211,297,114,183,ok,1,8415,66.25,table table-striped past_event_rating
+2212,838,155,683,ok,1,24672,74.41,table table-striped past_event_rating
+2213,9,51,42,row_count_undercount,1,1022,9.64,table table-striped past_event_rating
+2214,0,0,,empty_scoreboard,0,850,0.0,
+2215,0,0,,empty_scoreboard,0,1346,0.0,
+2216,614,239,375,ok,1,18484,25.0,table table-striped past_event_rating
+2217,1039,266,773,ok,1,28523,54.4,table table-striped past_event_rating
+2219,1225,206,1019,ok,1,35364,23.9,table table-striped past_event_rating
+222,0,8,8,empty_scoreboard,0,738,0.0,
+2220,0,0,,empty_scoreboard,0,1650,0.0,
+2221,58,21,37,ok,1,3305,0.0,table table-striped past_event_rating
+2222,696,210,486,ok,1,20389,23.15,table table-striped past_event_rating
+2223,575,205,370,ok,1,17534,26.89,table table-striped past_event_rating
+2224,106,104,2,ok,1,4312,100.0,table table-striped past_event_rating
+2225,46,0,,ok,1,2430,0.0,table table-striped past_event_rating
+2226,1160,248,912,ok,1,32755,24.54,table table-striped past_event_rating
+2227,725,169,556,ok,1,20789,24.21,table table-striped past_event_rating
+2228,30,21,9,ok,1,2025,0.0,table table-striped past_event_rating
+2229,263,341,78,row_count_undercount,1,7921,77.38,table table-striped past_event_rating
+223,197,114,83,ok,1,7731,40.0,table table-striped past_event_rating
+2230,520,87,433,ok,1,16709,21.26,table table-striped past_event_rating
+2231,601,240,361,ok,1,17209,23.95,table table-striped past_event_rating
+2232,0,0,,empty_scoreboard,0,596,25.0,
+2233,0,7,7,empty_scoreboard,0,1031,0.0,
+2234,203,125,78,ok,1,7051,25.0,table table-striped past_event_rating
+2235,920,162,758,ok,1,26592,21.81,table table-striped past_event_rating
+2236,317,63,254,ok,1,9142,23.5,table table-striped past_event_rating
+2237,0,40,40,empty_scoreboard,0,1143,0.0,
+2238,403,116,287,ok,1,11991,48.25,table table-striped past_event_rating
+224,0,18,18,empty_scoreboard,0,1271,0.0,
+2240,622,119,503,ok,1,18614,35.25,table table-striped past_event_rating
+2241,279,87,192,ok,1,9066,25.0,table table-striped past_event_rating
+2242,407,107,300,ok,1,12391,22.46,table table-striped past_event_rating
+2243,1230,355,875,ok,1,35799,36.96,table table-striped past_event_rating
+2244,0,35,35,empty_scoreboard,0,1403,0.0,
+2245,486,183,303,ok,1,13478,95.19,table table-striped past_event_rating
+2246,10,21,11,row_count_undercount,1,1357,24.0,table table-striped past_event_rating
+2247,243,96,147,ok,1,7697,35.74,table table-striped past_event_rating
+2248,961,279,682,ok,1,27710,34.0,table table-striped past_event_rating
+2249,113,33,80,ok,1,4533,24.93,table table-striped past_event_rating
+225,61,13,48,ok,1,3380,12.0,table table-striped past_event_rating
+2250,393,76,317,ok,1,11850,30.8,table table-striped past_event_rating
+2251,235,94,141,ok,1,8372,24.93,table table-striped past_event_rating
+2252,1230,163,1067,ok,1,34556,30.75,table table-striped past_event_rating
+2254,614,94,520,ok,1,17600,24.5,table table-striped past_event_rating
+2255,3099,186,2913,ok,1,95252,25.0,table table-striped past_event_rating
+2256,385,473,88,row_count_undercount,1,12466,24.85,table table-striped past_event_rating
+2259,631,233,398,ok,1,20385,23.13,table table-striped past_event_rating
+226,55,83,28,row_count_undercount,1,4302,10.0,table table-striped past_event_rating
+2260,19,21,2,row_count_undercount,1,1807,21.25,table table-striped past_event_rating
+2261,284,46,238,ok,1,8823,22.51,table table-striped past_event_rating
+2262,206,77,129,ok,1,6652,47.75,table table-striped past_event_rating
+2263,325,55,270,ok,1,10055,23.64,table table-striped past_event_rating
+2264,293,41,252,ok,1,8646,20.0,table table-striped past_event_rating
+2265,115,0,,ok,1,4522,0.0,table table-striped past_event_rating
+2266,200,0,,ok,1,6414,2.8,table table-striped past_event_rating
+2267,18,11,7,ok,1,1729,0.0,table table-striped past_event_rating
+2268,495,85,410,ok,1,14730,24.1,table table-striped past_event_rating
+2269,166,49,117,ok,1,5609,23.65,table table-striped past_event_rating
+227,1364,174,1190,ok,1,39497,40.0,table table-striped past_event_rating
+2270,0,0,,empty_scoreboard,0,967,0.0,
+2271,89,41,48,ok,1,3563,33.4,table table-striped past_event_rating
+2272,1033,163,870,ok,1,32043,33.43,table table-striped past_event_rating
+2273,267,40,227,ok,1,7812,24.5,table table-striped past_event_rating
+2274,822,141,681,ok,1,23787,46.33,table table-striped past_event_rating
+2276,95,83,12,ok,1,3429,39.4,table table-striped past_event_rating
+2277,34,23,11,ok,1,2245,0.0,table table-striped past_event_rating
+2278,79,67,12,ok,1,3941,21.0,table table-striped past_event_rating
+2279,150,0,,ok,1,4986,0.0,table table-striped past_event_rating
+228,140,108,32,ok,1,4797,60.0,table table-striped past_event_rating
+2281,409,63,346,ok,1,12172,23.89,table table-striped past_event_rating
+2282,641,115,526,ok,1,19066,55.0,table table-striped past_event_rating
+2283,268,38,230,ok,1,9271,24.5,table table-striped past_event_rating
+2284,1515,324,1191,ok,1,45062,68.04,table table-striped past_event_rating
+2285,206,72,134,ok,1,6973,24.82,table table-striped past_event_rating
+2286,0,43,43,empty_scoreboard,0,2385,0.0,
+2287,417,143,274,ok,1,13442,43.1,table table-striped past_event_rating
+2288,398,120,278,ok,1,11798,23.96,table table-striped past_event_rating
+2289,146,123,23,ok,1,5130,28.3,table table-striped past_event_rating
+2290,0,0,,empty_scoreboard,0,1549,0.0,
+2291,366,151,215,ok,1,10977,26.98,table table-striped past_event_rating
+2292,78,33,45,ok,1,3302,25.0,table table-striped past_event_rating
+2293,69,70,1,ok,1,3035,25.0,table table-striped past_event_rating
+2294,4,17,13,row_count_undercount,1,1180,0.0,table table-striped past_event_rating
+2295,154,35,119,ok,1,5415,37.0,table table-striped past_event_rating
+2296,267,491,224,row_count_undercount,1,8530,99.41,table table-striped past_event_rating
+2297,127,120,7,ok,1,5445,24.82,table table-striped past_event_rating
+2298,280,84,196,ok,1,9672,25.0,table table-striped past_event_rating
+2299,119,103,16,ok,1,4513,20.72,table table-striped past_event_rating
+23,12,0,,ok,1,992,80.0,table table-striped past_event_rating
+230,359,144,215,ok,1,12132,20.0,table table-striped past_event_rating
+2301,49,47,2,ok,1,5627,25.0,table table-striped past_event_rating
+2302,854,291,563,ok,1,24810,48.0,table table-striped past_event_rating
+2304,1070,364,706,ok,1,31065,52.06,table table-striped past_event_rating
+2305,0,0,,empty_scoreboard,0,1982,0.0,
+2306,12,13,1,row_count_undercount,1,1412,20.0,table table-striped past_event_rating
+2307,0,26,26,empty_scoreboard,0,1434,0.0,
+2308,0,0,,empty_scoreboard,0,1078,0.0,
+2309,0,0,,empty_scoreboard,0,1531,0.0,
+231,124,4,120,ok,1,4022,10.0,table table-striped past_event_rating
+2310,0,0,,empty_scoreboard,0,2419,0.0,
+2311,0,0,,empty_scoreboard,0,938,0.0,
+2312,0,0,,empty_scoreboard,0,946,0.0,
+2313,168,87,81,ok,1,5448,0.0,table table-striped past_event_rating
+2314,0,0,,empty_scoreboard,0,1018,0.0,
+2315,656,37,619,ok,1,22002,25.0,table table-striped past_event_rating
+2316,275,93,182,ok,1,8566,21.95,table table-striped past_event_rating
+2317,0,0,,empty_scoreboard,0,671,0.0,
+2318,0,0,,empty_scoreboard,0,769,0.0,
+2319,0,5,5,empty_scoreboard,0,669,0.0,
+232,14,5,9,ok,1,2174,0.0,table table-striped past_event_rating
+2321,518,57,461,ok,1,15160,35.6,table table-striped past_event_rating
+2322,497,111,386,ok,1,14542,24.43,table table-striped past_event_rating
+2323,562,93,469,ok,1,16609,48.92,table table-striped past_event_rating
+2324,791,170,621,ok,1,22558,22.17,table table-striped past_event_rating
+2325,214,101,113,ok,1,9478,24.67,table table-striped past_event_rating
+2326,0,0,,empty_scoreboard,0,2175,0.0,
+2327,65,18,47,ok,1,3080,25.0,table table-striped past_event_rating
+2328,18,7,11,ok,1,1362,0.0,table table-striped past_event_rating
+2329,0,0,,empty_scoreboard,0,628,0.0,
+233,0,0,,empty_scoreboard,0,1411,5.0,
+2330,0,27,27,empty_scoreboard,0,1020,0.0,
+2331,403,23,380,ok,1,12188,0.0,table table-striped past_event_rating
+2332,0,0,,empty_scoreboard,0,2134,0.0,
+2333,241,67,174,ok,1,7780,32.71,table table-striped past_event_rating
+2334,0,0,,empty_scoreboard,0,1498,0.0,
+2335,97,19,78,ok,1,5654,25.0,table table-striped past_event_rating
+2336,225,46,179,ok,1,7569,24.27,table table-striped past_event_rating
+2337,3,19,16,row_count_undercount,1,1105,0.0,table table-striped past_event_rating
+2338,0,0,,empty_scoreboard,0,961,0.0,
+2339,553,69,484,ok,1,17127,24.57,table table-striped past_event_rating
+234,672,99,573,ok,1,19898,40.0,table table-striped past_event_rating
+2340,142,32,110,ok,1,4931,0.0,table table-striped past_event_rating
+2341,498,96,402,ok,1,15369,20.95,table table-striped past_event_rating
+2342,436,129,307,ok,1,13077,77.17,table table-striped past_event_rating
+2343,42,0,,ok,1,1937,46.57,table table-striped past_event_rating
+2344,108,13,95,ok,1,4665,0.0,table table-striped past_event_rating
+2345,941,265,676,ok,1,25546,100.0,table table-striped past_event_rating
+2346,215,86,129,ok,1,9972,36.58,table table-striped past_event_rating
+2347,0,44,44,empty_scoreboard,0,4276,0.0,
+2348,446,83,363,ok,1,12998,22.4,table table-striped past_event_rating
+235,62,77,15,row_count_undercount,1,2825,10.0,table table-striped past_event_rating
+2351,106,89,17,ok,1,4337,93.11,table table-striped past_event_rating
+2352,44,49,5,row_count_undercount,1,2589,36.0,table table-striped past_event_rating
+2353,619,247,372,ok,1,17937,23.96,table table-striped past_event_rating
+2354,0,0,,empty_scoreboard,0,1982,0.0,
+2355,0,0,,empty_scoreboard,0,1978,0.0,
+2356,0,0,,empty_scoreboard,0,1178,0.0,
+2357,583,48,535,ok,1,16648,0.0,table table-striped past_event_rating
+2358,629,49,580,ok,1,18389,24.34,table table-striped past_event_rating
+2359,0,0,,empty_scoreboard,0,540,0.0,
+2360,155,24,131,ok,1,5239,25.0,table table-striped past_event_rating
+2361,0,0,,empty_scoreboard,0,537,0.0,
+2362,108,1,107,ok,1,3660,25.0,table table-striped past_event_rating
+2364,2632,228,2404,ok,1,75034,41.61,table table-striped past_event_rating
+2365,453,67,386,ok,1,12895,0.0,table table-striped past_event_rating
+2366,12,22,10,row_count_undercount,1,1907,25.0,table table-striped past_event_rating
+2367,106,52,54,ok,1,3803,20.76,table table-striped past_event_rating
+2368,15,15,0,ok,1,1201,0.0,table table-striped past_event_rating
+2369,0,0,,empty_scoreboard,0,1799,0.0,
+237,193,0,,ok,1,5056,0.0,table table-striped past_event_rating
+2370,378,51,327,ok,1,11524,24.25,table table-striped past_event_rating
+2371,39,0,,ok,1,2179,0.0,table table-striped past_event_rating
+2372,10,0,,ok,1,1325,0.0,table table-striped past_event_rating
+2374,84,0,,ok,1,3629,83.5,table table-striped past_event_rating
+2375,831,97,734,ok,1,23642,72.06,table table-striped past_event_rating
+2376,10,33,23,row_count_undercount,1,971,25.0,table table-striped past_event_rating
+2377,1021,164,857,ok,1,28650,24.99,table table-striped past_event_rating
+2378,964,160,804,ok,1,28881,24.23,table table-striped past_event_rating
+2379,0,0,,empty_scoreboard,0,727,0.0,
+238,443,65,378,ok,1,11836,20.0,table table-striped past_event_rating
+2382,0,5,5,empty_scoreboard,0,915,0.0,
+2383,0,0,,empty_scoreboard,0,1138,0.0,
+2384,0,0,,empty_scoreboard,0,3176,0.0,
+2385,0,13,13,empty_scoreboard,0,2625,0.0,
+2386,0,15,15,empty_scoreboard,0,571,25.0,
+2389,195,179,16,ok,1,6642,25.0,table table-striped past_event_rating
+239,378,138,240,ok,1,13227,10.0,table table-striped past_event_rating
+2390,422,0,,ok,1,12178,1.0,table table-striped past_event_rating
+2392,124,60,64,ok,1,5232,0.0,table table-striped past_event_rating
+2394,85,27,58,ok,1,3821,0.0,table table-striped past_event_rating
+2395,0,22,22,empty_scoreboard,0,1189,0.0,
+2396,1454,281,1173,ok,1,42279,49.81,table table-striped past_event_rating
+2397,118,99,19,ok,1,4228,20.02,table table-striped past_event_rating
+2398,1175,278,897,ok,1,33517,21.8,table table-striped past_event_rating
+24,10,0,,ok,1,921,40.0,table table-striped past_event_rating
+240,25,28,3,row_count_undercount,1,2293,5.0,table table-striped past_event_rating
+2401,0,17,17,empty_scoreboard,0,578,0.0,
+2402,789,226,563,ok,1,24652,35.69,table table-striped past_event_rating
+2403,142,53,89,ok,1,4299,92.75,table table-striped past_event_rating
+2405,268,81,187,ok,1,8155,24.21,table table-striped past_event_rating
+2406,0,20,20,empty_scoreboard,0,658,0.0,
+2407,328,242,86,ok,1,10915,24.75,table table-striped past_event_rating
+2408,426,242,184,ok,1,12846,73.82,table table-striped past_event_rating
+2409,10,0,,ok,1,1031,100.0,table table-striped past_event_rating
+2411,0,40,40,empty_scoreboard,0,1159,0.0,
+2412,101,84,17,ok,1,3880,98.89,table table-striped past_event_rating
+2413,31,8,23,ok,1,1991,0.0,table table-striped past_event_rating
+2414,170,90,80,ok,1,6779,0.0,table table-striped past_event_rating
+2415,17,1,16,ok,1,1671,0.0,table table-striped past_event_rating
+2416,666,156,510,ok,1,19882,23.2,table table-striped past_event_rating
+2418,345,86,259,ok,1,9975,24.79,table table-striped past_event_rating
+2419,8,17,9,row_count_undercount,1,1205,0.0,table table-striped past_event_rating
+242,595,175,420,ok,1,16680,30.0,table table-striped past_event_rating
+2421,0,41,41,empty_scoreboard,0,2314,16.0,
+2422,35,12,23,ok,1,3434,0.0,table table-striped past_event_rating
+2423,920,182,738,ok,1,26879,41.68,table table-striped past_event_rating
+2424,305,63,242,ok,1,9143,25.0,table table-striped past_event_rating
+2426,1360,250,1110,ok,1,40120,31.83,table table-striped past_event_rating
+2427,271,19,252,ok,1,8672,24.0,table table-striped past_event_rating
+2429,642,34,608,ok,1,17918,20.0,table table-striped past_event_rating
+243,14,0,,ok,1,1710,0.0,table table-striped past_event_rating
+2430,627,96,531,ok,1,19537,25.0,table table-striped past_event_rating
+2431,184,18,166,ok,1,6983,22.5,table table-striped past_event_rating
+2432,20,16,4,ok,1,1444,73.8,table table-striped past_event_rating
+2433,0,0,,empty_scoreboard,0,1381,0.0,
+2434,0,0,,empty_scoreboard,0,1279,0.0,
+2435,8,0,,ok,1,1366,25.0,table table-striped past_event_rating
+2436,30,12,18,ok,1,2217,21.0,table table-striped past_event_rating
+2437,137,99,38,ok,1,4556,98.14,table table-striped past_event_rating
+2438,155,100,55,ok,1,5502,100.0,table table-striped past_event_rating
+2439,92,0,,ok,1,4437,0.0,table table-striped past_event_rating
+244,248,126,122,ok,1,8578,70.0,table table-striped past_event_rating
+2440,500,103,397,ok,1,14106,80.0,table table-striped past_event_rating
+2441,222,27,195,ok,1,7868,25.0,table table-striped past_event_rating
+2442,0,42,42,empty_scoreboard,0,1783,0.0,
+2443,1213,192,1021,ok,1,34176,38.7,table table-striped past_event_rating
+2444,830,126,704,ok,1,25515,46.25,table table-striped past_event_rating
+2446,1061,209,852,ok,1,33184,24.23,table table-striped past_event_rating
+2447,0,28,28,empty_scoreboard,0,571,0.0,
+2448,187,219,32,row_count_undercount,1,5895,100.0,table table-striped past_event_rating
+2449,646,89,557,ok,1,22393,50.91,table table-striped past_event_rating
+245,969,119,850,ok,1,25661,50.0,table table-striped past_event_rating
+2450,711,49,662,ok,1,20807,24.88,table table-striped past_event_rating
+2451,0,0,,empty_scoreboard,0,1265,0.0,
+2453,27,10,17,ok,1,2001,0.0,table table-striped past_event_rating
+2454,272,83,189,ok,1,9132,23.92,table table-striped past_event_rating
+2455,826,109,717,ok,1,29440,61.22,table table-striped past_event_rating
+2456,315,81,234,ok,1,10480,51.0,table table-striped past_event_rating
+2457,406,40,366,ok,1,11109,53.88,table table-striped past_event_rating
+2458,265,20,245,ok,1,9203,20.0,table table-striped past_event_rating
+2459,259,43,216,ok,1,7427,89.85,table table-striped past_event_rating
+246,108,73,35,ok,1,4881,20.0,table table-striped past_event_rating
+2460,228,46,182,ok,1,10201,24.27,table table-striped past_event_rating
+2461,1174,167,1007,ok,1,31995,29.33,table table-striped past_event_rating
+2462,12,0,,ok,1,1068,35.0,table table-striped past_event_rating
+2463,160,23,137,ok,1,5390,43.0,table table-striped past_event_rating
+2464,283,61,222,ok,1,8780,16.77,table table-striped past_event_rating
+2465,0,0,,empty_scoreboard,0,974,0.0,
+2466,0,0,,empty_scoreboard,0,988,0.0,
+2467,527,140,387,ok,1,15451,23.59,table table-striped past_event_rating
+2468,0,0,,empty_scoreboard,0,1303,0.0,
+247,794,81,713,ok,1,20921,40.0,table table-striped past_event_rating
+2474,0,26,26,empty_scoreboard,0,1728,0.0,
+2475,0,0,,empty_scoreboard,0,1349,0.0,
+2476,105,82,23,ok,1,4485,23.75,table table-striped past_event_rating
+2478,653,145,508,ok,1,18294,100.0,table table-striped past_event_rating
+2479,83,85,2,ok,1,3402,82.0,table table-striped past_event_rating
+2480,451,117,334,ok,1,15935,33.56,table table-striped past_event_rating
+2481,40,18,22,ok,1,2891,0.0,table table-striped past_event_rating
+2482,202,43,159,ok,1,7337,0.0,table table-striped past_event_rating
+2483,166,20,146,ok,1,5551,37.0,table table-striped past_event_rating
+2484,30,4,26,ok,1,2427,25.0,table table-striped past_event_rating
+2485,641,83,558,ok,1,17913,38.57,table table-striped past_event_rating
+2487,50,6,44,ok,1,2531,0.0,table table-striped past_event_rating
+2488,0,0,,empty_scoreboard,0,1263,0.0,
+2489,227,46,181,ok,1,7692,25.0,table table-striped past_event_rating
+249,346,75,271,ok,1,11190,5.0,table table-striped past_event_rating
+2490,103,80,23,ok,1,3756,98.5,table table-striped past_event_rating
+2491,527,99,428,ok,1,17266,22.56,table table-striped past_event_rating
+2492,202,19,183,ok,1,6185,25.0,table table-striped past_event_rating
+2493,0,9,9,empty_scoreboard,0,921,0.0,
+2494,0,9,9,empty_scoreboard,0,1114,0.0,
+2496,667,167,500,ok,1,19139,43.94,table table-striped past_event_rating
+2497,1033,134,899,ok,1,30711,24.54,table table-striped past_event_rating
+2498,559,180,379,ok,1,15275,24.43,table table-striped past_event_rating
+2499,0,0,,empty_scoreboard,0,984,0.0,
+25,30,18,12,ok,1,1488,70.0,table table-striped past_event_rating
+2500,0,0,,empty_scoreboard,0,1014,0.0,
+2501,0,0,,empty_scoreboard,0,975,0.0,
+2502,465,98,367,ok,1,13303,35.94,table table-striped past_event_rating
+2503,1063,155,908,ok,1,30312,34.3,table table-striped past_event_rating
+2504,44,15,29,ok,1,2256,0.0,table table-striped past_event_rating
+2505,456,105,351,ok,1,13502,22.45,table table-striped past_event_rating
+2506,9,12,3,row_count_undercount,1,1578,96.9,table table-striped past_event_rating
+2507,458,117,341,ok,1,13300,16.0,table table-striped past_event_rating
+2508,865,306,559,ok,1,23581,100.0,table table-striped past_event_rating
+2509,0,10,10,empty_scoreboard,0,1278,0.0,
+251,24,28,4,row_count_undercount,1,2016,0.0,table table-striped past_event_rating
+2510,11,10,1,ok,1,1773,0.0,table table-striped past_event_rating
+2511,80,18,62,ok,1,4375,0.0,table table-striped past_event_rating
+2512,498,110,388,ok,1,15119,34.05,table table-striped past_event_rating
+2515,311,109,202,ok,1,9720,19.8,table table-striped past_event_rating
+2516,831,147,684,ok,1,23360,22.4,table table-striped past_event_rating
+2517,437,77,360,ok,1,12574,52.43,table table-striped past_event_rating
+2518,11,50,39,row_count_undercount,1,1392,25.0,table table-striped past_event_rating
+252,764,263,501,ok,1,28472,60.0,table table-striped past_event_rating
+2520,22,24,2,row_count_undercount,1,1573,95.59,table table-striped past_event_rating
+2521,20,10,10,ok,1,1483,25.0,table table-striped past_event_rating
+2522,0,21,21,empty_scoreboard,0,791,0.0,
+2523,0,9,9,empty_scoreboard,0,740,25.0,
+2524,229,48,181,ok,1,7439,24.58,table table-striped past_event_rating
+2525,34,35,1,ok,1,2492,0.0,table table-striped past_event_rating
+2526,0,11,11,empty_scoreboard,0,1127,0.0,
+2527,0,0,,empty_scoreboard,0,998,0.0,
+2528,0,0,,empty_scoreboard,0,582,0.0,
+2529,201,31,170,ok,1,7178,24.77,table table-striped past_event_rating
+253,21,12,9,ok,1,3874,30.0,table table-striped past_event_rating
+2530,0,62,62,empty_scoreboard,0,1684,0.0,
+2531,0,0,,empty_scoreboard,0,1011,0.0,
+2532,0,0,,empty_scoreboard,0,1597,0.0,
+2533,0,7,7,empty_scoreboard,0,1002,0.0,
+2534,121,38,83,ok,1,4189,33.59,table table-striped past_event_rating
+2535,104,58,46,ok,1,3739,36.0,table table-striped past_event_rating
+2536,240,0,,ok,1,8576,25.0,table table-striped past_event_rating
+2537,205,30,175,ok,1,7249,25.0,table table-striped past_event_rating
+2538,7,9,2,row_count_undercount,1,1111,0.0,table table-striped past_event_rating
+2539,872,89,783,ok,1,35558,0.0,table table-striped past_event_rating
+254,0,79,79,empty_scoreboard,0,1043,0.0,
+2540,476,151,325,ok,1,14079,49.48,table table-striped past_event_rating
+2541,186,28,158,ok,1,6386,23.4,table table-striped past_event_rating
+2543,0,0,,empty_scoreboard,0,1560,0.0,
+2544,0,0,,empty_scoreboard,0,978,0.0,
+2545,337,44,293,ok,1,10591,24.4,table table-striped past_event_rating
+2546,0,4,4,empty_scoreboard,0,2302,1.0,
+2547,0,0,,empty_scoreboard,0,584,0.0,
+2548,0,0,,empty_scoreboard,0,2513,0.0,
+255,10,2,8,ok,1,2714,5.0,table table-striped past_event_rating
+2550,339,30,309,ok,1,10341,24.71,table table-striped past_event_rating
+2551,52,49,3,ok,1,2393,85.71,table table-striped past_event_rating
+2552,211,28,183,ok,1,7514,23.62,table table-striped past_event_rating
+2553,0,10,10,empty_scoreboard,0,565,0.0,
+2555,0,0,,empty_scoreboard,0,809,0.0,
+2556,0,0,,empty_scoreboard,0,851,0.0,
+2557,15,20,5,row_count_undercount,1,1483,0.0,table table-striped past_event_rating
+2558,32,16,16,ok,1,1985,0.0,table table-striped past_event_rating
+2559,151,6,145,ok,1,4949,25.0,table table-striped past_event_rating
+256,35,37,2,row_count_undercount,1,5320,35.0,table table-striped past_event_rating
+2561,14,0,,ok,1,1652,0.0,table table-striped past_event_rating
+2562,0,0,,empty_scoreboard,0,1557,0.0,
+2563,708,173,535,ok,1,21268,70.86,table table-striped past_event_rating
+2564,47,12,35,ok,1,2160,0.0,table table-striped past_event_rating
+2565,0,6,6,empty_scoreboard,0,2471,0.0,
+2566,0,1,1,empty_scoreboard,0,2913,0.0,
+2567,53,0,,ok,1,2469,25.0,table table-striped past_event_rating
+2568,10,30,20,row_count_undercount,1,1086,36.0,table table-striped past_event_rating
+257,6,4,2,ok,1,2429,30.0,table table-striped past_event_rating
+2570,897,141,756,ok,1,25916,23.9,table table-striped past_event_rating
+2571,190,32,158,ok,1,6109,24.86,table table-striped past_event_rating
+2573,750,199,551,ok,1,21671,40.4,table table-striped past_event_rating
+2574,287,2,285,ok,1,9475,0.0,table table-striped past_event_rating
+2575,85,67,18,ok,1,3259,25.0,table table-striped past_event_rating
+2576,847,208,639,ok,1,22782,32.28,table table-striped past_event_rating
+2577,364,209,155,ok,1,11718,88.25,table table-striped past_event_rating
+2578,0,46,46,empty_scoreboard,0,928,75.0,
+2579,455,84,371,ok,1,14405,47.25,table table-striped past_event_rating
+258,245,138,107,ok,1,7393,20.0,table table-striped past_event_rating
+2580,0,0,,empty_scoreboard,0,1316,0.0,
+2581,172,21,151,ok,1,5227,0.0,table table-striped past_event_rating
+2582,656,200,456,ok,1,20111,23.13,table table-striped past_event_rating
+2583,22,3,19,ok,1,1312,0.0,table table-striped past_event_rating
+2584,485,49,436,ok,1,14594,28.6,table table-striped past_event_rating
+2585,781,179,602,ok,1,22984,60.67,table table-striped past_event_rating
+2586,10,1,9,ok,1,1147,0.0,table table-striped past_event_rating
+2587,308,160,148,ok,1,9508,25.0,table table-striped past_event_rating
+2589,247,14,233,ok,1,8650,24.5,table table-striped past_event_rating
+259,0,7,7,empty_scoreboard,0,1524,5.0,
+2590,0,0,,empty_scoreboard,0,967,0.0,
+2591,1087,215,872,ok,1,30532,48.61,table table-striped past_event_rating
+2592,931,162,769,ok,1,28450,36.7,table table-striped past_event_rating
+2593,35,0,,ok,1,2229,0.0,table table-striped past_event_rating
+2594,11,0,,ok,1,1441,0.0,table table-striped past_event_rating
+2595,18,1,17,ok,1,1257,0.0,table table-striped past_event_rating
+2596,274,35,239,ok,1,8605,23.89,table table-striped past_event_rating
+2597,266,69,197,ok,1,9206,25.0,table table-striped past_event_rating
+2598,0,0,,empty_scoreboard,0,2388,0.0,
+2599,287,159,128,ok,1,9159,33.89,table table-striped past_event_rating
+26,20,10,10,ok,1,1435,80.0,table table-striped past_event_rating
+260,314,99,215,ok,1,11064,20.0,table table-striped past_event_rating
+2601,259,35,224,ok,1,8027,24.51,table table-striped past_event_rating
+2602,0,0,,empty_scoreboard,0,749,0.0,
+2604,195,194,1,ok,1,6117,69.44,table table-striped past_event_rating
+2606,282,144,138,ok,1,8929,33.29,table table-striped past_event_rating
+2607,848,277,571,ok,1,25110,21.81,table table-striped past_event_rating
+2608,445,91,354,ok,1,13335,0.0,table table-striped past_event_rating
+261,0,0,,empty_scoreboard,0,1595,0.0,
+2610,758,135,623,ok,1,23098,18.78,table table-striped past_event_rating
+2611,114,0,,ok,1,5719,0.0,table table-striped past_event_rating
+2612,368,142,226,ok,1,10593,96.29,table table-striped past_event_rating
+2613,476,260,216,ok,1,13190,100.0,table table-striped past_event_rating
+2614,120,19,101,ok,1,5760,25.0,table table-striped past_event_rating
+2615,149,55,94,ok,1,5467,20.29,table table-striped past_event_rating
+2616,23,15,8,ok,1,1791,0.0,table table-striped past_event_rating
+2617,641,245,396,ok,1,18620,81.0,table table-striped past_event_rating
+2618,0,106,106,empty_scoreboard,0,1320,0.0,
+2619,659,127,532,ok,1,19956,22.63,table table-striped past_event_rating
+262,874,153,721,ok,1,22645,40.74,table table-striped past_event_rating
+2620,50,0,,ok,1,2635,24.82,table table-striped past_event_rating
+2621,0,0,,empty_scoreboard,0,821,0.0,
+2622,0,0,,empty_scoreboard,0,821,0.0,
+2623,0,0,,empty_scoreboard,0,835,0.0,
+2624,0,0,,empty_scoreboard,0,821,0.0,
+2625,0,0,,empty_scoreboard,0,823,0.0,
+2626,0,0,,empty_scoreboard,0,823,0.0,
+2627,0,0,,empty_scoreboard,0,1114,0.0,
+2628,0,0,,empty_scoreboard,0,1179,0.0,
+2629,1587,358,1229,ok,1,46004,24.43,table table-striped past_event_rating
+263,12,9,3,ok,1,1722,45.0,table table-striped past_event_rating
+2630,724,110,614,ok,1,23651,27.9,table table-striped past_event_rating
+2631,638,94,544,ok,1,17566,31.29,table table-striped past_event_rating
+2632,576,296,280,ok,1,16456,53.0,table table-striped past_event_rating
+2633,0,0,,empty_scoreboard,0,989,0.0,
+2634,114,43,71,ok,1,4314,24.14,table table-striped past_event_rating
+2635,0,0,,empty_scoreboard,0,1172,0.0,
+2636,212,108,104,ok,1,7023,20.72,table table-striped past_event_rating
+2637,99,21,78,ok,1,4282,25.0,table table-striped past_event_rating
+2639,467,219,248,ok,1,15689,34.82,table table-striped past_event_rating
+264,573,136,437,ok,1,17193,33.33,table table-striped past_event_rating
+2640,641,155,486,ok,1,18624,91.43,table table-striped past_event_rating
+2641,858,267,591,ok,1,25706,67.21,table table-striped past_event_rating
+2642,1115,149,966,ok,1,31029,30.0,table table-striped past_event_rating
+2643,0,0,,empty_scoreboard,0,1133,0.0,
+2644,0,16,16,empty_scoreboard,0,748,0.0,
+2645,337,74,263,ok,1,9580,25.0,table table-striped past_event_rating
+2646,100,43,57,ok,1,3855,37.0,table table-striped past_event_rating
+2647,456,169,287,ok,1,13504,33.81,table table-striped past_event_rating
+2648,486,35,451,ok,1,14892,24.02,table table-striped past_event_rating
+2649,9,7,2,ok,1,1199,25.0,table table-striped past_event_rating
+2650,9,6,3,ok,1,1098,25.0,table table-striped past_event_rating
+2651,760,159,601,ok,1,23356,69.0,table table-striped past_event_rating
+2652,419,59,360,ok,1,12294,44.5,table table-striped past_event_rating
+2653,557,75,482,ok,1,16856,48.38,table table-striped past_event_rating
+2654,550,119,431,ok,1,16540,24.16,table table-striped past_event_rating
+2655,535,98,437,ok,1,15538,25.0,table table-striped past_event_rating
+2656,97,13,84,ok,1,4211,0.0,table table-striped past_event_rating
+2657,806,269,537,ok,1,22677,22.51,table table-striped past_event_rating
+2659,12,7,5,ok,1,1446,0.0,table table-striped past_event_rating
+266,447,100,347,ok,1,14111,25.0,table table-striped past_event_rating
+2660,243,46,197,ok,1,7646,23.65,table table-striped past_event_rating
+2662,85,25,60,ok,1,3759,0.0,table table-striped past_event_rating
+2664,0,135,135,empty_scoreboard,0,1003,0.0,
+2666,0,0,,empty_scoreboard,0,1422,0.0,
+2667,406,37,369,ok,1,14215,24.73,table table-striped past_event_rating
+2668,728,172,556,ok,1,25321,21.78,table table-striped past_event_rating
+2669,1664,383,1281,ok,1,49035,91.66,table table-striped past_event_rating
+267,12,5,7,ok,1,2200,20.0,table table-striped past_event_rating
+2670,184,86,98,ok,1,5816,32.5,table table-striped past_event_rating
+2671,194,69,125,ok,1,6967,23.86,table table-striped past_event_rating
+2672,624,259,365,ok,1,17252,95.79,table table-striped past_event_rating
+2673,305,43,262,ok,1,10278,34.14,table table-striped past_event_rating
+2674,4035,207,3828,ok,1,126083,24.0,table table-striped past_event_rating
+2675,276,44,232,ok,1,9585,32.59,table table-striped past_event_rating
+2676,125,68,57,ok,1,4427,27.14,table table-striped past_event_rating
+2677,729,132,597,ok,1,21168,22.67,table table-striped past_event_rating
+2679,0,14,14,empty_scoreboard,0,1205,0.0,
+268,0,0,,empty_scoreboard,0,946,0.0,
+2680,1133,225,908,ok,1,31671,0.0,table table-striped past_event_rating
+2681,382,65,317,ok,1,11041,56.66,table table-striped past_event_rating
+2682,449,105,344,ok,1,13224,37.0,table table-striped past_event_rating
+2683,1054,243,811,ok,1,31493,55.0,table table-striped past_event_rating
+2684,395,65,330,ok,1,12102,25.0,table table-striped past_event_rating
+2685,15,46,31,row_count_undercount,1,1588,0.0,table table-striped past_event_rating
+2687,364,35,329,ok,1,10989,24.5,table table-striped past_event_rating
+2688,0,0,,empty_scoreboard,0,1297,0.0,
+2689,9,11,2,row_count_undercount,1,1793,0.0,table table-striped past_event_rating
+269,3,0,,ok,1,1216,0.0,table table-striped past_event_rating
+2691,20,8,12,ok,1,1723,0.0,table table-striped past_event_rating
+2692,224,51,173,ok,1,7755,13.0,table table-striped past_event_rating
+2693,179,39,140,ok,1,6614,32.59,table table-striped past_event_rating
+2694,633,202,431,ok,1,19441,46.0,table table-striped past_event_rating
+27,94,0,,ok,1,4732,80.0,table table-striped past_event_rating
+270,15,4,11,ok,1,2116,15.0,table table-striped past_event_rating
+2701,0,0,,empty_scoreboard,0,1141,0.0,
+2703,207,57,150,ok,1,7597,18.7,table table-striped past_event_rating
+2704,667,187,480,ok,1,19356,38.93,table table-striped past_event_rating
+2705,0,0,,empty_scoreboard,0,914,0.0,
+2706,271,32,239,ok,1,11159,54.0,table table-striped past_event_rating
+2707,551,84,467,ok,1,18029,24.0,table table-striped past_event_rating
+2708,611,117,494,ok,1,17956,24.25,table table-striped past_event_rating
+2709,0,0,,empty_scoreboard,0,982,0.0,
+271,15,0,,ok,1,1098,30.0,table table-striped past_event_rating
+2710,0,0,,empty_scoreboard,0,972,0.0,
+2711,238,262,24,row_count_undercount,1,7496,97.2,table table-striped past_event_rating
+2712,0,13,13,empty_scoreboard,0,770,0.0,
+2714,503,119,384,ok,1,16282,52.57,table table-striped past_event_rating
+2715,1074,205,869,ok,1,30327,36.94,table table-striped past_event_rating
+2716,0,0,,empty_scoreboard,0,1110,0.0,
+2717,0,0,,empty_scoreboard,0,1363,0.0,
+2718,276,572,296,row_count_undercount,1,8832,97.17,table table-striped past_event_rating
+2719,0,38,38,empty_scoreboard,0,2208,0.0,
+2720,84,18,66,ok,1,3532,25.0,table table-striped past_event_rating
+2721,435,61,374,ok,1,13421,25.0,table table-striped past_event_rating
+2722,0,50,50,empty_scoreboard,0,2748,0.0,
+2723,162,18,144,ok,1,5423,0.0,table table-striped past_event_rating
+2724,0,30,30,empty_scoreboard,0,1173,0.0,
+2725,10,28,18,row_count_undercount,1,1076,75.0,table table-striped past_event_rating
+2726,288,88,200,ok,1,9841,18.35,table table-striped past_event_rating
+2727,139,16,123,ok,1,4565,24.81,table table-striped past_event_rating
+2728,0,4,4,empty_scoreboard,0,992,0.0,
+2729,0,0,,empty_scoreboard,0,1094,0.0,
+273,13,4,9,ok,1,2311,40.0,table table-striped past_event_rating
+2730,0,23,23,empty_scoreboard,0,600,0.0,
+2731,553,165,388,ok,1,15689,24.5,table table-striped past_event_rating
+2732,0,10,10,empty_scoreboard,0,606,0.0,
+2733,0,0,,empty_scoreboard,0,631,0.0,
+2734,0,2,2,empty_scoreboard,0,1230,0.0,
+2735,169,34,135,ok,1,5271,24.81,table table-striped past_event_rating
+2736,553,81,472,ok,1,15729,31.0,table table-striped past_event_rating
+2737,586,228,358,ok,1,17445,24.88,table table-striped past_event_rating
+2738,63,21,42,ok,1,2714,18.57,table table-striped past_event_rating
+2739,0,0,,empty_scoreboard,0,1886,0.0,
+274,869,108,761,ok,1,25502,30.0,table table-striped past_event_rating
+2740,0,0,,empty_scoreboard,0,1856,24.82,
+2741,977,51,926,ok,1,28646,24.67,table table-striped past_event_rating
+2742,24,12,12,ok,1,1249,25.0,table table-striped past_event_rating
+2743,0,32,32,empty_scoreboard,0,987,0.0,
+2744,0,0,,empty_scoreboard,0,1435,25.0,
+2745,0,2,2,empty_scoreboard,0,937,0.0,
+2746,842,203,639,ok,1,24084,52.06,table table-striped past_event_rating
+2749,484,186,298,ok,1,14218,42.0,table table-striped past_event_rating
+275,537,136,401,ok,1,13773,37.88,table table-striped past_event_rating
+2750,0,0,,empty_scoreboard,0,1452,0.0,
+2751,668,94,574,ok,1,18639,0.0,table table-striped past_event_rating
+2752,105,21,84,ok,1,4016,22.75,table table-striped past_event_rating
+2753,848,142,706,ok,1,26572,24.48,table table-striped past_event_rating
+2754,0,0,,empty_scoreboard,0,1126,0.0,
+2755,32,52,20,row_count_undercount,1,2249,36.0,table table-striped past_event_rating
+2756,0,105,105,empty_scoreboard,0,663,24.2,
+2757,0,0,,empty_scoreboard,0,1242,0.0,
+2758,365,5,360,ok,1,10126,35.0,table table-striped past_event_rating
+2759,950,174,776,ok,1,28968,24.57,table table-striped past_event_rating
+276,389,111,278,ok,1,14046,19.72,table table-striped past_event_rating
+2760,0,0,,empty_scoreboard,0,1112,0.0,
+2761,259,70,189,ok,1,8365,30.43,table table-striped past_event_rating
+2762,270,89,181,ok,1,7760,23.12,table table-striped past_event_rating
+2764,22,36,14,row_count_undercount,1,1902,0.0,table table-striped past_event_rating
+2766,30,13,17,ok,1,2075,0.0,table table-striped past_event_rating
+2768,56,0,,ok,1,2731,0.0,table table-striped past_event_rating
+2769,882,84,798,ok,1,24323,0.0,table table-striped past_event_rating
+277,8,6,2,ok,1,895,10.0,table table-striped past_event_rating
+2770,641,126,515,ok,1,17846,54.67,table table-striped past_event_rating
+2772,10,8,2,ok,1,1052,100.0,table table-striped past_event_rating
+2773,0,422,422,empty_scoreboard,0,693,48.17,
+2775,669,136,533,ok,1,19083,25.0,table table-striped past_event_rating
+2776,395,83,312,ok,1,11926,24.95,table table-striped past_event_rating
+2777,10,16,6,row_count_undercount,1,1387,0.0,table table-striped past_event_rating
+2778,0,0,,empty_scoreboard,0,1161,0.0,
+2779,0,0,,empty_scoreboard,0,869,0.0,
+278,389,159,230,ok,1,11542,70.0,table table-striped past_event_rating
+2780,140,150,10,row_count_undercount,1,5244,92.5,table table-striped past_event_rating
+2781,0,95,95,empty_scoreboard,0,2669,0.0,
+2782,1709,180,1529,ok,1,49174,53.77,table table-striped past_event_rating
+2783,717,230,487,ok,1,19710,100.0,table table-striped past_event_rating
+2784,641,80,561,ok,1,20047,15.62,table table-striped past_event_rating
+2785,269,0,,ok,1,9145,22.18,table table-striped past_event_rating
+2786,67,0,,ok,1,2852,0.0,table table-striped past_event_rating
+2787,314,71,243,ok,1,9614,0.0,table table-striped past_event_rating
+2788,29,10,19,ok,1,1986,0.0,table table-striped past_event_rating
+2789,186,0,,ok,1,5607,0.0,table table-striped past_event_rating
+279,198,100,98,ok,1,8044,23.1,table table-striped past_event_rating
+2790,14,26,12,row_count_undercount,1,1716,0.0,table table-striped past_event_rating
+2791,0,0,,empty_scoreboard,0,989,0.0,
+2792,1189,222,967,ok,1,35084,24.7,table table-striped past_event_rating
+2793,0,46,46,empty_scoreboard,0,10805,0.0,
+2794,0,10,10,empty_scoreboard,0,10820,0.0,
+2795,714,163,551,ok,1,18819,94.5,table table-striped past_event_rating
+2796,111,106,5,ok,1,5113,100.0,table table-striped past_event_rating
+2798,706,193,513,ok,1,21568,23.13,table table-striped past_event_rating
+2799,1414,287,1127,ok,1,40145,66.02,table table-striped past_event_rating
+28,18,0,,ok,1,1124,50.0,table table-striped past_event_rating
+280,447,126,321,ok,1,25391,35.0,table table-striped past_event_rating
+2801,740,111,629,ok,1,23151,21.87,table table-striped past_event_rating
+2802,0,0,,empty_scoreboard,0,1078,0.0,
+2803,548,146,402,ok,1,15910,34.1,table table-striped past_event_rating
+2805,0,0,,empty_scoreboard,0,988,0.0,
+2806,0,0,,empty_scoreboard,0,993,0.0,
+2808,0,0,,empty_scoreboard,0,1121,0.0,
+2809,722,49,673,ok,1,21605,51.29,table table-striped past_event_rating
+281,521,60,461,ok,1,30237,19.9,table table-striped past_event_rating
+2811,13,16,3,row_count_undercount,1,1494,25.0,table table-striped past_event_rating
+2812,0,0,,empty_scoreboard,0,1216,0.0,
+2813,0,0,,empty_scoreboard,0,904,0.0,
+2815,22,0,,ok,1,1323,0.0,table table-striped past_event_rating
+2816,380,83,297,ok,1,11854,23.2,table table-striped past_event_rating
+2817,518,68,450,ok,1,14146,36.65,table table-striped past_event_rating
+2818,473,58,415,ok,1,15914,23.47,table table-striped past_event_rating
+2819,162,91,71,ok,1,5029,66.5,table table-striped past_event_rating
+282,517,166,351,ok,1,34051,9.18,table table-striped past_event_rating
+2820,375,139,236,ok,1,11333,24.71,table table-striped past_event_rating
+2821,0,0,,empty_scoreboard,0,1396,0.0,
+2822,489,258,231,ok,1,15145,58.19,table table-striped past_event_rating
+2823,167,63,104,ok,1,5629,23.5,table table-striped past_event_rating
+2824,0,0,,empty_scoreboard,0,1955,0.0,
+2825,0,0,,empty_scoreboard,0,1390,0.0,
+2826,738,179,559,ok,1,25043,24.76,table table-striped past_event_rating
+2827,0,0,,empty_scoreboard,0,3097,0.0,
+2828,12,5,7,ok,1,1326,25.0,table table-striped past_event_rating
+2829,520,135,385,ok,1,16426,24.0,table table-striped past_event_rating
+283,62,28,34,ok,1,3330,44.84,table table-striped past_event_rating
+2830,0,0,,empty_scoreboard,0,1797,0.0,
+2831,0,0,,empty_scoreboard,0,993,0.0,
+2833,393,92,301,ok,1,11565,24.27,table table-striped past_event_rating
+2835,1158,137,1021,ok,1,34203,24.66,table table-striped past_event_rating
+2836,276,0,,ok,1,8421,62.97,table table-striped past_event_rating
+2837,0,0,,empty_scoreboard,0,1547,0.0,
+2838,272,79,193,ok,1,9327,25.0,table table-striped past_event_rating
+2839,126,114,12,ok,1,4815,92.45,table table-striped past_event_rating
+284,447,146,301,ok,1,24350,36.53,table table-striped past_event_rating
+2840,10,0,,ok,1,1270,25.0,table table-striped past_event_rating
+2841,231,81,150,ok,1,8075,24.0,table table-striped past_event_rating
+2842,299,176,123,ok,1,9597,98.02,table table-striped past_event_rating
+2844,849,314,535,ok,1,23564,35.56,table table-striped past_event_rating
+2846,51,36,15,ok,1,3241,25.0,table table-striped past_event_rating
+2847,0,0,,empty_scoreboard,0,1132,0.0,
+2848,439,68,371,ok,1,13569,23.71,table table-striped past_event_rating
+2849,0,0,,empty_scoreboard,0,2134,0.0,
+285,535,125,410,ok,1,49139,5.0,table table-striped past_event_rating
+2850,1343,226,1117,ok,1,39941,42.42,table table-striped past_event_rating
+2851,1299,195,1104,ok,1,36312,39.87,table table-striped past_event_rating
+2854,843,164,679,ok,1,23254,23.04,table table-striped past_event_rating
+2855,101,122,21,row_count_undercount,1,4142,24.65,table table-striped past_event_rating
+2858,0,0,,empty_scoreboard,0,1762,0.0,
+2859,127,113,14,ok,1,4507,97.22,table table-striped past_event_rating
+286,18,4,14,ok,1,1338,0.0,table table-striped past_event_rating
+2862,817,240,577,ok,1,22483,100.0,table table-striped past_event_rating
+2863,1376,199,1177,ok,1,37553,51.65,table table-striped past_event_rating
+2864,732,74,658,ok,1,20785,24.6,table table-striped past_event_rating
+2865,446,123,323,ok,1,13431,24.0,table table-striped past_event_rating
+2866,342,88,254,ok,1,13328,50.0,table table-striped past_event_rating
+2867,488,119,369,ok,1,14983,25.0,table table-striped past_event_rating
+2869,1052,312,740,ok,1,29539,65.0,table table-striped past_event_rating
+287,18,3,15,ok,1,1315,0.0,table table-striped past_event_rating
+2872,299,56,243,ok,1,9279,25.0,table table-striped past_event_rating
+2873,0,0,,empty_scoreboard,0,1447,0.0,
+2874,775,159,616,ok,1,22604,30.0,table table-striped past_event_rating
+2875,0,31,31,empty_scoreboard,0,783,0.0,
+2876,0,171,171,empty_scoreboard,0,3369,25.83,
+2877,0,0,,empty_scoreboard,0,1765,22.5,
+2878,803,234,569,ok,1,23691,25.0,table table-striped past_event_rating
+2879,171,72,99,ok,1,5877,23.67,table table-striped past_event_rating
+288,147,48,99,ok,1,15834,5.0,table table-striped past_event_rating
+2880,0,0,,empty_scoreboard,0,2445,0.0,
+2882,106,24,82,ok,1,4813,0.0,table table-striped past_event_rating
+2883,715,193,522,ok,1,22928,50.0,table table-striped past_event_rating
+2884,557,341,216,ok,1,16501,70.5,table table-striped past_event_rating
+2885,0,34,34,empty_scoreboard,0,2072,0.0,
+2886,233,43,190,ok,1,8009,24.53,table table-striped past_event_rating
+289,0,3,3,empty_scoreboard,0,952,0.0,
+2890,649,58,591,ok,1,20293,67.32,table table-striped past_event_rating
+2892,22,24,2,row_count_undercount,1,1454,12.4,table table-striped past_event_rating
+2893,553,72,481,ok,1,16458,30.0,table table-striped past_event_rating
+2894,297,64,233,ok,1,10029,0.0,table table-striped past_event_rating
+2897,12,0,,ok,1,1056,100.0,table table-striped past_event_rating
+2898,317,111,206,ok,1,10450,29.0,table table-striped past_event_rating
+29,14,0,,ok,1,923,25.0,table table-striped past_event_rating
+290,647,201,446,ok,1,25026,0.0,table table-striped past_event_rating
+2900,128,29,99,ok,1,4518,64.0,table table-striped past_event_rating
+2901,611,187,424,ok,1,18136,25.0,table table-striped past_event_rating
+2902,971,133,838,ok,1,27342,24.83,table table-striped past_event_rating
+2903,406,52,354,ok,1,12814,16.47,table table-striped past_event_rating
+2905,184,45,139,ok,1,6288,24.23,table table-striped past_event_rating
+2906,432,127,305,ok,1,13159,23.92,table table-striped past_event_rating
+2909,85,8,77,ok,1,4500,25.0,table table-striped past_event_rating
+291,7,21,14,row_count_undercount,1,793,0.0,table table-striped past_event_rating
+2910,348,0,,ok,1,9507,80.0,table table-striped past_event_rating
+2911,0,0,,empty_scoreboard,0,2289,24.0,
+2912,787,127,660,ok,1,23122,35.39,table table-striped past_event_rating
+2913,0,27,27,empty_scoreboard,1,1720,0.0,table table-striped
+2914,0,62,62,empty_scoreboard,0,1188,0.0,
+2915,602,132,470,ok,1,19379,71.35,table table-striped past_event_rating
+2919,0,0,,empty_scoreboard,0,1374,0.0,
+292,27,13,14,ok,1,2130,0.0,table table-striped past_event_rating
+2921,15,0,,ok,1,2095,25.0,table table-striped past_event_rating
+2922,55,17,38,ok,1,3742,0.0,table table-striped past_event_rating
+2924,263,263,0,ok,1,8391,98.14,table table-striped past_event_rating
+2925,0,0,,empty_scoreboard,0,2007,0.0,
+2926,0,0,,empty_scoreboard,0,1811,0.0,
+2927,243,79,164,ok,1,7782,0.0,table table-striped past_event_rating
+2929,27,21,6,ok,1,1579,25.0,table table-striped past_event_rating
+293,0,39,39,empty_scoreboard,0,2702,0.0,
+2930,26,13,13,ok,1,1575,25.0,table table-striped past_event_rating
+2931,0,0,,empty_scoreboard,0,917,0.0,
+2934,0,8,8,empty_scoreboard,0,2522,0.0,
+2935,348,7,341,ok,1,11113,21.67,table table-striped past_event_rating
+2937,862,179,683,ok,1,25830,65.95,table table-striped past_event_rating
+2938,452,77,375,ok,1,14312,22.56,table table-striped past_event_rating
+2939,0,0,,empty_scoreboard,0,1562,0.0,
+294,0,20,20,empty_scoreboard,0,1368,0.0,
+2941,384,67,317,ok,1,11831,0.0,table table-striped past_event_rating
+2944,498,222,276,ok,1,15284,45.0,table table-striped past_event_rating
+2945,0,10,10,empty_scoreboard,0,998,0.0,
+2946,636,235,401,ok,1,17972,100.0,table table-striped past_event_rating
+2947,220,33,187,ok,1,6527,24.68,table table-striped past_event_rating
+295,0,44,44,empty_scoreboard,0,713,0.0,
+2950,0,0,,empty_scoreboard,0,2196,0.0,
+2951,131,55,76,ok,1,5265,24.0,table table-striped past_event_rating
+2952,201,44,157,ok,1,6066,0.0,table table-striped past_event_rating
+2953,94,13,81,ok,1,3987,0.0,table table-striped past_event_rating
+2954,9,12,3,row_count_undercount,1,1886,0.0,table table-striped past_event_rating
+2955,0,0,,empty_scoreboard,0,1151,0.0,
+2956,0,0,,empty_scoreboard,0,1092,0.0,
+2957,376,164,212,ok,1,11780,24.58,table table-striped past_event_rating
+2959,0,0,,empty_scoreboard,0,1276,0.0,
+2962,333,156,177,ok,1,10625,22.9,table table-striped past_event_rating
+2968,0,0,,empty_scoreboard,0,1676,26.5,
+2969,1550,211,1339,ok,1,43261,33.49,table table-striped past_event_rating
+297,281,93,188,ok,1,9108,5.0,table table-striped past_event_rating
+2972,10,9,1,ok,1,1585,96.9,table table-striped past_event_rating
+2979,11,0,,ok,1,913,25.0,table table-striped past_event_rating
+298,9,3,6,ok,1,1328,0.0,table table-striped past_event_rating
+2980,0,0,,empty_scoreboard,0,1815,0.0,
+2981,762,191,571,ok,1,22599,23.26,table table-striped past_event_rating
+2982,47,37,10,ok,1,2338,25.0,table table-striped past_event_rating
+2983,324,151,173,ok,1,10552,49.97,table table-striped past_event_rating
+2984,0,0,,empty_scoreboard,0,1578,0.0,
+2985,0,0,,empty_scoreboard,0,1502,0.0,
+2986,686,215,471,ok,1,19855,0.0,table table-striped past_event_rating
+2987,435,98,337,ok,1,14035,33.0,table table-striped past_event_rating
+2988,0,0,,empty_scoreboard,0,1535,0.0,
+2989,5,0,,ok,1,1553,25.0,table table-striped past_event_rating
+299,99,73,26,ok,1,3492,40.55,table table-striped past_event_rating
+2990,0,0,,empty_scoreboard,0,1287,0.0,
+2991,0,0,,empty_scoreboard,0,2620,0.0,
+2992,365,28,337,ok,1,10425,41.75,table table-striped past_event_rating
+2993,0,0,,empty_scoreboard,0,720,35.29,
+2994,15,0,,ok,1,1542,21.0,table table-striped past_event_rating
+2995,101,39,62,ok,1,3800,36.0,table table-striped past_event_rating
+2996,170,38,132,ok,1,5573,45.64,table table-striped past_event_rating
+2997,453,169,284,ok,1,13175,96.88,table table-striped past_event_rating
+2998,567,92,475,ok,1,25921,83.21,table table-striped past_event_rating
+2999,40,19,21,ok,1,2157,25.0,table table-striped past_event_rating
+3000,0,0,,empty_scoreboard,0,2712,0.0,
+3002,14,5,9,ok,1,1640,0.0,table table-striped past_event_rating
+3003,485,95,390,ok,1,14936,0.0,table table-striped past_event_rating
+3005,30,0,,ok,1,2443,0.0,table table-striped past_event_rating
+3006,43,24,19,ok,1,2637,0.0,table table-striped past_event_rating
+3008,0,0,,empty_scoreboard,0,2194,0.0,
+3009,542,70,472,ok,1,16423,24.4,table table-striped past_event_rating
+301,33,20,13,ok,1,1615,0.0,table table-striped past_event_rating
+3010,0,0,,empty_scoreboard,0,1342,0.0,
+3012,119,42,77,ok,1,4840,25.0,table table-striped past_event_rating
+3014,0,0,,empty_scoreboard,0,1175,0.0,
+3015,955,237,718,ok,1,28042,53.58,table table-striped past_event_rating
+3017,0,65,65,empty_scoreboard,0,1012,0.0,
+3018,0,31,31,empty_scoreboard,0,971,0.0,
+3019,0,56,56,empty_scoreboard,0,1185,0.0,
+302,19,10,9,ok,1,1574,5.0,table table-striped past_event_rating
+3021,556,93,463,ok,1,17054,23.42,table table-striped past_event_rating
+3024,533,218,315,ok,1,15790,29.22,table table-striped past_event_rating
+3025,0,0,,empty_scoreboard,0,1121,0.0,
+3026,0,0,,empty_scoreboard,0,1180,0.0,
+3027,120,18,102,ok,1,4797,0.0,table table-striped past_event_rating
+3028,120,37,83,ok,1,4159,25.0,table table-striped past_event_rating
+3032,0,0,,empty_scoreboard,0,2357,0.0,
+3033,0,58,58,empty_scoreboard,1,1556,90.53,table table-striped
+3034,0,49,49,empty_scoreboard,1,2143,91.0,table table-striped
+3036,0,0,,empty_scoreboard,0,1367,0.0,
+3037,588,115,473,ok,1,17361,23.73,table table-striped past_event_rating
+3038,185,37,148,ok,1,6702,0.0,table table-striped past_event_rating
+3039,0,22,22,empty_scoreboard,0,1043,0.0,
+304,0,0,,empty_scoreboard,0,577,0.0,
+3041,0,23,23,empty_scoreboard,1,1358,69.0,table table-striped
+3042,253,64,189,ok,1,8527,25.0,table table-striped past_event_rating
+3045,324,97,227,ok,1,10114,38.67,table table-striped past_event_rating
+3046,362,94,268,ok,1,11385,23.89,table table-striped past_event_rating
+3049,0,48,48,empty_scoreboard,1,1646,0.0,table table-striped
+305,0,58,58,empty_scoreboard,0,773,0.0,
+3052,0,20,20,empty_scoreboard,1,1240,24.7,table table-striped
+3053,890,228,662,ok,1,26596,22.21,table table-striped past_event_rating
+3056,762,223,539,ok,1,22856,85.48,table table-striped past_event_rating
+3057,0,13,13,empty_scoreboard,0,1328,0.0,
+3058,892,152,740,ok,1,25741,1.84,table table-striped past_event_rating
+306,77,11,66,ok,1,14716,14.26,table table-striped past_event_rating
+3060,114,52,62,ok,1,4440,23.6,table table-striped past_event_rating
+3061,0,29,29,empty_scoreboard,1,1715,34.47,table table-striped
+3062,0,0,,empty_scoreboard,0,632,99.38,
+3063,147,27,120,ok,1,6406,0.0,table table-striped past_event_rating
+3064,0,0,,empty_scoreboard,0,1902,0.0,
+3065,0,15,15,empty_scoreboard,1,1014,24.66,table table-striped
+3066,637,133,504,ok,1,18042,24.72,table table-striped past_event_rating
+3067,569,75,494,ok,1,16967,23.2,table table-striped past_event_rating
+3068,0,70,70,empty_scoreboard,0,13339,0.0,
+307,44,54,10,row_count_undercount,1,2248,10.0,table table-striped past_event_rating
+3071,50,58,8,row_count_undercount,1,3029,25.0,table table-striped past_event_rating
+3073,323,83,240,ok,1,10559,24.96,table table-striped past_event_rating
+3074,0,35,35,empty_scoreboard,0,2096,0.0,
+3075,321,36,285,ok,1,10544,0.0,table table-striped past_event_rating
+3076,0,0,,empty_scoreboard,0,1363,0.0,
+3077,0,0,,empty_scoreboard,0,1634,0.0,
+3078,10,0,,ok,1,2651,0.0,table table-striped past_event_rating
+3079,0,0,,empty_scoreboard,0,1260,0.0,
+308,22,15,7,ok,1,2023,44.69,table table-striped past_event_rating
+3080,16,34,18,row_count_undercount,1,1599,0.0,table table-striped past_event_rating
+3081,1352,316,1036,ok,1,40941,18.05,table table-striped past_event_rating
+3082,0,13,13,empty_scoreboard,1,1057,37.0,table table-striped
+3084,25,11,14,ok,1,1640,0.0,table table-striped past_event_rating
+3086,461,82,379,ok,1,14055,24.29,table table-striped past_event_rating
+3087,0,0,,empty_scoreboard,0,1021,0.0,
+3088,314,48,266,ok,1,9783,0.0,table table-striped past_event_rating
+3089,0,0,,empty_scoreboard,0,1475,0.0,
+309,610,95,515,ok,1,18467,0.0,table table-striped past_event_rating
+3090,0,45,45,empty_scoreboard,0,1109,0.0,
+3091,185,31,154,ok,1,5768,25.0,table table-striped past_event_rating
+3092,314,169,145,ok,1,9650,18.35,table table-striped past_event_rating
+3093,0,3,3,empty_scoreboard,1,939,27.49,table table-striped
+3094,0,0,,empty_scoreboard,0,880,0.0,
+3095,697,293,404,ok,1,20811,76.22,table table-striped past_event_rating
+3096,663,123,540,ok,1,29428,48.64,table table-striped past_event_rating
+3097,0,6,6,empty_scoreboard,1,1077,25.0,table table-striped
+3098,525,127,398,ok,1,16470,24.24,table table-striped past_event_rating
+3099,0,0,,empty_scoreboard,0,2169,0.0,
+310,39,10,29,ok,1,2549,0.0,table table-striped past_event_rating
+3101,218,118,100,ok,1,7715,18.57,table table-striped past_event_rating
+3102,674,187,487,ok,1,20057,66.64,table table-striped past_event_rating
+3104,0,10,10,empty_scoreboard,1,1736,0.0,table table-striped
+3105,756,124,632,ok,1,23406,24.5,table table-striped past_event_rating
+3108,688,127,561,ok,1,21264,25.0,table table-striped past_event_rating
+3109,0,34,34,empty_scoreboard,1,1754,31.0,table table-striped
+311,0,7,7,empty_scoreboard,0,1290,0.0,
+3110,496,157,339,ok,1,15655,100.0,table table-striped past_event_rating
+3111,0,73,73,empty_scoreboard,0,899,0.0,
+3112,0,39,39,empty_scoreboard,1,1828,94.99,table table-striped
+3113,0,24,24,empty_scoreboard,1,1066,79.25,table table-striped
+3114,0,4,4,empty_scoreboard,0,932,0.0,
+3117,398,39,359,ok,1,13391,37.0,table table-striped past_event_rating
+3118,0,8,8,empty_scoreboard,1,931,0.0,table table-striped
+312,433,118,315,ok,1,13294,19.25,table table-striped past_event_rating
+3122,859,212,647,ok,1,25370,25.54,table table-striped past_event_rating
+3123,30,34,4,row_count_undercount,1,3449,6.0,table table-striped past_event_rating
+3125,0,3,3,empty_scoreboard,1,1509,0.0,table table-striped
+3129,321,66,255,ok,1,12092,23.74,table table-striped past_event_rating
+313,0,3,3,empty_scoreboard,0,1518,0.0,
+3130,511,162,349,ok,1,15236,41.59,table table-striped past_event_rating
+3131,388,116,272,ok,1,14826,62.0,table table-striped past_event_rating
+3132,0,16,16,empty_scoreboard,1,1076,32.59,table table-striped
+3133,736,201,535,ok,1,22795,35.2,table table-striped past_event_rating
+3134,0,0,,empty_scoreboard,0,1622,0.0,
+3136,0,5,5,empty_scoreboard,1,1096,0.0,table table-striped
+3137,0,118,118,empty_scoreboard,0,986,56.25,
+314,214,110,104,ok,1,7783,37.19,table table-striped past_event_rating
+3141,575,152,423,ok,1,16138,24.16,table table-striped past_event_rating
+3143,75,21,54,ok,1,2944,18.7,table table-striped past_event_rating
+3145,0,6,6,empty_scoreboard,1,1030,24.83,table table-striped
+3146,115,33,82,ok,1,4405,24.14,table table-striped past_event_rating
+3147,140,55,85,ok,1,4632,46.2,table table-striped past_event_rating
+3148,0,10,10,empty_scoreboard,1,901,69.35,table table-striped
+3149,0,6,6,empty_scoreboard,1,1020,35.95,table table-striped
+315,812,80,732,ok,1,21761,87.08,table table-striped past_event_rating
+3150,432,98,334,ok,1,13722,21.78,table table-striped past_event_rating
+3152,74,27,47,ok,1,3120,0.0,table table-striped past_event_rating
+3153,411,95,316,ok,1,12695,66.0,table table-striped past_event_rating
+3155,87,13,74,ok,1,3783,0.0,table table-striped past_event_rating
+3156,752,132,620,ok,1,23725,23.93,table table-striped past_event_rating
+316,11,7,4,ok,1,978,0.0,table table-striped past_event_rating
+3160,63,0,,ok,1,3081,1.0,table table-striped past_event_rating
+3161,387,41,346,ok,1,10892,24.82,table table-striped past_event_rating
+3162,220,42,178,ok,1,7453,24.58,table table-striped past_event_rating
+3163,0,61,61,empty_scoreboard,0,2131,0.0,
+3165,103,20,83,ok,1,4093,25.0,table table-striped past_event_rating
+3166,420,97,323,ok,1,12823,24.51,table table-striped past_event_rating
+3167,0,6,6,empty_scoreboard,0,1883,0.0,
+317,9,0,,ok,1,7311,0.0,table table-striped past_event_rating
+3170,0,17,17,empty_scoreboard,0,1895,0.0,
+3171,848,162,686,ok,1,25570,24.1,table table-striped past_event_rating
+3172,109,36,73,ok,1,4970,25.0,table table-striped past_event_rating
+3173,0,2,2,empty_scoreboard,1,929,0.0,
+3174,0,10,10,empty_scoreboard,1,1170,0.0,table table-striped
+3175,102,42,60,ok,1,5422,25.0,table table-striped past_event_rating
+3176,0,13,13,empty_scoreboard,0,6168,0.0,
+3177,766,96,670,ok,1,22892,24.82,table table-striped past_event_rating
+3178,0,33,33,empty_scoreboard,1,1690,47.5,table table-striped
+3179,0,0,,empty_scoreboard,0,1171,0.0,
+318,0,1,1,empty_scoreboard,0,542,0.0,
+3180,0,4,4,empty_scoreboard,1,1393,23.47,table table-striped
+3181,0,5,5,empty_scoreboard,1,1413,0.0,table table-striped
+3182,24,19,5,ok,1,3292,0.0,table table-striped past_event_rating
+3183,186,81,105,ok,1,7745,0.0,table table-striped past_event_rating
+3185,382,43,339,ok,1,11917,22.11,table table-striped past_event_rating
+3186,593,191,402,ok,1,17603,34.67,table table-striped past_event_rating
+3187,64,16,48,ok,1,3963,0.0,table table-striped past_event_rating
+3188,201,88,113,ok,1,6998,0.0,table table-striped past_event_rating
+3189,0,13,13,empty_scoreboard,0,1723,0.0,
+319,1671,141,1530,ok,1,48751,0.0,table table-striped past_event_rating
+3190,0,24,24,empty_scoreboard,0,1606,0.0,
+3191,230,40,190,ok,1,7834,25.0,table table-striped past_event_rating
+3192,161,74,87,ok,1,5793,24.53,table table-striped past_event_rating
+3195,0,49,49,empty_scoreboard,1,1683,65.05,table table-striped
+3196,10,77,67,row_count_undercount,1,1237,75.0,table table-striped past_event_rating
+3197,517,122,395,ok,1,16889,36.0,table table-striped past_event_rating
+3199,0,66,66,empty_scoreboard,0,2281,0.0,
+320,276,131,145,ok,1,8137,66.2,table table-striped past_event_rating
+3200,0,44,44,empty_scoreboard,0,1317,0.0,
+3201,0,8,8,empty_scoreboard,1,1347,69.22,table table-striped
+3202,119,23,96,ok,1,4828,24.94,table table-striped past_event_rating
+3203,54,6,48,ok,1,2832,0.0,table table-striped past_event_rating
+3204,270,76,194,ok,1,9360,24.59,table table-striped past_event_rating
+3205,0,156,156,empty_scoreboard,1,2605,63.22,table table-striped
+3206,426,28,398,ok,1,13129,25.0,table table-striped past_event_rating
+3207,0,17,17,empty_scoreboard,1,951,94.74,table table-striped
+3209,0,156,156,empty_scoreboard,1,4768,0.0,table table-striped
+321,10,10,0,ok,1,4032,0.0,table table-striped past_event_rating
+3211,0,30,30,empty_scoreboard,0,1059,0.0,
+3212,0,0,,empty_scoreboard,0,1296,0.0,
+3213,20,8,12,ok,1,2448,0.0,table table-striped past_event_rating
+3214,0,19,19,empty_scoreboard,1,1222,0.0,table table-striped
+322,336,78,258,ok,1,10337,13.8,table table-striped past_event_rating
+3220,0,6,6,empty_scoreboard,1,1227,0.0,table table-striped
+3222,0,125,125,empty_scoreboard,1,2093,88.82,table table-striped
+3223,0,4,4,empty_scoreboard,0,2030,0.0,
+3225,277,95,182,ok,1,9109,16.56,table table-striped past_event_rating
+3226,164,27,137,ok,1,7343,23.0,table table-striped past_event_rating
+3227,0,22,22,empty_scoreboard,0,893,0.0,
+323,0,7,7,empty_scoreboard,0,1089,0.0,
+3230,24,8,16,ok,1,2990,0.0,table table-striped past_event_rating
+3233,72,10,62,ok,1,3642,25.0,table table-striped past_event_rating
+3234,194,47,147,ok,1,6795,32.47,table table-striped past_event_rating
+3235,315,81,234,ok,1,9923,44.77,table table-striped past_event_rating
+3237,0,3,3,empty_scoreboard,1,1307,0.0,table table-striped
+324,31,0,,ok,1,1867,0.0,table table-striped past_event_rating
+3240,111,12,99,ok,1,4269,0.0,table table-striped past_event_rating
+3241,14,57,43,row_count_undercount,1,1778,0.0,table table-striped past_event_rating
+3242,0,2,2,empty_scoreboard,1,1046,0.0,
+3243,0,0,,empty_scoreboard,0,1093,0.0,
+3244,14,30,16,row_count_undercount,1,1482,25.0,table table-striped past_event_rating
+3246,0,9,9,empty_scoreboard,1,1008,65.05,table table-striped
+3247,0,26,26,empty_scoreboard,1,1218,53.29,table table-striped
+3249,0,6,6,empty_scoreboard,1,982,22.14,table table-striped
+325,20,0,,ok,1,1934,20.0,table table-striped past_event_rating
+3250,513,56,457,ok,1,16251,21.67,table table-striped past_event_rating
+3252,0,33,33,empty_scoreboard,0,1757,0.0,
+3253,0,6,6,empty_scoreboard,0,879,0.0,
+3256,0,6,6,empty_scoreboard,0,736,0.0,
+3257,9,0,,ok,1,1364,0.0,table table-striped past_event_rating
+3258,0,1,1,empty_scoreboard,1,1009,0.0,table table-striped
+326,147,10,137,ok,1,5222,23.5,table table-striped past_event_rating
+3265,0,1,1,empty_scoreboard,1,882,25.0,
+3266,0,25,25,empty_scoreboard,0,1795,45.6,
+3267,0,38,38,empty_scoreboard,0,2537,0.0,
+3268,0,5,5,empty_scoreboard,1,933,0.0,table table-striped
+3269,0,8,8,empty_scoreboard,1,1756,0.0,table table-striped
+327,342,119,223,ok,1,9781,57.34,table table-striped past_event_rating
+3270,0,5,5,empty_scoreboard,1,929,0.0,table table-striped
+3271,0,4,4,empty_scoreboard,1,1492,0.0,table table-striped
+3272,0,2,2,empty_scoreboard,1,1211,0.0,
+3276,0,1,1,empty_scoreboard,1,1072,0.0,table table-striped
+3278,0,1,1,empty_scoreboard,1,1324,0.0,
+328,16,5,11,ok,1,1330,10.0,table table-striped past_event_rating
+3283,0,19,19,empty_scoreboard,0,1615,0.0,
+329,58,74,16,row_count_undercount,1,5057,23.33,table table-striped past_event_rating
+33,0,2,2,empty_scoreboard,0,738,0.0,
+330,0,82,82,empty_scoreboard,0,2813,0.0,
+332,10,3,7,ok,1,1563,14.33,table table-striped past_event_rating
+333,0,86,86,empty_scoreboard,0,1194,0.0,
+334,7,0,,ok,1,8977,5.0,table table-striped past_event_rating
+335,393,88,305,ok,1,10988,12.0,table table-striped past_event_rating
+336,835,141,694,ok,1,22590,55.62,table table-striped past_event_rating
+339,175,121,54,ok,1,5519,24.21,table table-striped past_event_rating
+34,13,5,8,ok,1,1008,20.0,table table-striped past_event_rating
+340,281,79,202,ok,1,11038,21.0,table table-striped past_event_rating
+341,678,120,558,ok,1,19369,17.36,table table-striped past_event_rating
+342,720,131,589,ok,1,20381,55.06,table table-striped past_event_rating
+343,131,8,123,ok,1,4841,22.0,table table-striped past_event_rating
+344,15,0,,ok,1,1165,80.0,table table-striped past_event_rating
+345,1028,241,787,ok,1,27700,23.11,table table-striped past_event_rating
+346,0,14,14,empty_scoreboard,0,1579,5.0,
+347,1271,122,1149,ok,1,36291,24.61,table table-striped past_event_rating
+348,491,71,420,ok,1,13753,0.0,table table-striped past_event_rating
+349,0,6,6,empty_scoreboard,0,788,0.0,
+35,8,2,6,ok,1,922,60.0,table table-striped past_event_rating
+350,150,44,106,ok,1,4829,21.14,table table-striped past_event_rating
+351,22,1,21,ok,1,2186,0.0,table table-striped past_event_rating
+353,3,32,29,row_count_undercount,1,1887,25.0,table table-striped past_event_rating
+354,929,204,725,ok,1,26695,30.0,table table-striped past_event_rating
+355,732,96,636,ok,1,20603,69.38,table table-striped past_event_rating
+356,116,74,42,ok,1,18278,14.25,table table-striped past_event_rating
+357,80,51,29,ok,1,7092,20.0,table table-striped past_event_rating
+358,130,101,29,ok,1,4304,76.13,table table-striped past_event_rating
+361,0,0,,empty_scoreboard,0,765,0.0,
+363,0,8,8,empty_scoreboard,0,1374,0.0,
+364,447,128,319,ok,1,11919,37.88,table table-striped past_event_rating
+365,16,6,10,ok,1,1976,0.0,table table-striped past_event_rating
+367,314,109,205,ok,1,10996,35.0,table table-striped past_event_rating
+368,56,26,30,ok,1,4424,15.5,table table-striped past_event_rating
+37,0,0,,empty_scoreboard,0,596,20.0,
+370,700,160,540,ok,1,20782,43.48,table table-striped past_event_rating
+371,23,6,17,ok,1,2201,0.0,table table-striped past_event_rating
+373,80,110,30,row_count_undercount,1,3613,0.0,table table-striped past_event_rating
+374,675,193,482,ok,1,18953,23.1,table table-striped past_event_rating
+375,7,6,1,ok,1,1090,0.0,table table-striped past_event_rating
+376,0,0,,empty_scoreboard,0,612,0.0,
+38,260,40,220,ok,1,8012,70.0,table table-striped past_event_rating
+380,220,119,101,ok,1,7370,55.04,table table-striped past_event_rating
+381,23,22,1,ok,1,1469,20.0,table table-striped past_event_rating
+382,339,237,102,ok,1,10362,20.0,table table-striped past_event_rating
+383,68,34,34,ok,1,2903,44.84,table table-striped past_event_rating
+384,168,66,102,ok,1,5751,25.0,table table-striped past_event_rating
+385,224,105,119,ok,1,8274,15.93,table table-striped past_event_rating
+386,20,0,,ok,1,1567,0.0,table table-striped past_event_rating
+387,0,0,,empty_scoreboard,0,1515,0.0,
+388,54,2,52,ok,1,2694,0.0,table table-striped past_event_rating
+389,661,98,563,ok,1,18960,18.9,table table-striped past_event_rating
+39,10,5,5,ok,1,4675,30.0,table table-striped past_event_rating
+390,0,0,,empty_scoreboard,0,597,0.0,
+391,310,134,176,ok,1,9404,0.0,table table-striped past_event_rating
+393,16,12,4,ok,1,2642,22.0,table table-striped past_event_rating
+394,945,295,650,ok,1,25394,60.0,table table-striped past_event_rating
+396,15,0,,ok,1,2506,25.0,table table-striped past_event_rating
+397,0,4,4,empty_scoreboard,0,803,0.0,
+398,111,75,36,ok,1,4612,24.12,table table-striped past_event_rating
+399,10,0,,ok,1,2834,16.67,table table-striped past_event_rating
+4,204,194,10,ok,1,6324,45.0,table table-striped past_event_rating
+40,0,1,1,empty_scoreboard,0,1437,0.0,
+400,13,10,3,ok,1,2428,43.33,table table-striped past_event_rating
+401,24,12,12,ok,1,1348,25.0,table table-striped past_event_rating
+402,906,266,640,ok,1,23795,40.74,table table-striped past_event_rating
+403,0,0,,empty_scoreboard,0,1087,0.0,
+404,277,167,110,ok,1,8540,88.49,table table-striped past_event_rating
+405,471,161,310,ok,1,13309,40.55,table table-striped past_event_rating
+406,10,47,37,row_count_undercount,1,2510,0.0,table table-striped past_event_rating
+407,535,6,529,ok,1,15028,23.24,table table-striped past_event_rating
+408,1021,194,827,ok,1,28268,17.41,table table-striped past_event_rating
+409,36,19,17,ok,1,2226,0.0,table table-striped past_event_rating
+41,7,5,2,ok,1,836,20.0,table table-striped past_event_rating
+411,9,3,6,ok,1,1600,14.33,table table-striped past_event_rating
+413,23,14,9,ok,1,1300,30.0,table table-striped past_event_rating
+414,531,96,435,ok,1,15421,23.68,table table-striped past_event_rating
+415,15,22,7,row_count_undercount,1,2025,0.0,table table-striped past_event_rating
+416,0,10,10,empty_scoreboard,0,801,0.0,
+417,275,69,206,ok,1,8328,15.89,table table-striped past_event_rating
+418,0,0,,empty_scoreboard,0,843,5.0,
+419,14,22,8,row_count_undercount,1,1421,0.0,table table-striped past_event_rating
+42,633,39,594,ok,1,18976,40.0,table table-striped past_event_rating
+420,525,116,409,ok,1,29282,6.54,table table-striped past_event_rating
+421,362,112,250,ok,1,10187,5.0,table table-striped past_event_rating
+424,110,56,54,ok,1,3880,17.36,table table-striped past_event_rating
+425,252,149,103,ok,1,7673,23.31,table table-striped past_event_rating
+426,35,37,2,row_count_undercount,1,1937,0.0,table table-striped past_event_rating
+427,206,113,93,ok,1,7662,29.31,table table-striped past_event_rating
+428,50,82,32,row_count_undercount,1,3677,10.0,table table-striped past_event_rating
+429,70,53,17,ok,1,3553,0.0,table table-striped past_event_rating
+43,15,11,4,ok,1,1274,30.0,table table-striped past_event_rating
+430,333,61,272,ok,1,9811,17.8,table table-striped past_event_rating
+431,0,21,21,empty_scoreboard,0,1225,0.0,
+432,300,101,199,ok,1,10619,15.0,table table-striped past_event_rating
+433,258,73,185,ok,1,7678,10.0,table table-striped past_event_rating
+434,22,36,14,row_count_undercount,1,1595,44.69,table table-striped past_event_rating
+435,0,88,88,empty_scoreboard,0,1440,0.0,
+436,0,3,3,empty_scoreboard,0,720,0.0,
+437,0,2,2,empty_scoreboard,0,1056,0.0,
+439,550,237,313,ok,1,16189,87.08,table table-striped past_event_rating
+44,28,12,16,ok,1,4484,20.0,table table-striped past_event_rating
+441,1938,26,1912,ok,1,55005,0.0,table table-striped past_event_rating
+442,0,30,30,empty_scoreboard,0,1077,0.0,
+444,363,55,308,ok,1,10742,21.67,table table-striped past_event_rating
+445,0,49,49,empty_scoreboard,0,894,0.0,
+446,5,34,29,row_count_undercount,1,1357,0.0,table table-striped past_event_rating
+447,81,24,57,ok,1,4291,0.0,table table-striped past_event_rating
+448,78,22,56,ok,1,2858,14.26,table table-striped past_event_rating
+449,204,32,172,ok,1,5867,5.0,table table-striped past_event_rating
+45,12,0,,ok,1,984,20.0,table table-striped past_event_rating
+450,619,159,460,ok,1,17715,20.0,table table-striped past_event_rating
+451,514,31,483,ok,1,14485,20.89,table table-striped past_event_rating
+453,162,68,94,ok,1,5184,22.37,table table-striped past_event_rating
+454,9,15,6,row_count_undercount,1,926,22.5,table table-striped past_event_rating
+455,1971,433,1538,ok,1,57660,21.99,table table-striped past_event_rating
+457,589,163,426,ok,1,16409,57.34,table table-striped past_event_rating
+458,0,5,5,empty_scoreboard,0,717,0.0,
+46,17,8,9,ok,1,1114,40.0,table table-striped past_event_rating
+460,14,0,,ok,1,1172,25.0,table table-striped past_event_rating
+461,706,0,,ok,1,19429,23.72,table table-striped past_event_rating
+462,305,44,261,ok,1,8310,0.0,table table-striped past_event_rating
+463,0,28,28,empty_scoreboard,0,2061,0.0,
+464,85,6,79,ok,1,3591,0.0,table table-striped past_event_rating
+466,12,16,4,row_count_undercount,1,1757,45.0,table table-striped past_event_rating
+468,108,85,23,ok,1,4582,20.0,table table-striped past_event_rating
+469,52,36,16,ok,1,2402,24.58,table table-striped past_event_rating
+47,0,0,,empty_scoreboard,0,591,0.0,
+470,543,116,427,ok,1,14842,24.77,table table-striped past_event_rating
+472,0,56,56,empty_scoreboard,0,1157,0.0,
+473,17,14,3,ok,1,1322,10.0,table table-striped past_event_rating
+474,901,166,735,ok,1,24038,55.62,table table-striped past_event_rating
+475,294,119,175,ok,1,12392,21.0,table table-striped past_event_rating
+476,55,72,17,row_count_undercount,1,3348,23.92,table table-striped past_event_rating
+477,0,71,71,empty_scoreboard,0,2580,0.0,
+478,461,154,307,ok,1,13402,24.59,table table-striped past_event_rating
+479,94,62,32,ok,1,3818,0.0,table table-striped past_event_rating
+480,11,10,1,ok,1,2923,16.67,table table-striped past_event_rating
+481,345,118,227,ok,1,9930,17.36,table table-striped past_event_rating
+482,0,26,26,empty_scoreboard,0,923,0.0,
+483,183,65,118,ok,1,6458,55.06,table table-striped past_event_rating
+485,1071,168,903,ok,1,28889,69.38,table table-striped past_event_rating
+486,541,77,464,ok,1,15344,24.59,table table-striped past_event_rating
+487,0,9,9,empty_scoreboard,0,2043,5.0,
+488,1432,126,1306,ok,1,39887,24.61,table table-striped past_event_rating
+489,499,128,371,ok,1,13614,28.59,table table-striped past_event_rating
+49,82,35,47,ok,1,3638,70.0,table table-striped past_event_rating
+490,417,68,349,ok,1,11731,21.03,table table-striped past_event_rating
+491,333,163,170,ok,1,15699,16.88,table table-striped past_event_rating
+492,374,77,297,ok,1,10745,25.0,table table-striped past_event_rating
+493,15,0,,ok,1,1162,80.0,table table-striped past_event_rating
+494,23,13,10,ok,1,2564,0.0,table table-striped past_event_rating
+496,246,29,217,ok,1,7501,0.0,table table-striped past_event_rating
+497,0,109,109,empty_scoreboard,0,1491,0.0,
+498,184,33,151,ok,1,6342,20.0,table table-striped past_event_rating
+499,547,100,447,ok,1,15534,24.57,table table-striped past_event_rating
+5,83,0,,ok,1,2801,20.0,table table-striped past_event_rating
+50,93,44,49,ok,1,3116,40.0,table table-striped past_event_rating
+500,939,120,819,ok,1,26498,19.25,table table-striped past_event_rating
+501,484,0,,ok,1,13659,21.57,table table-striped past_event_rating
+503,15,11,4,ok,1,1959,0.0,table table-striped past_event_rating
+504,211,111,100,ok,1,7269,37.19,table table-striped past_event_rating
+505,554,67,487,ok,1,15388,24.74,table table-striped past_event_rating
+506,10,17,7,row_count_undercount,1,1337,25.0,table table-striped past_event_rating
+507,681,163,518,ok,1,29449,43.48,table table-striped past_event_rating
+508,0,59,59,empty_scoreboard,0,1644,0.0,
+509,15,8,7,ok,1,2678,11.0,table table-striped past_event_rating
+51,54,41,13,ok,1,4926,0.0,table table-striped past_event_rating
+510,15,8,7,ok,1,1186,25.0,table table-striped past_event_rating
+511,24,17,7,ok,1,1305,25.0,table table-striped past_event_rating
+512,1028,146,882,ok,1,28988,30.0,table table-striped past_event_rating
+515,276,27,249,ok,1,14614,6.95,table table-striped past_event_rating
+516,305,117,188,ok,1,10249,21.44,table table-striped past_event_rating
+517,10,2,8,ok,1,1806,25.0,table table-striped past_event_rating
+518,801,43,758,ok,1,23758,25.0,table table-striped past_event_rating
+519,227,73,154,ok,1,10033,19.22,table table-striped past_event_rating
+52,0,0,,empty_scoreboard,0,582,0.0,
+520,0,21,21,empty_scoreboard,0,2845,25.0,
+521,11,11,0,ok,1,1578,25.0,table table-striped past_event_rating
+522,0,22,22,empty_scoreboard,0,4166,0.0,
+523,0,49,49,empty_scoreboard,0,2498,25.0,
+524,0,2,2,empty_scoreboard,0,1350,0.0,
+525,241,113,128,ok,1,7776,55.04,table table-striped past_event_rating
+526,150,81,69,ok,1,4787,76.13,table table-striped past_event_rating
+527,52,17,35,ok,1,2829,25.0,table table-striped past_event_rating
+528,61,55,6,ok,1,3254,0.0,table table-striped past_event_rating
+529,302,37,265,ok,1,10462,18.9,table table-striped past_event_rating
+53,59,10,49,ok,1,2249,10.0,table table-striped past_event_rating
+530,29,23,6,ok,1,1942,0.0,table table-striped past_event_rating
+531,14,10,4,ok,1,2068,43.33,table table-striped past_event_rating
+532,11,0,,ok,1,1435,0.0,table table-striped past_event_rating
+533,0,52,52,empty_scoreboard,0,1119,0.0,
+535,484,61,423,ok,1,13949,18.99,table table-striped past_event_rating
+536,532,63,469,ok,1,14800,25.0,table table-striped past_event_rating
+537,268,133,135,ok,1,10839,21.45,table table-striped past_event_rating
+538,18,6,12,ok,1,1547,0.0,table table-striped past_event_rating
+539,411,199,212,ok,1,11863,25.12,table table-striped past_event_rating
+54,10,13,3,row_count_undercount,1,1403,30.0,table table-striped past_event_rating
+540,16,12,4,ok,1,1366,0.0,table table-striped past_event_rating
+541,11,0,,ok,1,2257,22.0,table table-striped past_event_rating
+542,0,98,98,empty_scoreboard,0,1010,25.0,
+543,169,76,93,ok,1,5850,24.12,table table-striped past_event_rating
+544,187,157,30,ok,1,6017,88.49,table table-striped past_event_rating
+545,433,111,322,ok,1,12584,29.21,table table-striped past_event_rating
+546,13,7,6,ok,1,1548,25.0,table table-striped past_event_rating
+547,434,85,349,ok,1,15145,23.24,table table-striped past_event_rating
+548,0,48,48,empty_scoreboard,0,891,17.5,
+549,447,76,371,ok,1,12667,23.87,table table-striped past_event_rating
+55,0,0,,empty_scoreboard,0,938,0.0,
+551,156,26,130,ok,1,4784,25.0,table table-striped past_event_rating
+554,65,85,20,row_count_undercount,1,2906,25.0,table table-striped past_event_rating
+555,16,4,12,ok,1,1552,0.0,table table-striped past_event_rating
+556,229,52,177,ok,1,9172,0.0,table table-striped past_event_rating
+558,12,20,8,row_count_undercount,1,1412,66.75,table table-striped past_event_rating
+559,1271,108,1163,ok,1,35023,23.72,table table-striped past_event_rating
+56,154,44,110,ok,1,5010,60.0,table table-striped past_event_rating
+560,97,2,95,ok,1,4094,22.78,table table-striped past_event_rating
+561,22,31,9,row_count_undercount,1,1675,0.0,table table-striped past_event_rating
+562,307,36,271,ok,1,9521,5.0,table table-striped past_event_rating
+563,0,81,81,empty_scoreboard,0,1670,0.0,
+564,139,40,99,ok,1,5684,24.63,table table-striped past_event_rating
+565,58,25,33,ok,1,4031,47.71,table table-striped past_event_rating
+566,248,108,140,ok,1,8405,16.95,table table-striped past_event_rating
+567,265,96,169,ok,1,9038,60.83,table table-striped past_event_rating
+568,734,159,575,ok,1,20676,55.0,table table-striped past_event_rating
+569,816,82,734,ok,1,22690,19.73,table table-striped past_event_rating
+57,129,54,75,ok,1,4617,60.0,table table-striped past_event_rating
+570,241,65,176,ok,1,7326,18.56,table table-striped past_event_rating
+572,0,11,11,empty_scoreboard,0,1869,0.0,
+573,2145,12,2133,ok,1,62733,0.0,table table-striped past_event_rating
+574,26,0,,ok,1,1498,25.0,table table-striped past_event_rating
+576,0,50,50,empty_scoreboard,0,1837,0.0,
+577,1506,147,1359,ok,1,42966,22.6,table table-striped past_event_rating
+578,0,6,6,empty_scoreboard,0,978,0.0,
+579,12,13,1,row_count_undercount,1,1582,0.0,table table-striped past_event_rating
+58,0,0,,empty_scoreboard,0,1011,0.0,
+580,240,31,209,ok,1,7615,17.8,table table-striped past_event_rating
+581,606,122,484,ok,1,17386,6.54,table table-striped past_event_rating
+583,489,150,339,ok,1,14273,47.08,table table-striped past_event_rating
+584,515,119,396,ok,1,14786,24.41,table table-striped past_event_rating
+585,123,57,66,ok,1,4385,34.1,table table-striped past_event_rating
+587,430,80,350,ok,1,11568,22.37,table table-striped past_event_rating
+588,216,56,160,ok,1,6418,23.25,table table-striped past_event_rating
+589,133,55,78,ok,1,5096,18.97,table table-striped past_event_rating
+59,123,68,55,ok,1,4059,80.0,table table-striped past_event_rating
+590,929,134,795,ok,1,26057,22.35,table table-striped past_event_rating
+591,165,72,93,ok,1,8046,24.07,table table-striped past_event_rating
+592,553,91,462,ok,1,15410,21.67,table table-striped past_event_rating
+593,779,117,662,ok,1,22057,10.0,table table-striped past_event_rating
+594,440,56,384,ok,1,14188,25.0,table table-striped past_event_rating
+595,220,46,174,ok,1,7021,24.88,table table-striped past_event_rating
+596,174,37,137,ok,1,6016,25.0,table table-striped past_event_rating
+597,108,14,94,ok,1,3959,0.0,table table-striped past_event_rating
+598,343,80,263,ok,1,10546,18.33,table table-striped past_event_rating
+6,303,278,25,ok,1,8368,50.0,table table-striped past_event_rating
+60,173,55,118,ok,1,5215,50.0,table table-striped past_event_rating
+600,604,89,515,ok,1,16657,21.83,table table-striped past_event_rating
+601,0,7,7,empty_scoreboard,0,1345,0.0,
+602,11,10,1,ok,1,1215,22.5,table table-striped past_event_rating
+603,0,1,1,empty_scoreboard,0,1296,0.0,
+604,0,0,,empty_scoreboard,0,964,0.0,
+605,0,0,,empty_scoreboard,0,753,0.0,
+606,140,7,133,ok,1,4355,0.0,table table-striped past_event_rating
+607,17,3,14,ok,1,1119,0.0,table table-striped past_event_rating
+608,585,226,359,ok,1,24633,72.53,table table-striped past_event_rating
+61,321,20,301,ok,1,8911,20.0,table table-striped past_event_rating
+612,23,2,21,ok,1,1893,0.0,table table-striped past_event_rating
+613,63,15,48,ok,1,2872,24.8,table table-striped past_event_rating
+614,146,20,126,ok,1,6195,25.0,table table-striped past_event_rating
+615,5,2,3,ok,1,5213,0.0,table table-striped past_event_rating
+616,130,17,113,ok,1,4810,0.0,table table-striped past_event_rating
+617,985,171,814,ok,1,25479,90.83,table table-striped past_event_rating
+618,0,9,9,empty_scoreboard,0,901,0.0,
+62,283,67,216,ok,1,8336,80.0,table table-striped past_event_rating
+620,182,42,140,ok,1,7304,59.84,table table-striped past_event_rating
+621,4,3,1,ok,1,898,25.0,table table-striped past_event_rating
+623,219,372,153,row_count_undercount,1,8623,66.31,table table-striped past_event_rating
+624,399,100,299,ok,1,11985,24.02,table table-striped past_event_rating
+625,743,157,586,ok,1,21360,24.59,table table-striped past_event_rating
+626,10,22,12,row_count_undercount,1,3790,25.0,table table-striped past_event_rating
+627,12,5,7,ok,1,2391,0.0,table table-striped past_event_rating
+628,50,0,,ok,1,2666,0.0,table table-striped past_event_rating
+629,0,123,123,empty_scoreboard,0,1747,25.0,
+63,11,4,7,ok,1,998,70.0,table table-striped past_event_rating
+630,0,59,59,empty_scoreboard,0,3260,25.0,
+631,0,98,98,empty_scoreboard,0,6076,1.0,
+632,631,139,492,ok,1,16986,23.92,table table-striped past_event_rating
+633,668,171,497,ok,1,19860,30.23,table table-striped past_event_rating
+635,14,8,6,ok,1,1494,25.0,table table-striped past_event_rating
+636,542,55,487,ok,1,14676,25.0,table table-striped past_event_rating
+637,0,5,5,empty_scoreboard,0,562,0.0,
+638,17,10,7,ok,1,1400,10.0,table table-striped past_event_rating
+639,255,104,151,ok,1,7689,24.83,table table-striped past_event_rating
+64,415,84,331,ok,1,11525,80.0,table table-striped past_event_rating
+642,320,72,248,ok,1,9829,23.38,table table-striped past_event_rating
+644,8,10,2,row_count_undercount,1,2736,13.0,table table-striped past_event_rating
+645,109,72,37,ok,1,4671,24.67,table table-striped past_event_rating
+647,297,107,190,ok,1,9464,42.0,table table-striped past_event_rating
+648,233,145,88,ok,1,7260,25.0,table table-striped past_event_rating
+649,12,17,5,row_count_undercount,1,1369,65.8,table table-striped past_event_rating
+65,71,36,35,ok,1,2548,70.0,table table-striped past_event_rating
+650,764,117,647,ok,1,23395,24.08,table table-striped past_event_rating
+651,810,131,679,ok,1,22368,80.04,table table-striped past_event_rating
+652,459,152,307,ok,1,14209,24.33,table table-striped past_event_rating
+654,405,139,266,ok,1,12668,18.75,table table-striped past_event_rating
+656,360,100,260,ok,1,11348,24.5,table table-striped past_event_rating
+657,1725,182,1543,ok,1,49746,22.91,table table-striped past_event_rating
+658,12,7,5,ok,1,1396,25.0,table table-striped past_event_rating
+659,165,41,124,ok,1,7311,16.92,table table-striped past_event_rating
+66,0,1,1,empty_scoreboard,0,631,0.0,
+660,1015,55,960,ok,1,27236,24.44,table table-striped past_event_rating
+661,708,222,486,ok,1,22023,23.32,table table-striped past_event_rating
+662,306,87,219,ok,1,9323,25.0,table table-striped past_event_rating
+663,13,11,2,ok,1,3269,20.0,table table-striped past_event_rating
+665,10,6,4,ok,1,1677,25.0,table table-striped past_event_rating
+666,24,0,,ok,1,3587,68.75,table table-striped past_event_rating
+667,136,0,,ok,1,4527,0.0,table table-striped past_event_rating
+668,462,85,377,ok,1,12984,24.57,table table-striped past_event_rating
+669,1166,174,992,ok,1,30851,98.52,table table-striped past_event_rating
+67,0,10,10,empty_scoreboard,0,1283,0.0,
+670,10,8,2,ok,1,1066,17.5,table table-striped past_event_rating
+671,528,86,442,ok,1,16755,22.26,table table-striped past_event_rating
+672,123,57,66,ok,1,4276,24.95,table table-striped past_event_rating
+674,96,89,7,ok,1,3998,1.0,table table-striped past_event_rating
+676,6,8,2,row_count_undercount,1,1904,0.0,table table-striped past_event_rating
+678,0,0,,empty_scoreboard,0,1623,0.0,
+679,29,10,19,ok,1,1604,0.0,table table-striped past_event_rating
+68,167,59,108,ok,1,5477,40.0,table table-striped past_event_rating
+682,950,134,816,ok,1,26938,20.87,table table-striped past_event_rating
+683,653,96,557,ok,1,17865,36.92,table table-striped past_event_rating
+684,15,14,1,ok,1,1264,15.0,table table-striped past_event_rating
+685,14,8,6,ok,1,1146,0.0,table table-striped past_event_rating
+686,236,280,44,row_count_undercount,1,7785,41.47,table table-striped past_event_rating
+687,96,58,38,ok,1,3543,72.0,table table-striped past_event_rating
+688,15,7,8,ok,1,1890,25.0,table table-striped past_event_rating
+689,201,99,102,ok,1,6236,23.96,table table-striped past_event_rating
+69,15,0,,ok,1,1009,30.0,table table-striped past_event_rating
+692,0,34,34,empty_scoreboard,0,1165,0.0,
+693,0,0,,empty_scoreboard,0,1990,11.0,
+695,594,169,425,ok,1,18066,25.0,table table-striped past_event_rating
+696,43,10,33,ok,1,2763,35.5,table table-striped past_event_rating
+697,10,8,2,ok,1,2838,18.67,table table-striped past_event_rating
+698,17,11,6,ok,1,2049,20.0,table table-striped past_event_rating
+699,303,111,192,ok,1,9817,72.75,table table-striped past_event_rating
+7,119,0,,ok,1,3860,70.0,table table-striped past_event_rating
+70,218,30,188,ok,1,6176,40.0,table table-striped past_event_rating
+700,426,93,333,ok,1,13078,25.0,table table-striped past_event_rating
+701,130,168,38,row_count_undercount,1,4712,19.22,table table-striped past_event_rating
+702,10,9,1,ok,1,1057,25.0,table table-striped past_event_rating
+703,296,50,246,ok,1,8007,25.0,table table-striped past_event_rating
+704,29,46,17,row_count_undercount,1,2090,0.0,table table-striped past_event_rating
+705,0,0,,empty_scoreboard,0,660,0.0,
+707,0,32,32,empty_scoreboard,0,1388,0.0,
+708,318,71,247,ok,1,9394,25.0,table table-striped past_event_rating
+709,41,0,,ok,1,1868,0.0,table table-striped past_event_rating
+71,10,0,,ok,1,1016,60.0,table table-striped past_event_rating
+710,10,6,4,ok,1,1320,0.0,table table-striped past_event_rating
+711,289,81,208,ok,1,8966,25.0,table table-striped past_event_rating
+713,414,203,211,ok,1,12300,27.27,table table-striped past_event_rating
+714,223,163,60,ok,1,7080,24.56,table table-striped past_event_rating
+715,28,9,19,ok,1,1725,23.01,table table-striped past_event_rating
+716,0,39,39,empty_scoreboard,0,727,0.0,
+718,636,232,404,ok,1,17552,100.0,table table-striped past_event_rating
+719,0,134,134,empty_scoreboard,0,1014,25.0,
+72,80,4,76,ok,1,3072,20.0,table table-striped past_event_rating
+720,9,3,6,ok,1,2554,0.0,table table-striped past_event_rating
+721,320,0,,ok,1,9627,23.06,table table-striped past_event_rating
+722,0,0,,empty_scoreboard,0,651,25.0,
+723,176,47,129,ok,1,5761,18.56,table table-striped past_event_rating
+724,1375,146,1229,ok,1,38221,24.17,table table-striped past_event_rating
+726,483,75,408,ok,1,13852,0.0,table table-striped past_event_rating
+727,570,206,364,ok,1,17717,24.49,table table-striped past_event_rating
+728,584,100,484,ok,1,17009,21.83,table table-striped past_event_rating
+73,185,41,144,ok,1,5623,60.0,table table-striped past_event_rating
+730,20,0,,ok,1,1349,25.0,table table-striped past_event_rating
+731,0,0,,empty_scoreboard,0,609,0.0,
+732,582,114,468,ok,1,15967,61.07,table table-striped past_event_rating
+734,28,23,5,ok,1,1590,25.0,table table-striped past_event_rating
+736,914,216,698,ok,1,23052,79.56,table table-striped past_event_rating
+737,12,11,1,ok,1,1513,100.0,table table-striped past_event_rating
+738,10,26,16,row_count_undercount,1,1231,0.0,table table-striped past_event_rating
+739,176,33,143,ok,1,5561,23.89,table table-striped past_event_rating
+74,112,42,70,ok,1,3684,40.0,table table-striped past_event_rating
+741,174,85,89,ok,1,6882,25.31,table table-striped past_event_rating
+742,0,42,42,empty_scoreboard,0,2243,25.0,
+743,953,168,785,ok,1,25085,95.72,table table-striped past_event_rating
+744,74,41,33,ok,1,3022,71.0,table table-striped past_event_rating
+745,266,24,242,ok,1,7940,22.92,table table-striped past_event_rating
+747,398,132,266,ok,1,13820,34.0,table table-striped past_event_rating
+748,142,39,103,ok,1,4618,24.63,table table-striped past_event_rating
+75,60,34,26,ok,1,2271,20.0,table table-striped past_event_rating
+751,432,108,324,ok,1,12765,24.88,table table-striped past_event_rating
+752,14,19,5,row_count_undercount,1,2589,25.0,table table-striped past_event_rating
+753,686,94,592,ok,1,19032,25.0,table table-striped past_event_rating
+754,73,12,61,ok,1,3600,21.88,table table-striped past_event_rating
+755,498,166,332,ok,1,15406,20.69,table table-striped past_event_rating
+756,454,124,330,ok,1,13123,25.0,table table-striped past_event_rating
+757,581,102,479,ok,1,17073,24.85,table table-striped past_event_rating
+758,410,69,341,ok,1,12276,23.75,table table-striped past_event_rating
+759,0,11,11,empty_scoreboard,0,1174,0.0,
+76,13,2,11,ok,1,965,0.0,table table-striped past_event_rating
+760,545,136,409,ok,1,15524,24.96,table table-striped past_event_rating
+761,20,15,5,ok,1,1954,0.0,table table-striped past_event_rating
+762,1261,286,975,ok,1,35624,57.39,table table-striped past_event_rating
+763,765,141,624,ok,1,21034,29.65,table table-striped past_event_rating
+764,202,38,164,ok,1,6661,0.0,table table-striped past_event_rating
+765,179,48,131,ok,1,6833,24.41,table table-striped past_event_rating
+766,17,7,10,ok,1,1649,23.01,table table-striped past_event_rating
+768,852,172,680,ok,1,22097,24.41,table table-striped past_event_rating
+769,435,86,349,ok,1,12876,22.72,table table-striped past_event_rating
+771,679,89,590,ok,1,19076,18.99,table table-striped past_event_rating
+772,241,24,217,ok,1,7406,24.02,table table-striped past_event_rating
+773,440,69,371,ok,1,12100,19.71,table table-striped past_event_rating
+774,1373,147,1226,ok,1,38809,22.6,table table-striped past_event_rating
+775,0,0,,empty_scoreboard,0,1371,0.0,
+776,53,77,24,row_count_undercount,1,2611,32.5,table table-striped past_event_rating
+778,333,62,271,ok,1,9806,25.0,table table-striped past_event_rating
+779,772,83,689,ok,1,21311,22.35,table table-striped past_event_rating
+780,322,86,236,ok,1,9415,18.97,table table-striped past_event_rating
+781,1730,399,1331,ok,1,47271,24.28,table table-striped past_event_rating
+783,228,42,186,ok,1,7031,15.72,table table-striped past_event_rating
+784,194,60,134,ok,1,6573,22.62,table table-striped past_event_rating
+785,0,0,,empty_scoreboard,0,653,0.0,
+786,0,19,19,empty_scoreboard,0,828,13.0,
+787,347,24,323,ok,1,11285,20.12,table table-striped past_event_rating
+789,523,89,434,ok,1,14519,23.87,table table-striped past_event_rating
+790,250,63,187,ok,1,7747,24.07,table table-striped past_event_rating
+791,4,4,0,ok,1,1152,0.0,table table-striped past_event_rating
+792,319,84,235,ok,1,9424,25.0,table table-striped past_event_rating
+793,9,10,1,row_count_undercount,1,1425,0.0,table table-striped past_event_rating
+794,113,42,71,ok,1,3882,24.8,table table-striped past_event_rating
+795,9,4,5,ok,1,1205,44.25,table table-striped past_event_rating
+796,19,6,13,ok,1,1520,22.0,table table-striped past_event_rating
+797,26,18,8,ok,1,2334,25.0,table table-striped past_event_rating
+798,0,0,,empty_scoreboard,0,1564,0.0,
+799,798,138,660,ok,1,21727,46.8,table table-striped past_event_rating
+8,243,0,,ok,1,6947,90.0,table table-striped past_event_rating
+800,15,20,5,row_count_undercount,1,1310,15.0,table table-striped past_event_rating
+801,14,12,2,ok,1,1315,15.0,table table-striped past_event_rating
+803,325,145,180,ok,1,11025,23.38,table table-striped past_event_rating
+804,12,12,0,ok,1,2021,25.0,table table-striped past_event_rating
+805,356,81,275,ok,1,11833,83.64,table table-striped past_event_rating
+806,630,144,486,ok,1,18217,24.05,table table-striped past_event_rating
+807,255,35,220,ok,1,8748,20.71,table table-striped past_event_rating
+809,274,541,267,row_count_undercount,1,10165,96.34,table table-striped past_event_rating
+810,0,0,,empty_scoreboard,0,1050,13.0,
+811,728,150,578,ok,1,19971,25.0,table table-striped past_event_rating
+812,404,106,298,ok,1,11886,36.0,table table-striped past_event_rating
+813,16,9,7,ok,1,1649,0.0,table table-striped past_event_rating
+814,465,111,354,ok,1,12991,40.82,table table-striped past_event_rating
+816,41,73,32,row_count_undercount,1,2231,23.5,table table-striped past_event_rating
+819,0,45,45,empty_scoreboard,0,1269,0.0,
+820,0,60,60,empty_scoreboard,0,1994,1.0,
+821,1132,65,1067,ok,1,32134,23.54,table table-striped past_event_rating
+822,219,115,104,ok,1,8206,43.0,table table-striped past_event_rating
+823,22,4,18,ok,1,1758,25.0,table table-striped past_event_rating
+824,0,90,90,empty_scoreboard,0,914,0.0,
+825,319,181,138,ok,1,9526,63.0,table table-striped past_event_rating
+826,0,7,7,empty_scoreboard,0,706,0.0,
+827,501,216,285,ok,1,21847,21.28,table table-striped past_event_rating
+828,31,27,4,ok,1,2217,24.75,table table-striped past_event_rating
+83,414,71,343,ok,1,12178,90.0,table table-striped past_event_rating
+830,276,124,152,ok,1,8504,68.75,table table-striped past_event_rating
+833,51,101,50,row_count_undercount,1,2470,1.0,table table-striped past_event_rating
+834,924,125,799,ok,1,25520,22.63,table table-striped past_event_rating
+835,205,108,97,ok,1,6629,0.0,table table-striped past_event_rating
+836,771,95,676,ok,1,21210,24.09,table table-striped past_event_rating
+837,0,54,54,empty_scoreboard,0,1966,0.0,
+839,0,64,64,empty_scoreboard,0,2938,0.0,
+84,51,11,40,ok,1,1869,20.0,table table-striped past_event_rating
+840,303,71,232,ok,1,9485,22.14,table table-striped past_event_rating
+841,575,109,466,ok,1,15692,24.67,table table-striped past_event_rating
+843,721,91,630,ok,1,19457,24.28,table table-striped past_event_rating
+844,10,17,7,row_count_undercount,1,1161,37.0,table table-striped past_event_rating
+845,3,0,,ok,1,792,0.0,table table-striped past_event_rating
+846,70,71,1,ok,1,3918,9.0,table table-striped past_event_rating
+848,660,81,579,ok,1,18316,92.94,table table-striped past_event_rating
+849,432,110,322,ok,1,12271,37.0,table table-striped past_event_rating
+85,104,37,67,ok,1,3282,10.0,table table-striped past_event_rating
+850,128,81,47,ok,1,4460,56.0,table table-striped past_event_rating
+851,297,77,220,ok,1,9077,36.08,table table-striped past_event_rating
+852,242,53,189,ok,1,8012,0.0,table table-striped past_event_rating
+854,358,96,262,ok,1,10344,25.0,table table-striped past_event_rating
+855,0,14,14,empty_scoreboard,0,1266,0.0,
+856,16,8,8,ok,1,1250,72.5,table table-striped past_event_rating
+857,12,9,3,ok,1,1612,25.0,table table-striped past_event_rating
+858,0,5,5,empty_scoreboard,0,659,0.0,
+859,3,0,,ok,1,826,0.0,table table-striped past_event_rating
+86,13,1,12,ok,1,999,10.0,table table-striped past_event_rating
+860,0,14,14,empty_scoreboard,0,721,0.0,
+861,229,0,,ok,1,7349,0.0,table table-striped past_event_rating
+862,0,0,,empty_scoreboard,0,1239,0.0,
+864,319,56,263,ok,1,10651,16.33,table table-striped past_event_rating
+865,0,8,8,empty_scoreboard,0,1839,0.0,
+866,192,17,175,ok,1,6363,0.0,table table-striped past_event_rating
+867,450,58,392,ok,1,13278,18.48,table table-striped past_event_rating
+868,4,9,5,row_count_undercount,1,1727,0.0,table table-striped past_event_rating
+869,1334,101,1233,ok,1,38179,22.0,table table-striped past_event_rating
+87,0,8,8,empty_scoreboard,0,821,20.0,
+870,1299,181,1118,ok,1,36206,43.0,table table-striped past_event_rating
+872,157,96,61,ok,1,4932,25.0,table table-striped past_event_rating
+873,282,81,201,ok,1,8283,29.06,table table-striped past_event_rating
+874,392,102,290,ok,1,11720,25.0,table table-striped past_event_rating
+875,0,12,12,empty_scoreboard,0,1078,0.0,
+876,0,9,9,empty_scoreboard,0,799,0.0,
+877,12,2,10,ok,1,1118,0.0,table table-striped past_event_rating
+878,0,5,5,empty_scoreboard,0,1078,0.0,
+879,0,0,,empty_scoreboard,0,1132,0.0,
+88,184,23,161,ok,1,5243,20.0,table table-striped past_event_rating
+880,0,0,,empty_scoreboard,0,1428,0.0,
+882,3,4,1,row_count_undercount,1,2307,0.0,table table-striped past_event_rating
+883,14,8,6,ok,1,3068,25.0,table table-striped past_event_rating
+884,0,3,3,empty_scoreboard,0,621,0.0,
+885,214,109,105,ok,1,7257,25.0,table table-striped past_event_rating
+886,450,44,406,ok,1,13128,24.23,table table-striped past_event_rating
+887,14,19,5,row_count_undercount,1,1514,98.7,table table-striped past_event_rating
+888,236,43,193,ok,1,8925,25.0,table table-striped past_event_rating
+889,16,2,14,ok,1,1439,0.0,table table-striped past_event_rating
+89,259,32,227,ok,1,7600,70.0,table table-striped past_event_rating
+890,275,17,258,ok,1,8634,23.0,table table-striped past_event_rating
+891,947,116,831,ok,1,26689,23.06,table table-striped past_event_rating
+892,129,6,123,ok,1,4124,0.0,table table-striped past_event_rating
+893,689,175,514,ok,1,20165,24.92,table table-striped past_event_rating
+895,130,44,86,ok,1,4430,25.0,table table-striped past_event_rating
+896,21,0,,ok,1,1720,25.0,table table-striped past_event_rating
+897,6,0,,ok,1,1092,0.0,table table-striped past_event_rating
+898,898,122,776,ok,1,25328,20.87,table table-striped past_event_rating
+899,88,116,28,row_count_undercount,1,4511,19.75,table table-striped past_event_rating
+9,182,167,15,ok,1,6227,90.0,table table-striped past_event_rating
+90,8,4,4,ok,1,913,60.0,table table-striped past_event_rating
+900,0,0,,empty_scoreboard,0,1031,0.0,
+901,584,79,505,ok,1,17227,24.29,table table-striped past_event_rating
+902,0,83,83,empty_scoreboard,0,1034,0.0,
+903,0,25,25,empty_scoreboard,0,1137,0.0,
+904,0,10,10,empty_scoreboard,0,919,0.0,
+905,18,15,3,ok,1,1413,0.0,table table-striped past_event_rating
+906,187,84,103,ok,1,6164,75.21,table table-striped past_event_rating
+907,13,5,8,ok,1,2524,30.0,table table-striped past_event_rating
+908,21,11,10,ok,1,1724,0.0,table table-striped past_event_rating
+909,0,5,5,empty_scoreboard,0,2402,0.0,
+91,28,8,20,ok,1,2115,5.0,table table-striped past_event_rating
+910,1321,160,1161,ok,1,37563,20.59,table table-striped past_event_rating
+911,560,132,428,ok,1,16336,0.0,table table-striped past_event_rating
+913,899,200,699,ok,1,24106,31.04,table table-striped past_event_rating
+915,35,16,19,ok,1,1842,0.0,table table-striped past_event_rating
+916,10,1,9,ok,1,1147,17.5,table table-striped past_event_rating
+918,19,0,,ok,1,1529,25.0,table table-striped past_event_rating
+919,0,14,14,empty_scoreboard,0,1452,0.0,
+92,204,50,154,ok,1,6945,20.0,table table-striped past_event_rating
+920,0,3,3,empty_scoreboard,0,1500,0.0,
+922,32,5,27,ok,1,1795,24.25,table table-striped past_event_rating
+925,16,10,6,ok,1,2040,20.0,table table-striped past_event_rating
+926,1741,278,1463,ok,1,48395,24.17,table table-striped past_event_rating
+927,44,0,,ok,1,2498,47.5,table table-striped past_event_rating
+928,1205,221,984,ok,1,35369,22.02,table table-striped past_event_rating
+929,1000,219,781,ok,1,28918,24.85,table table-striped past_event_rating
+93,0,3,3,empty_scoreboard,0,587,0.0,
+930,397,63,334,ok,1,10554,0.0,table table-striped past_event_rating
+931,0,0,,empty_scoreboard,0,691,0.0,
+932,1076,101,975,ok,1,30885,24.61,table table-striped past_event_rating
+933,500,259,241,ok,1,14720,32.8,table table-striped past_event_rating
+934,15,38,23,row_count_undercount,1,1398,37.0,table table-striped past_event_rating
+935,523,156,367,ok,1,15045,37.0,table table-striped past_event_rating
+936,1095,302,793,ok,1,29288,93.15,table table-striped past_event_rating
+938,279,154,125,ok,1,10765,17.83,table table-striped past_event_rating
+939,1463,177,1286,ok,1,41668,23.54,table table-striped past_event_rating
+94,0,0,,empty_scoreboard,0,774,0.0,
+942,148,108,40,ok,1,11946,24.5,table table-striped past_event_rating
+943,346,165,181,ok,1,10425,24.85,table table-striped past_event_rating
+944,308,130,178,ok,1,9673,24.49,table table-striped past_event_rating
+945,624,85,539,ok,1,17120,24.61,table table-striped past_event_rating
+946,0,0,,empty_scoreboard,0,1508,25.0,
+947,0,0,,empty_scoreboard,0,660,0.0,
+948,241,59,182,ok,1,9305,0.0,table table-striped past_event_rating
+949,111,41,70,ok,1,3856,24.83,table table-striped past_event_rating
+95,115,54,61,ok,1,4137,50.0,table table-striped past_event_rating
+951,484,112,372,ok,1,14238,22.34,table table-striped past_event_rating
+952,0,0,,empty_scoreboard,0,1040,0.0,
+954,77,42,35,ok,1,3496,21.88,table table-striped past_event_rating
+956,746,272,474,ok,1,22236,24.02,table table-striped past_event_rating
+958,0,19,19,empty_scoreboard,0,677,0.0,
+959,646,248,398,ok,1,21653,52.15,table table-striped past_event_rating
+96,1380,75,1305,ok,1,39716,40.0,table table-striped past_event_rating
+960,354,120,234,ok,1,10995,24.96,table table-striped past_event_rating
+961,401,164,237,ok,1,14549,63.56,table table-striped past_event_rating
+962,1207,240,967,ok,1,34113,36.66,table table-striped past_event_rating
+963,549,149,400,ok,1,15777,24.05,table table-striped past_event_rating
+964,807,184,623,ok,1,21793,64.97,table table-striped past_event_rating
+967,10,0,,ok,1,1685,50.0,table table-striped past_event_rating
+968,101,68,33,ok,1,4060,22.64,table table-striped past_event_rating
+969,0,45,45,empty_scoreboard,0,1222,100.0,
+97,410,134,276,ok,1,12654,70.0,table table-striped past_event_rating
+970,529,141,388,ok,1,16264,23.89,table table-striped past_event_rating
+971,1157,89,1068,ok,1,33616,5.0,table table-striped past_event_rating
+974,660,196,464,ok,1,19031,22.46,table table-striped past_event_rating
+975,418,123,295,ok,1,12944,19.44,table table-striped past_event_rating
+977,175,59,116,ok,1,5674,25.0,table table-striped past_event_rating
+979,123,39,84,ok,1,4180,0.0,table table-striped past_event_rating
+98,10,0,,ok,1,985,20.0,table table-striped past_event_rating
+980,81,66,15,ok,1,3308,24.42,table table-striped past_event_rating
+982,1594,205,1389,ok,1,45854,32.32,table table-striped past_event_rating
+984,3,20,17,row_count_undercount,1,2063,0.0,table table-striped past_event_rating
+989,0,133,133,empty_scoreboard,0,1903,0.0,
+99,74,39,35,ok,1,3313,20.0,table table-striped past_event_rating
+990,0,18,18,empty_scoreboard,0,1661,0.0,
+991,280,228,52,ok,1,20791,22.62,table table-striped past_event_rating
+992,742,204,538,ok,1,20001,23.34,table table-striped past_event_rating
+993,1273,90,1183,ok,1,36316,25.0,table table-striped past_event_rating
+994,1396,339,1057,ok,1,40432,67.72,table table-striped past_event_rating
+995,1490,239,1251,ok,1,43352,22.63,table table-striped past_event_rating
+996,10,0,,ok,1,3347,0.0,table table-striped past_event_rating
+997,1418,270,1148,ok,1,39934,22.12,table table-striped past_event_rating
+998,10,0,,ok,1,990,0.0,table table-striped past_event_rating
+999,53,95,42,row_count_undercount,1,2729,25.0,table table-striped past_event_rating

@@ -1,0 +1,241 @@
+iso2,iso3,canonical_name,worldbank_code,is_sovereign_like,source_aliases,include_a1
+AD,AND,Andorra,AND,1,"[""gci2017:Andorra"", ""gci2024:Andorra"", ""wb:AD""]",1
+AE,ARE,United Arab Emirates,ARE,1,"[""ctftime:AE"", ""ctftime_panel:AE"", ""gci2017:United Arab Emirates"", ""gci2020:United Arab Emirates"", ""gci2024:United Arab Emirates"", ""ncsi:United Arab Emirates"", ""wb:AE""]",1
+AF,AFG,Afghanistan,AFG,1,"[""ctftime:AF"", ""ctftime_panel:AF"", ""gci2017:Afghanistan"", ""gci2020:Afghanistan"", ""gci2024:Afghanistan"", ""wb:AF""]",1
+AG,ATG,Antigua and Barbuda,ATG,1,"[""ctftime:AG"", ""ctftime_panel:AG"", ""gci2017:Antigua and Barbuda"", ""gci2020:Antigua and Barbuda"", ""gci2024:Antigua and Barbuda"", ""ncsi:Antigua and Barbuda"", ""wb:AG""]",1
+AI,AIA,Anguilla,AIA,1,"[""wb:AI""]",1
+AL,ALB,Albania,ALB,1,"[""ctftime:AL"", ""ctftime_panel:AL"", ""gci2017:Albania"", ""gci2020:Albania"", ""gci2024:Albania"", ""ncsi:Albania"", ""wb:AL""]",1
+AM,ARM,Armenia,ARM,1,"[""ctftime:AM"", ""ctftime_panel:AM"", ""gci2017:Armenia"", ""gci2024:Armenia"", ""ncsi:Armenia"", ""wb:AM""]",1
+AO,AGO,Angola,AGO,1,"[""ctftime:AO"", ""ctftime_panel:AO"", ""gci2017:Angola"", ""gci2020:Angola"", ""gci2024:Angola"", ""ncsi:Angola"", ""wb:AO""]",1
+AQ,ATA,Antarctica,ATA,0,"[""ctftime:AQ"", ""ctftime_panel:AQ"", ""wb:AQ""]",1
+AR,ARG,Argentina,ARG,1,"[""ctftime:AR"", ""ctftime_panel:AR"", ""gci2017:Argentina"", ""gci2020:Argentina"", ""gci2024:Argentina"", ""ncsi:Argentina"", ""wb:AR""]",1
+AS,ASM,American Samoa,ASM,1,"[""ctftime:AS"", ""ctftime_panel:AS"", ""wb:AS""]",1
+AT,AUT,Austria,AUT,1,"[""ctftime:AT"", ""ctftime_panel:AT"", ""gci2017:Austria"", ""gci2020:Austria"", ""gci2024:Austria"", ""ncsi:Austria"", ""wb:AT""]",1
+AU,AUS,Australia,AUS,1,"[""ctftime:AU"", ""ctftime_panel:AU"", ""gci2017:Australia"", ""gci2020:Australia"", ""gci2024:Australia"", ""ncsi:Australia"", ""wb:AU""]",1
+AW,ABW,Aruba,ABW,1,"[""wb:AW""]",1
+AX,ALA,Åland Islands,ALA,1,"[""ctftime:AX"", ""ctftime_panel:AX"", ""wb:AX""]",1
+AZ,AZE,Azerbaijan,AZE,1,"[""ctftime:AZ"", ""ctftime_panel:AZ"", ""gci2017:Azerbaijan"", ""gci2020:Azerbaijan"", ""gci2024:Azerbaijan"", ""ncsi:Azerbaijan"", ""wb:AZ""]",1
+BA,BIH,Bosnia and Herzegovina,BIH,1,"[""gci2017:Bosnia and Herzegovina"", ""gci2020:Bosnia and Herzegovina"", ""gci2024:Bosnia and Herzegovina"", ""ncsi:Bosnia and Herzegovina"", ""wb:BA""]",1
+BB,BRB,Barbados,BRB,1,"[""gci2017:Barbados"", ""gci2020:Barbados"", ""gci2024:Barbados""]",1
+BD,BGD,Bangladesh,BGD,1,"[""ctftime:BD"", ""ctftime_panel:BD"", ""gci2017:Bangladesh"", ""gci2020:Bangladesh"", ""gci2024:Bangladesh"", ""ncsi:Bangladesh"", ""wb:BD""]",1
+BE,BEL,Belgium,BEL,1,"[""ctftime:BE"", ""ctftime_panel:BE"", ""gci2017:Belgium"", ""gci2020:Belgium"", ""gci2024:Belgium"", ""ncsi:Belgium"", ""wb:BE""]",1
+BF,BFA,Burkina Faso,BFA,1,"[""gci2017:Burkina Faso"", ""gci2024:Burkina Faso"", ""ncsi:Burkina Faso""]",1
+BG,BGR,Bulgaria,BGR,1,"[""ctftime:BG"", ""ctftime_panel:BG"", ""gci2017:Bulgaria"", ""gci2020:Bulgaria"", ""gci2024:Bulgaria"", ""ncsi:Bulgaria"", ""wb:BG""]",1
+BH,BHR,Bahrain,BHR,1,"[""gci2017:Bahrain"", ""gci2020:Bahrain"", ""gci2024:Bahrain"", ""ncsi:Bahrain"", ""wb:BH""]",1
+BI,BDI,Burundi,BDI,1,"[""gci2017:Burundi"", ""gci2020:Burundi"", ""gci2024:Burundi"", ""ncsi:Burundi"", ""wb:BI""]",1
+BJ,BEN,Benin,BEN,1,"[""ctftime:BJ"", ""ctftime_panel:BJ"", ""gci2017:Benin"", ""gci2020:Benin"", ""gci2024:Benin"", ""ncsi:Benin"", ""wb:BJ""]",1
+BL,BLM,Saint Barthélemy,BLM,1,"[""wb:BL""]",1
+BM,BMU,Bermuda,BMU,1,"[""wb:BM""]",1
+BN,BRN,Brunei Darussalam,BRN,1,"[""ctftime:BN"", ""ctftime_panel:BN"", ""gci2017:Brunei Darussalam"", ""gci2020:Brunei Darussalam"", ""gci2024:Brunei Darussalam"", ""wb:BN""]",1
+BO,BOL,Bolivia,BOL,1,"[""ctftime:BO"", ""gci2017:Bolivia"", ""gci2020:Bolivia (Plurinational State of)"", ""gci2024:Bolivia (Plurinational State of)"", ""ncsi:Bolivia"", ""wb:BO""]",1
+BQ,BES,"Bonaire, Sint Eustatius and Saba",BES,1,"[""wb:BQ""]",1
+BR,BRA,Brazil,BRA,1,"[""ctftime:BR"", ""ctftime_panel:BR"", ""gci2017:Brazil"", ""gci2020:Brazil"", ""gci2024:Brazil"", ""ncsi:Brazil"", ""wb:BR""]",1
+BS,BHS,Bahamas,BHS,1,"[""ctftime:BS"", ""ctftime_panel:BS"", ""gci2017:Bahamas"", ""gci2020:Bahamas"", ""gci2024:Bahamas"", ""ncsi:The Bahamas"", ""wb:BS""]",1
+BT,BTN,Bhutan,BTN,1,"[""gci2017:Bhutan"", ""gci2020:Bhutan"", ""gci2024:Bhutan"", ""ncsi:Bhutan"", ""wb:BT""]",1
+BV,BVT,Bouvet Island,BVT,1,"[""wb:BV""]",1
+BW,BWA,Botswana,BWA,1,"[""gci2017:Botswana"", ""gci2020:Botswana"", ""gci2024:Botswana"", ""ncsi:Botswana"", ""wb:BW""]",1
+BY,BLR,Belarus,BLR,1,"[""ctftime:BY"", ""ctftime_panel:BY"", ""gci2017:Belarus"", ""gci2020:Belarus"", ""gci2024:Belarus"", ""wb:BY""]",1
+BZ,BLZ,Belize,BLZ,1,"[""ctftime:BZ"", ""ctftime_panel:BZ"", ""gci2017:Belize"", ""gci2020:Belize"", ""gci2024:Belize"", ""wb:BZ""]",1
+CA,CAN,Canada,CAN,1,"[""ctftime:CA"", ""ctftime_panel:CA"", ""gci2017:Canada"", ""gci2020:Canada"", ""gci2024:Canada"", ""ncsi:Canada"", ""wb:CA""]",1
+CC,CCK,Cocos (Keeling) Islands,CCK,1,"[""wb:CC""]",1
+CD,COD,"Congo, The Democratic Republic of the",COD,1,"[""gci2017:Democratic Republic of the Congo"", ""gci2020:Dem. Rep. of the Congo"", ""gci2024:Dem. Rep. of the Congo"", ""ncsi:Congo (Democratic Republic of the)"", ""wb:CD""]",1
+CF,CAF,Central African Republic,CAF,1,"[""gci2017:Central African Republic"", ""gci2024:Central African Rep."", ""wb:CF""]",1
+CG,COG,Congo,COG,1,"[""ctftime:CG"", ""ctftime_panel:CG"", ""gci2017:Congo"", ""gci2024:Congo (Rep. of the)"", ""ncsi:Congo"", ""wb:CG""]",1
+CH,CHE,Switzerland,CHE,1,"[""ctftime:CH"", ""ctftime_panel:CH"", ""gci2017:Switzerland"", ""gci2024:Switzerland"", ""ncsi:Switzerland"", ""wb:CH""]",1
+CI,CIV,Côte d'Ivoire,CIV,1,"[""gci2017:Côte d'Ivoire"", ""gci2020:Côte d'Ivoire"", ""gci2024:Côte d'Ivoire"", ""wb:CI""]",1
+CK,COK,Cook Islands,COK,1,"[""wb:CK""]",1
+CL,CHL,Chile,CHL,1,"[""ctftime:CL"", ""ctftime_panel:CL"", ""gci2017:Chile"", ""gci2020:Chile"", ""gci2024:Chile"", ""ncsi:Chile"", ""wb:CL""]",1
+CM,CMR,Cameroon,CMR,1,"[""ctftime:CM"", ""gci2017:Cameroon"", ""gci2020:Cameroon"", ""gci2024:Cameroon"", ""wb:CM""]",1
+CN,CHN,China,CHN,1,"[""ctftime:CN"", ""ctftime_panel:CN"", ""gci2017:China"", ""gci2020:China"", ""gci2024:China"", ""ncsi:China"", ""wb:CN""]",1
+CO,COL,Colombia,COL,1,"[""ctftime:CO"", ""ctftime_panel:CO"", ""gci2017:Colombia"", ""gci2020:Colombia"", ""gci2024:Colombia"", ""wb:CO""]",1
+CR,CRI,Costa Rica,CRI,1,"[""ctftime:CR"", ""gci2017:Costa Rica"", ""gci2020:Costa Rica"", ""gci2024:Costa Rica"", ""ncsi:Costa Rica"", ""wb:CR""]",1
+CU,CUB,Cuba,CUB,1,"[""ctftime:CU"", ""ctftime_panel:CU"", ""gci2017:Cuba"", ""gci2020:Cuba"", ""gci2024:Cuba"", ""wb:CU""]",1
+CV,CPV,Cabo Verde,CPV,1,"[""ctftime:CV"", ""ctftime_panel:CV"", ""gci2017:Cape Verde"", ""gci2020:Cabo Verde"", ""gci2024:Cabo Verde"", ""wb:CV""]",1
+CW,CUW,Curaçao,CUW,1,"[""wb:CW""]",1
+CX,CXR,Christmas Island,CXR,1,"[""ctftime:CX"", ""ctftime_panel:CX"", ""wb:CX""]",1
+CY,CYP,Cyprus,CYP,1,"[""ctftime:CY"", ""ctftime_panel:CY"", ""gci2017:Cyprus"", ""gci2020:Cyprus"", ""gci2024:Cyprus"", ""ncsi:Cyprus"", ""wb:CY""]",1
+CZ,CZE,Czechia,CZE,1,"[""ctftime:CZ"", ""ctftime_panel:CZ"", ""gci2017:Czech Republic"", ""gci2020:Czech Republic"", ""gci2024:Czech Republic"", ""ncsi:Czechia"", ""wb:CZ""]",1
+DE,DEU,Germany,DEU,1,"[""ctftime:DE"", ""ctftime_panel:DE"", ""gci2017:Germany"", ""gci2020:Germany"", ""gci2024:Germany"", ""ncsi:Germany"", ""wb:DE""]",1
+DJ,DJI,Djibouti,DJI,1,"[""gci2017:Djibouti"", ""gci2020:Djibouti"", ""gci2024:Djibouti"", ""wb:DJ""]",1
+DK,DNK,Denmark,DNK,1,"[""ctftime:DK"", ""ctftime_panel:DK"", ""gci2017:Denmark"", ""gci2020:Denmark"", ""gci2024:Denmark"", ""ncsi:Denmark"", ""wb:DK""]",1
+DM,DMA,Dominica,DMA,1,"[""gci2017:Dominica"", ""gci2020:Dominica"", ""gci2024:Dominica"", ""wb:DM""]",1
+DO,DOM,Dominican Republic,DOM,1,"[""ctftime:DO"", ""ctftime_panel:DO"", ""gci2017:Dominican Republic"", ""gci2020:Dominican Rep."", ""gci2024:Dominican Rep."", ""ncsi:Dominican Republic"", ""wb:DO""]",1
+DZ,DZA,Algeria,DZA,1,"[""ctftime:DZ"", ""ctftime_panel:DZ"", ""gci2017:Algeria"", ""gci2020:Algeria"", ""gci2024:Algeria"", ""ncsi:Algeria"", ""wb:DZ""]",1
+EC,ECU,Ecuador,ECU,1,"[""ctftime:EC"", ""ctftime_panel:EC"", ""gci2017:Ecuador"", ""gci2020:Ecuador"", ""gci2024:Ecuador"", ""ncsi:Ecuador"", ""wb:EC""]",1
+EE,EST,Estonia,EST,1,"[""ctftime:EE"", ""ctftime_panel:EE"", ""gci2017:Estonia"", ""gci2020:Estonia"", ""gci2024:Estonia"", ""ncsi:Estonia"", ""wb:EE""]",1
+EG,EGY,Egypt,EGY,1,"[""ctftime:EG"", ""ctftime_panel:EG"", ""gci2017:Egypt"", ""gci2020:Egypt"", ""gci2024:Egypt"", ""ncsi:Egypt"", ""wb:EG""]",1
+EH,ESH,Western Sahara,ESH,1,"[""wb:EH""]",1
+ER,ERI,Eritrea,ERI,1,"[""gci2017:Eritrea"", ""gci2024:Eritrea"", ""wb:ER""]",1
+ES,ESP,Spain,ESP,1,"[""ctftime:ES"", ""ctftime_panel:ES"", ""gci2017:Spain"", ""gci2020:Spain"", ""gci2024:Spain"", ""ncsi:Spain"", ""wb:ES""]",1
+ET,ETH,Ethiopia,ETH,1,"[""gci2017:Ethiopia"", ""gci2020:Ethiopia"", ""gci2024:Ethiopia"", ""ncsi:Ethiopia"", ""wb:ET""]",1
+FI,FIN,Finland,FIN,1,"[""ctftime:FI"", ""ctftime_panel:FI"", ""gci2017:Finland"", ""gci2020:Finland"", ""gci2024:Finland"", ""ncsi:Finland"", ""wb:FI""]",1
+FJ,FJI,Fiji,FJI,1,"[""gci2017:Fiji"", ""gci2020:Fiji"", ""gci2024:Fiji"", ""ncsi:Fiji"", ""wb:FJ""]",1
+FK,FLK,Falkland Islands (Malvinas),FLK,1,"[""wb:FK""]",1
+FM,FSM,"Micronesia, Federated States of",FSM,1,"[""gci2017:Micronesia"", ""gci2024:Micronesia"", ""ncsi:Micronesia (Federated States of)"", ""wb:FM""]",1
+FO,FRO,Faroe Islands,FRO,1,"[""wb:FO""]",1
+FR,FRA,France,FRA,1,"[""ctftime:FR"", ""ctftime_panel:FR"", ""gci2017:France"", ""gci2020:France"", ""gci2024:France"", ""ncsi:France"", ""wb:FR""]",1
+GA,GAB,Gabon,GAB,1,"[""gci2017:Gabon"", ""gci2020:Gabon"", ""gci2024:Gabon"", ""wb:GA""]",1
+GB,GBR,United Kingdom,GBR,1,"[""ctftime:GB"", ""ctftime_panel:GB"", ""gci2017:United Kingdom"", ""gci2020:United Kingdom"", ""gci2024:United Kingdom"", ""ncsi:United Kingdom"", ""wb:GB""]",1
+GD,GRD,Grenada,GRD,1,"[""ctftime:GD"", ""ctftime_panel:GD"", ""gci2017:Grenada"", ""gci2020:Grenada"", ""gci2024:Grenada"", ""wb:GD""]",1
+GE,GEO,Georgia,GEO,1,"[""ctftime:GE"", ""ctftime_panel:GE"", ""gci2017:Georgia"", ""gci2020:Georgia"", ""gci2024:Georgia"", ""ncsi:Georgia"", ""wb:GE""]",1
+GF,GUF,French Guiana,GUF,1,"[""wb:GF""]",1
+GG,GGY,Guernsey,GGY,1,"[""ctftime:GG"", ""ctftime_panel:GG"", ""wb:GG""]",1
+GH,GHA,Ghana,GHA,1,"[""gci2017:Ghana"", ""gci2020:Ghana"", ""gci2024:Ghana"", ""ncsi:Ghana"", ""wb:GH""]",1
+GI,GIB,Gibraltar,GIB,1,"[""wb:GI""]",1
+GL,GRL,Greenland,GRL,1,"[""wb:GL""]",1
+GM,GMB,Gambia,GMB,1,"[""gci2017:Gambia"", ""gci2020:Gambia"", ""gci2024:Gambia""]",1
+GN,GIN,Guinea,GIN,1,"[""gci2017:Guinea"", ""gci2024:Guinea"", ""ncsi:Guinea"", ""wb:GN""]",1
+GQ,GNQ,Equatorial Guinea,GNQ,1,"[""ctftime:GQ"", ""ctftime_panel:GQ"", ""gci2017:Equatorial Guinea"", ""gci2024:Equatorial Guinea"", ""wb:GQ""]",1
+GR,GRC,Greece,GRC,1,"[""ctftime:GR"", ""ctftime_panel:GR"", ""gci2017:Greece"", ""gci2020:Greece"", ""gci2024:Greece"", ""ncsi:Greece"", ""wb:GR""]",1
+GS,SGS,South Georgia and the South Sandwich Islands,SGS,1,"[""ctftime:GS"", ""ctftime_panel:GS"", ""wb:GS""]",1
+GT,GTM,Guatemala,GTM,1,"[""ctftime:GT"", ""ctftime_panel:GT"", ""gci2017:Guatemala"", ""gci2020:Guatemala"", ""gci2024:Guatemala"", ""ncsi:Guatemala"", ""wb:GT""]",1
+GU,GUM,Guam,GUM,1,"[""ctftime:GU"", ""ctftime_panel:GU"", ""wb:GU""]",1
+GW,GNB,Guinea-Bissau,GNB,1,"[""gci2017:Guinea-Bissau"", ""gci2020:Guinea-Bissau"", ""gci2024:Guinea-Bissau""]",1
+GY,GUY,Guyana,GUY,1,"[""gci2017:Guyana"", ""gci2020:Guyana"", ""gci2024:Guyana""]",1
+HK,HKG,Hong Kong,HKG,0,"[""ctftime:HK"", ""ctftime_panel:HK"", ""wb:HK""]",1
+HM,HMD,Heard Island and McDonald Islands,HMD,1,"[""ctftime:HM"", ""ctftime_panel:HM"", ""wb:HM""]",1
+HN,HND,Honduras,HND,1,"[""gci2017:Honduras"", ""gci2024:Honduras"", ""ncsi:Honduras"", ""wb:HN""]",1
+HR,HRV,Croatia,HRV,1,"[""ctftime:HR"", ""ctftime_panel:HR"", ""gci2017:Croatia"", ""gci2020:Croatia"", ""gci2024:Croatia"", ""ncsi:Croatia"", ""wb:HR""]",1
+HT,HTI,Haiti,HTI,1,"[""gci2017:Haiti"", ""gci2020:Haiti"", ""gci2024:Haiti"", ""ncsi:Haiti""]",1
+HU,HUN,Hungary,HUN,1,"[""ctftime:HU"", ""ctftime_panel:HU"", ""gci2017:Hungary"", ""gci2020:Hungary"", ""gci2024:Hungary"", ""ncsi:Hungary"", ""wb:HU""]",1
+ID,IDN,Indonesia,IDN,1,"[""ctftime:ID"", ""ctftime_panel:ID"", ""gci2017:Indonesia"", ""gci2020:Indonesia"", ""gci2024:Indonesia"", ""ncsi:Indonesia"", ""wb:ID""]",1
+IE,IRL,Ireland,IRL,1,"[""ctftime:IE"", ""ctftime_panel:IE"", ""gci2017:Ireland"", ""gci2020:Ireland"", ""gci2024:Ireland"", ""ncsi:Ireland"", ""wb:IE""]",1
+IL,ISR,Israel,ISR,1,"[""ctftime:IL"", ""ctftime_panel:IL"", ""gci2017:Israel"", ""gci2024:Israel"", ""wb:IL""]",1
+IM,IMN,Isle of Man,IMN,1,"[""ctftime:IM"", ""ctftime_panel:IM"", ""wb:IM""]",1
+IN,IND,India,IND,1,"[""ctftime:IN"", ""ctftime_panel:IN"", ""gci2017:India"", ""gci2020:India"", ""gci2024:India"", ""ncsi:India"", ""wb:IN""]",1
+IQ,IRQ,Iraq,IRQ,1,"[""ctftime:IQ"", ""ctftime_panel:IQ"", ""gci2017:Iraq"", ""gci2024:Iraq"", ""ncsi:Iraq"", ""wb:IQ""]",1
+IR,IRN,Iran,IRN,1,"[""ctftime:IR"", ""ctftime_panel:IR"", ""gci2017:Iran"", ""gci2020:Iran (Islamic Republic of)"", ""gci2024:Iran (Islamic Republic of)"", ""wb:IR""]",1
+IS,ISL,Iceland,ISL,1,"[""ctftime:IS"", ""ctftime_panel:IS"", ""gci2017:Iceland"", ""gci2020:Iceland"", ""gci2024:Iceland"", ""ncsi:Iceland"", ""wb:IS""]",1
+IT,ITA,Italy,ITA,1,"[""ctftime:IT"", ""ctftime_panel:IT"", ""gci2017:Italy"", ""gci2020:Italy"", ""gci2024:Italy"", ""ncsi:Italy"", ""wb:IT""]",1
+JM,JAM,Jamaica,JAM,1,"[""gci2017:Jamaica"", ""gci2024:Jamaica"", ""ncsi:Jamaica"", ""wb:JM""]",1
+JO,JOR,Jordan,JOR,1,"[""ctftime:JO"", ""ctftime_panel:JO"", ""gci2017:Jordan"", ""gci2020:Jordan"", ""gci2024:Jordan"", ""ncsi:Jordan"", ""wb:JO""]",1
+JP,JPN,Japan,JPN,1,"[""ctftime:JP"", ""ctftime_panel:JP"", ""gci2017:Japan"", ""gci2020:Japan"", ""gci2024:Japan"", ""ncsi:Japan"", ""wb:JP""]",1
+KE,KEN,Kenya,KEN,1,"[""ctftime:KE"", ""ctftime_panel:KE"", ""gci2017:Kenya"", ""gci2020:Kenya"", ""gci2024:Kenya"", ""ncsi:Kenya"", ""wb:KE""]",1
+KG,KGZ,Kyrgyzstan,KGZ,1,"[""ctftime:KG"", ""ctftime_panel:KG"", ""gci2017:Kyrgyzstan"", ""gci2020:Kyrgyzstan"", ""gci2024:Kyrgyzstan"", ""ncsi:Kyrgyzstan"", ""wb:KG""]",1
+KH,KHM,Cambodia,KHM,1,"[""ctftime:KH"", ""ctftime_panel:KH"", ""gci2017:Cambodia"", ""gci2024:Cambodia"", ""ncsi:Cambodia"", ""wb:KH""]",1
+KI,KIR,Kiribati,KIR,1,"[""gci2017:Kiribati"", ""gci2020:Kiribati"", ""gci2024:Kiribati"", ""ncsi:Kiribati"", ""wb:KI""]",1
+KM,COM,Comoros,COM,1,"[""gci2017:Comoros"", ""gci2024:Comoros"", ""ncsi:Comoros"", ""wb:KM""]",1
+KN,KNA,Saint Kitts and Nevis,KNA,1,"[""gci2017:Saint Kitts and Nevis"", ""gci2020:Saint Kitts and Nevis"", ""gci2024:Saint Kitts and Nevis"", ""ncsi:Saint Kitts and Nevis""]",1
+KP,PRK,North Korea,PRK,1,"[""ctftime:KP"", ""ctftime_panel:KP"", ""gci2017:Democratic People's Republic of Korea"", ""gci2024:Dem. People’s Rep. of"", ""gci2024:Korea"", ""wb:KP""]",1
+KR,KOR,South Korea,KOR,1,"[""ctftime:KR"", ""ctftime_panel:KR"", ""gci2017:Republic of Korea"", ""gci2020:Korea (Rep. of)"", ""gci2024:Korea (Republic of)"", ""ncsi:Korea (Republic of)"", ""wb:KR""]",1
+KW,KWT,Kuwait,KWT,1,"[""ctftime:KW"", ""gci2017:Kuwait"", ""gci2020:Kuwait"", ""gci2024:Kuwait"", ""ncsi:Kuwait"", ""wb:KW""]",1
+KZ,KAZ,Kazakhstan,KAZ,1,"[""ctftime:KZ"", ""ctftime_panel:KZ"", ""gci2017:Kazakhstan"", ""gci2020:Kazakhstan"", ""gci2024:Kazakhstan"", ""ncsi:Kazakhstan"", ""wb:KZ""]",1
+LA,LAO,Laos,LAO,1,"[""ctftime:LA"", ""ctftime_panel:LA"", ""gci2017:Lao"", ""gci2020:Lao P.D.R."", ""gci2024:Lao P.D.R."", ""ncsi:Lao PDR"", ""wb:LA""]",1
+LB,LBN,Lebanon,LBN,1,"[""ctftime:LB"", ""ctftime_panel:LB"", ""gci2017:Lebanon"", ""gci2024:Lebanon"", ""ncsi:Lebanon"", ""wb:LB""]",1
+LC,LCA,Saint Lucia,LCA,1,"[""ctftime:LC"", ""ctftime_panel:LC"", ""gci2017:Saint Lucia"", ""gci2024:Saint Lucia"", ""ncsi:Saint Lucia"", ""wb:LC""]",1
+LI,LIE,Liechtenstein,LIE,1,"[""gci2017:Liechtenstein"", ""gci2024:Liechtenstein"", ""wb:LI""]",1
+LK,LKA,Sri Lanka,LKA,1,"[""ctftime:LK"", ""ctftime_panel:LK"", ""gci2017:Sri Lanka"", ""gci2020:Sri Lanka"", ""gci2024:Sri Lanka"", ""wb:LK""]",1
+LR,LBR,Liberia,LBR,1,"[""gci2017:Liberia"", ""gci2020:Liberia"", ""gci2024:Liberia"", ""ncsi:Liberia""]",1
+LS,LSO,Lesotho,LSO,1,"[""gci2017:Lesotho"", ""gci2020:Lesotho"", ""gci2024:Lesotho"", ""wb:LS""]",1
+LT,LTU,Lithuania,LTU,1,"[""ctftime:LT"", ""ctftime_panel:LT"", ""gci2017:Lithuania"", ""gci2020:Lithuania"", ""gci2024:Lithuania"", ""ncsi:Lithuania"", ""wb:LT""]",1
+LU,LUX,Luxembourg,LUX,1,"[""ctftime:LU"", ""ctftime_panel:LU"", ""gci2017:Luxembourg"", ""gci2020:Luxembourg"", ""gci2024:Luxembourg"", ""ncsi:Luxembourg"", ""wb:LU""]",1
+LV,LVA,Latvia,LVA,1,"[""ctftime:LV"", ""ctftime_panel:LV"", ""gci2017:Latvia"", ""gci2020:Latvia"", ""gci2024:Latvia"", ""ncsi:Latvia"", ""wb:LV""]",1
+LY,LBY,Libya,LBY,1,"[""gci2017:Libya"", ""gci2020:Libya"", ""gci2024:Libya"", ""ncsi:Libya"", ""wb:LY""]",1
+MA,MAR,Morocco,MAR,1,"[""ctftime:MA"", ""ctftime_panel:MA"", ""gci2017:Morocco"", ""gci2020:Morocco"", ""gci2024:Morocco"", ""ncsi:Morocco"", ""wb:MA""]",1
+MC,MCO,Monaco,MCO,1,"[""gci2017:Monaco"", ""gci2020:Monaco"", ""gci2024:Monaco"", ""wb:MC""]",1
+MD,MDA,Moldova,MDA,1,"[""ctftime:MD"", ""ctftime_panel:MD"", ""gci2017:Moldova"", ""gci2020:Moldova"", ""gci2024:Moldova"", ""ncsi:Moldova (Republic of)"", ""wb:MD""]",1
+ME,MNE,Montenegro,MNE,1,"[""gci2017:Montenegro"", ""gci2020:Montenegro"", ""gci2024:Montenegro"", ""ncsi:Montenegro""]",1
+MF,MAF,Saint Martin (French part),MAF,1,"[""ctftime:MF"", ""ctftime_panel:MF"", ""wb:MF""]",1
+MG,MDG,Madagascar,MDG,1,"[""ctftime:MG"", ""ctftime_panel:MG"", ""gci2017:Madagascar"", ""gci2020:Madagascar"", ""gci2024:Madagascar"", ""ncsi:Madagascar"", ""wb:MG""]",1
+MH,MHL,Marshall Islands,MHL,1,"[""gci2017:Marshall Islands"", ""gci2024:Marshall Islands""]",1
+MK,MKD,North Macedonia,MKD,1,"[""gci2017:The Former Yugoslav Republic of Macedonia"", ""gci2020:North Macedonia"", ""gci2020:The Republic of North Macedonia"", ""gci2024:North Macedonia"", ""ncsi:North Macedonia"", ""wb:MK""]",1
+ML,MLI,Mali,MLI,1,"[""gci2017:Mali"", ""gci2024:Mali"", ""ncsi:Mali"", ""wb:ML""]",1
+MM,MMR,Myanmar,MMR,1,"[""ctftime:MM"", ""ctftime_panel:MM"", ""gci2017:Myanmar"", ""gci2020:Myanmar"", ""gci2024:Myanmar"", ""ncsi:Myanmar"", ""wb:MM""]",1
+MN,MNG,Mongolia,MNG,1,"[""ctftime:MN"", ""ctftime_panel:MN"", ""gci2017:Mongolia"", ""gci2020:Mongolia"", ""gci2024:Mongolia"", ""ncsi:Mongolia"", ""wb:MN""]",1
+MO,MAC,Macao,MAC,0,"[""wb:MO""]",1
+MP,MNP,Northern Mariana Islands,MNP,1,"[""ctftime:MP"", ""ctftime_panel:MP"", ""wb:MP""]",1
+MQ,MTQ,Martinique,MTQ,1,"[""wb:MQ""]",1
+MR,MRT,Mauritania,MRT,1,"[""ctftime:MR"", ""ctftime_panel:MR"", ""gci2017:Mauritania"", ""gci2020:Mauritania"", ""gci2024:Mauritania"", ""ncsi:Mauritania"", ""wb:MR""]",1
+MS,MSR,Montserrat,MSR,1,"[""wb:MS""]",1
+MT,MLT,Malta,MLT,1,"[""gci2017:Malta"", ""gci2020:Malta"", ""gci2024:Malta"", ""ncsi:Malta"", ""wb:MT""]",1
+MU,MUS,Mauritius,MUS,1,"[""gci2017:Mauritius"", ""gci2020:Mauritius"", ""gci2024:Mauritius"", ""ncsi:Mauritius""]",1
+MV,MDV,Maldives,MDV,1,"[""ctftime:MV"", ""ctftime_panel:MV"", ""gci2017:Maldives"", ""gci2024:Maldives"", ""ncsi:Maldives"", ""wb:MV""]",1
+MW,MWI,Malawi,MWI,1,"[""gci2017:Malawi"", ""gci2020:Malawi"", ""gci2024:Malawi""]",1
+MX,MEX,Mexico,MEX,1,"[""ctftime:MX"", ""ctftime_panel:MX"", ""gci2017:Mexico"", ""gci2020:Mexico"", ""gci2024:Mexico"", ""ncsi:Mexico"", ""wb:MX""]",1
+MY,MYS,Malaysia,MYS,1,"[""ctftime:MY"", ""ctftime_panel:MY"", ""gci2017:Malaysia"", ""gci2020:Malaysia"", ""gci2024:Malaysia"", ""ncsi:Malaysia"", ""wb:MY""]",1
+MZ,MOZ,Mozambique,MOZ,1,"[""gci2017:Mozambique"", ""gci2020:Mozambique"", ""gci2024:Mozambique"", ""ncsi:Mozambique"", ""wb:MZ""]",1
+NA,NAM,Namibia,NAM,1,"[""ctftime:NA"", ""ctftime_panel:NA"", ""gci2017:Namibia"", ""gci2020:Namibia"", ""gci2024:Namibia"", ""wb:NA""]",1
+NC,NCL,New Caledonia,NCL,1,"[""wb:NC""]",1
+NE,NER,Niger,NER,1,"[""gci2017:Niger"", ""gci2020:Niger"", ""gci2024:Niger"", ""wb:NE""]",1
+NF,NFK,Norfolk Island,NFK,1,"[""ctftime:NF"", ""ctftime_panel:NF"", ""wb:NF""]",1
+NG,NGA,Nigeria,NGA,1,"[""ctftime:NG"", ""ctftime_panel:NG"", ""gci2017:Nigeria"", ""gci2020:Nigeria"", ""gci2024:Nigeria"", ""ncsi:Nigeria"", ""wb:NG""]",1
+NI,NIC,Nicaragua,NIC,1,"[""gci2017:Nicaragua"", ""gci2020:Nicaragua"", ""gci2024:Nicaragua"", ""ncsi:Nicaragua"", ""wb:NI""]",1
+NL,NLD,Netherlands,NLD,1,"[""ctftime:NL"", ""ctftime_panel:NL"", ""gci2017:Netherlands"", ""gci2024:Netherlands (Kingdom of the)"", ""ncsi:Netherlands"", ""wb:NL""]",1
+NO,NOR,Norway,NOR,1,"[""ctftime:NO"", ""ctftime_panel:NO"", ""gci2017:Norway"", ""gci2024:Norway"", ""ncsi:Norway"", ""wb:NO""]",1
+NP,NPL,Nepal,NPL,1,"[""ctftime:NP"", ""ctftime_panel:NP"", ""gci2017:Nepal"", ""gci2020:Nepal (Republic of)"", ""gci2024:Nepal (Republic of)"", ""wb:NP""]",1
+NR,NRU,Nauru,NRU,1,"[""gci2017:Nauru"", ""gci2024:Nauru"", ""ncsi:Nauru""]",1
+NU,NIU,Niue,NIU,1,"[""wb:NU""]",1
+NZ,NZL,New Zealand,NZL,1,"[""ctftime:NZ"", ""ctftime_panel:NZ"", ""gci2017:New Zealand"", ""gci2024:New Zealand"", ""ncsi:New Zealand"", ""wb:NZ""]",1
+OM,OMN,Oman,OMN,1,"[""ctftime:OM"", ""ctftime_panel:OM"", ""gci2017:Oman"", ""gci2020:Oman"", ""gci2024:Oman"", ""ncsi:Oman"", ""wb:OM""]",1
+PA,PAN,Panama,PAN,1,"[""gci2017:Panama"", ""gci2020:Panama"", ""gci2024:Panama"", ""ncsi:Panama"", ""wb:PA""]",1
+PE,PER,Peru,PER,1,"[""ctftime:PE"", ""gci2017:Peru"", ""gci2020:Peru"", ""gci2024:Peru"", ""ncsi:Peru"", ""wb:PE""]",1
+PF,PYF,French Polynesia,PYF,1,"[""ctftime:PF"", ""wb:PF""]",1
+PG,PNG,Papua New Guinea,PNG,1,"[""ctftime:PG"", ""ctftime_panel:PG"", ""gci2017:Papua New Guinea"", ""gci2024:Papua New Guinea"", ""wb:PG""]",1
+PH,PHL,Philippines,PHL,1,"[""ctftime:PH"", ""ctftime_panel:PH"", ""gci2017:Philippines"", ""gci2020:Philippines"", ""gci2024:Philippines"", ""ncsi:Philippines"", ""wb:PH""]",1
+PK,PAK,Pakistan,PAK,1,"[""ctftime:PK"", ""ctftime_panel:PK"", ""gci2017:Pakistan"", ""gci2020:Pakistan"", ""gci2024:Pakistan"", ""ncsi:Pakistan"", ""wb:PK""]",1
+PL,POL,Poland,POL,1,"[""ctftime:PL"", ""ctftime_panel:PL"", ""gci2017:Poland"", ""gci2020:Poland"", ""gci2024:Poland"", ""ncsi:Poland"", ""wb:PL""]",1
+PN,PCN,Pitcairn,PCN,1,"[""ctftime:PN"", ""ctftime_panel:PN"", ""wb:PN""]",1
+PR,PRI,Puerto Rico,PRI,1,"[""ctftime:PR"", ""ctftime_panel:PR"", ""wb:PR""]",1
+PS,PSE,"Palestine, State of",PSE,0,"[""ctftime:PS"", ""ctftime_panel:PS"", ""gci2017:State of Palestine"", ""gci2024:State of Palestine"", ""wb:PS""]",1
+PT,PRT,Portugal,PRT,1,"[""ctftime:PT"", ""ctftime_panel:PT"", ""gci2017:Portugal"", ""gci2020:Portugal"", ""gci2024:Portugal"", ""ncsi:Portugal"", ""wb:PT""]",1
+PW,PLW,Palau,PLW,1,"[""gci2017:Palau"", ""ncsi:Palau""]",1
+PY,PRY,Paraguay,PRY,1,"[""gci2017:Paraguay"", ""gci2020:Paraguay"", ""gci2024:Paraguay"", ""wb:PY""]",1
+QA,QAT,Qatar,QAT,1,"[""ctftime:QA"", ""ctftime_panel:QA"", ""gci2017:Qatar"", ""gci2020:Qatar"", ""gci2024:Qatar"", ""ncsi:Qatar"", ""wb:QA""]",1
+RE,REU,Réunion,REU,1,"[""ctftime:RE"", ""wb:RE""]",1
+RO,ROU,Romania,ROU,1,"[""ctftime:RO"", ""ctftime_panel:RO"", ""gci2017:Romania"", ""gci2020:Romania"", ""gci2024:Romania"", ""ncsi:Romania"", ""wb:RO""]",1
+RS,SRB,Serbia,SRB,1,"[""ctftime:RS"", ""ctftime_panel:RS"", ""gci2017:Serbia"", ""gci2020:Serbia"", ""gci2024:Serbia"", ""ncsi:Serbia"", ""wb:RS""]",1
+RU,RUS,Russian Federation,RUS,1,"[""ctftime:RU"", ""ctftime_panel:RU"", ""gci2017:Russian Federation"", ""gci2020:Russian Federation"", ""gci2024:Russian Federation"", ""wb:RU""]",1
+RW,RWA,Rwanda,RWA,1,"[""gci2017:Rwanda"", ""gci2020:Rwanda"", ""gci2024:Rwanda"", ""ncsi:Rwanda"", ""wb:RW""]",1
+SA,SAU,Saudi Arabia,SAU,1,"[""ctftime:SA"", ""ctftime_panel:SA"", ""gci2017:Saudi Arabia"", ""gci2020:Saudi Arabia"", ""gci2024:Saudi Arabia"", ""ncsi:Saudi Arabia"", ""wb:SA""]",1
+SB,SLB,Solomon Islands,SLB,1,"[""gci2017:Solomon Islands"", ""gci2020:Solomon Islands"", ""gci2024:Solomon Islands"", ""ncsi:Solomon Islands"", ""wb:SB""]",1
+SC,SYC,Seychelles,SYC,1,"[""gci2017:Seychelles"", ""gci2024:Seychelles"", ""ncsi:Seychelles"", ""wb:SC""]",1
+SD,SDN,Sudan,SDN,1,"[""ctftime:SD"", ""ctftime_panel:SD"", ""gci2017:Sudan"", ""gci2020:Sudan"", ""gci2024:Sudan"", ""wb:SD""]",1
+SE,SWE,Sweden,SWE,1,"[""ctftime:SE"", ""ctftime_panel:SE"", ""gci2017:Sweden"", ""gci2020:Sweden"", ""gci2024:Sweden"", ""ncsi:Sweden"", ""wb:SE""]",1
+SG,SGP,Singapore,SGP,1,"[""ctftime:SG"", ""ctftime_panel:SG"", ""gci2017:Singapore"", ""gci2020:Singapore"", ""gci2024:Singapore"", ""ncsi:Singapore"", ""wb:SG""]",1
+SI,SVN,Slovenia,SVN,1,"[""gci2017:Slovenia"", ""gci2020:Slovenia"", ""gci2024:Slovenia"", ""ncsi:Slovenia"", ""wb:SI""]",1
+SJ,SJM,Svalbard and Jan Mayen,SJM,1,"[""wb:SJ""]",1
+SK,SVK,Slovakia,SVK,1,"[""ctftime:SK"", ""ctftime_panel:SK"", ""gci2017:Slovakia"", ""gci2020:Slovakia"", ""gci2024:Slovakia"", ""ncsi:Slovakia"", ""wb:SK""]",1
+SL,SLE,Sierra Leone,SLE,1,"[""gci2017:Sierra Leone"", ""gci2020:Sierra Leone"", ""gci2024:Sierra Leone"", ""ncsi:Sierra Leone"", ""wb:SL""]",1
+SM,SMR,San Marino,SMR,1,"[""gci2017:San Marino"", ""gci2020:San Marino"", ""gci2024:San Marino"", ""wb:SM""]",1
+SN,SEN,Senegal,SEN,1,"[""gci2017:Senegal"", ""gci2020:Senegal"", ""gci2024:Senegal"", ""ncsi:Senegal"", ""wb:SN""]",1
+SO,SOM,Somalia,SOM,1,"[""gci2017:Somalia"", ""gci2020:Somalia"", ""gci2024:Somalia"", ""wb:SO""]",1
+SR,SUR,Suriname,SUR,1,"[""gci2017:Suriname"", ""gci2020:Suriname"", ""gci2024:Suriname"", ""ncsi:Suriname""]",1
+SS,SSD,South Sudan,SSD,1,"[""gci2017:South Sudan"", ""gci2024:South Sudan"", ""wb:SS""]",1
+ST,STP,Sao Tome and Principe,STP,1,"[""gci2017:Sao Tome and Principe"", ""gci2020:Sao Tome and Principe"", ""gci2024:Sao Tome and Principe""]",1
+SV,SLV,El Salvador,SLV,1,"[""gci2017:El Salvador"", ""gci2024:El Salvador"", ""wb:SV""]",1
+SY,SYR,Syria,SYR,1,"[""ctftime:SY"", ""ctftime_panel:SY"", ""gci2017:Syrian Arab Republic"", ""gci2024:Syrian Arab Republic"", ""wb:SY""]",1
+SZ,SWZ,Eswatini,SWZ,1,"[""gci2017:Swaziland"", ""gci2020:Eswatini"", ""gci2024:Eswatini"", ""ncsi:Eswatini"", ""wb:SZ""]",1
+TD,TCD,Chad,TCD,1,"[""gci2017:Chad"", ""gci2020:Chad"", ""gci2024:Chad"", ""ncsi:Chad"", ""wb:TD""]",1
+TF,ATF,French Southern Territories,ATF,1,"[""wb:TF""]",1
+TG,TGO,Togo,TGO,1,"[""ctftime:TG"", ""ctftime_panel:TG"", ""gci2017:Togo"", ""gci2020:Togo"", ""gci2024:Togo"", ""ncsi:Togo"", ""wb:TG""]",1
+TH,THA,Thailand,THA,1,"[""ctftime:TH"", ""ctftime_panel:TH"", ""gci2017:Thailand"", ""gci2020:Thailand"", ""gci2024:Thailand"", ""wb:TH""]",1
+TJ,TJK,Tajikistan,TJK,1,"[""ctftime:TJ"", ""ctftime_panel:TJ"", ""gci2017:Tajikistan"", ""gci2024:Tajikistan"", ""ncsi:Tajikistan"", ""wb:TJ""]",1
+TL,TLS,Timor-Leste,TLS,1,"[""gci2017:Timor-Leste"", ""gci2024:Timor-Leste""]",1
+TM,TKM,Turkmenistan,TKM,1,"[""ctftime:TM"", ""ctftime_panel:TM"", ""gci2017:Turkmenistan"", ""gci2024:Turkmenistan"", ""ncsi:Turkmenistan"", ""wb:TM""]",1
+TN,TUN,Tunisia,TUN,1,"[""ctftime:TN"", ""ctftime_panel:TN"", ""gci2017:Tunisia"", ""gci2020:Tunisia"", ""gci2024:Tunisia"", ""ncsi:Tunisia"", ""wb:TN""]",1
+TO,TON,Tonga,TON,1,"[""gci2017:Tonga"", ""gci2024:Tonga"", ""ncsi:Tonga""]",1
+TR,TUR,Türkiye,TUR,1,"[""ctftime:TR"", ""ctftime_panel:TR"", ""gci2017:Turkey"", ""gci2020:Turkey"", ""gci2024:Türkiye"", ""ncsi:Türkiye"", ""wb:TR""]",1
+TT,TTO,Trinidad and Tobago,TTO,1,"[""gci2017:Trinidad and Tobago"", ""gci2020:Trinidad and Tobago"", ""gci2024:Trinidad and Tobago"", ""ncsi:Trinidad and Tobago"", ""wb:TT""]",1
+TV,TUV,Tuvalu,TUV,1,"[""gci2017:Tuvalu"", ""gci2024:Tuvalu""]",1
+TW,TWN,Taiwan,TWN,0,"[""ctftime:TW"", ""ctftime_panel:TW"", ""wb:TW""]",1
+TZ,TZA,Tanzania,TZA,1,"[""ctftime:TZ"", ""ctftime_panel:TZ"", ""gci2017:Tanzania"", ""gci2020:Tanzania"", ""gci2024:Tanzania"", ""ncsi:Tanzania, United Republic of"", ""wb:TZ""]",1
+UA,UKR,Ukraine,UKR,1,"[""ctftime:UA"", ""ctftime_panel:UA"", ""gci2017:Ukraine"", ""gci2020:Ukraine"", ""gci2024:Ukraine"", ""ncsi:Ukraine"", ""wb:UA""]",1
+UG,UGA,Uganda,UGA,1,"[""ctftime:UG"", ""ctftime_panel:UG"", ""gci2017:Uganda"", ""gci2020:Uganda"", ""gci2024:Uganda"", ""ncsi:Uganda"", ""wb:UG""]",1
+UM,UMI,United States Minor Outlying Islands,UMI,1,"[""ctftime:UM"", ""wb:UM""]",1
+US,USA,United States,USA,1,"[""ctftime:US"", ""ctftime_panel:US"", ""gci2017:United States of America"", ""gci2020:United States of America"", ""gci2024:United States"", ""ncsi:United States"", ""wb:US""]",1
+UY,URY,Uruguay,URY,1,"[""ctftime:UY"", ""ctftime_panel:UY"", ""gci2017:Uruguay"", ""gci2020:Uruguay"", ""gci2024:Uruguay"", ""ncsi:Uruguay"", ""wb:UY""]",1
+UZ,UZB,Uzbekistan,UZB,1,"[""ctftime:UZ"", ""ctftime_panel:UZ"", ""gci2017:Uzbekistan"", ""gci2020:Uzbekistan"", ""gci2024:Uzbekistan"", ""ncsi:Uzbekistan"", ""wb:UZ""]",1
+VA,VAT,Holy See (Vatican City State),VAT,1,"[""ctftime:VA"", ""ctftime_panel:VA"", ""gci2017:Vatican"", ""gci2024:Vatican"", ""ncsi:Vatican City"", ""wb:VA""]",1
+VC,VCT,Saint Vincent and the Grenadines,VCT,1,"[""gci2017:Saint Vincent and the Grenadines"", ""gci2024:Saint Vincent and"", ""gci2024:the Grenadines"", ""wb:VC""]",1
+VE,VEN,Venezuela,VEN,1,"[""gci2017:Venezuela"", ""gci2020:Venezuela"", ""gci2024:Venezuela"", ""ncsi:Venezuela"", ""wb:VE""]",1
+VG,VGB,"Virgin Islands, British",VGB,1,"[""wb:VG""]",1
+VI,VIR,"Virgin Islands, U.S.",VIR,1,"[""wb:VI""]",1
+VN,VNM,Vietnam,VNM,1,"[""ctftime:VN"", ""ctftime_panel:VN"", ""gci2017:Viet Nam"", ""gci2020:Viet Nam"", ""gci2024:Viet Nam"", ""wb:VN""]",1
+VU,VUT,Vanuatu,VUT,1,"[""gci2017:Vanuatu"", ""gci2020:Vanuatu"", ""gci2024:Vanuatu"", ""ncsi:Vanuatu"", ""wb:VU""]",1
+WF,WLF,Wallis and Futuna,WLF,1,"[""ctftime:WF"", ""ctftime_panel:WF"", ""wb:WF""]",1
+WS,WSM,Samoa,WSM,1,"[""gci2017:Samoa"", ""gci2020:Samoa"", ""gci2024:Samoa"", ""ncsi:Samoa"", ""wb:WS""]",1
+XK,XKX,Kosovo,XKX,0,"[""ncsi:Kosovo""]",1
+YE,YEM,Yemen,YEM,1,"[""gci2017:Yemen"", ""gci2024:Yemen"", ""wb:YE""]",1
+ZA,ZAF,South Africa,ZAF,1,"[""ctftime:ZA"", ""ctftime_panel:ZA"", ""gci2017:South Africa"", ""gci2024:South Africa"", ""ncsi:South Africa"", ""wb:ZA""]",1
+ZM,ZMB,Zambia,ZMB,1,"[""gci2017:Zambia"", ""gci2020:Zambia"", ""gci2024:Zambia"", ""wb:ZM""]",1
+ZW,ZWE,Zimbabwe,ZWE,1,"[""gci2017:Zimbabwe"", ""gci2020:Zimbabwe"", ""gci2024:Zimbabwe"", ""ncsi:Zimbabwe"", ""wb:ZW""]",1

@@ -1,0 +1,8 @@
+id,tier,name,status,value,threshold,note
+G1,hard,/results/ ↔ /stats/ annual ranking agreement,SKIP,—,≥98%,Awaiting /stats/{year}/ parser fix (deferred from round 7).
+G2,hard,event_tasks task-ID coverage vs writeup index,PEND,event_tasks fetched: 0,≥95%,HTML chain still in events stage; event_tasks not yet collected.
+G3,hard,writeup plain-text usable rate,PASS,197/200 = 98.5%,≥80%,"flagged short(<200ch): 0; flagged non-EN: 3; non-EN samples: [('40687.html', 0.8003322259136213, 0.04905660377358491, 3010), ('40705.html', 0.5825112107623318, 0.03888888888888889, 4460), ('40756.html', 0.673974540311174, 0.05982905982905983, 1414)]"
+G4,hard,English-detection false-positive rate (manual),PEND,queue 30 random writeups for manual review,<5% FP,Manual review queue should be added in next iteration.
+G5,scope,tier-2 academic evidence yield,SCOPE-DOWNGRADE,4/50 = 8.0%,≥30%,"sample yes: ['academic-1679.html', 'academic-22109.html', 'academic-25932.html']; below threshold means tier-2/3 evidence NOT used as model features (per Codex round 5)."
+G6,hard,country mismatch / migration ambiguity rate,PASS,"mismatch 0/100 = 0.0% (ambiguous 41, matched 59)",<10%,sample mismatches: []
+G7,scope,historical /event/{id}/weight populated rate,SCOPE-OMIT,19/90 = 21.1%; mean votes/populated event ≈ 17.9,≥60% main / 30-60% appendix / <30% omit,"empty samples: ['2012-10-weight.html', '2012-11-weight.html', '2012-14-weight.html', '2012-16-weight.html', '2012-17-weight.html']; votes parsed via JS-array regex (`data.addRows([['user',w],…])`)"
